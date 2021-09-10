@@ -141,7 +141,16 @@
   },
   {
     "ModuleName": "PCPage/clientcommand",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T09:58:51.9085064+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\clientcommand.json"
+    ]
   },
   {
     "ModuleName": "PCPage/servercommand",
