@@ -137,48 +137,11 @@
   },
   {
     "ModuleName": "Upload",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T17:06:32.2415684+08:00",
-    "ModuleType": 26,
-    "ToRemoveFiles": []
+    "ModuleType": 26
   },
   {
     "ModuleName": "Table/aaa",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T17:06:32.2415684+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\aaa.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "PCPage/aaa_详情页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T17:05:52.3466333+08:00",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "PCPage/aaa_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T17:05:52.3466333+08:00",
-    "ModuleType": 1
   }
 ]
