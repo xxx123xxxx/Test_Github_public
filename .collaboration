@@ -241,16 +241,7 @@
   },
   {
     "ModuleName": "TableView/视图1",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:54:27.6105052+08:00",
-    "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\dameng\\视图1.json"
-    ]
+    "ModuleType": 23
   },
   {
     "ModuleName": "Tables/nancy",
