@@ -150,7 +150,16 @@
   },
   {
     "ModuleName": "TableView/View_订单进度汇总",
-    "ModuleType": 23
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T15:34:13.9542715+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\View_订单进度汇总.json"
+    ]
   },
   {
     "ModuleName": "Table/表1",
