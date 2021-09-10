@@ -1,2 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ShareCommand />
+<ShareCommand>
+  <Item class="Forguncy.Model.ShareCommandContainer" assembly="ServerDesignerCommon">
+    <Commands>
+      <Item class="Forguncy.Model.ShowPopupCommand" assembly="ServerDesignerCommon">
+        <PageName>页面1</PageName>
+      </Item>
+    </Commands>
+    <ID>f2901cf4-5857-4fa2-b4d3-8630e0fa7974</ID>
+    <Name>模板命令1</Name>
+  </Item>
+</ShareCommand>
