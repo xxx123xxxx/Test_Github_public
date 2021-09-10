@@ -468,22 +468,10 @@
   },
   {
     "ModuleName": "PCPage/test_textlength_详情页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:46:59.1773407+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/test_textlength_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:46:59.1773407+08:00",
     "ModuleType": 1
   },
   {
