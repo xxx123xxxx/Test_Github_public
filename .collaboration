@@ -133,7 +133,16 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "ModuleType": 25
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T12:23:04.0199853+08:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet"
+    ]
   },
   {
     "ModuleName": "Upload",
@@ -246,7 +255,16 @@
   },
   {
     "ModuleName": "Table/aaa",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T12:23:04.0199853+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\dameng\\aaa.json"
+    ]
   },
   {
     "ModuleName": "Tables/nancy",
@@ -262,7 +280,16 @@
   },
   {
     "ModuleName": "Table/表2",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T12:23:04.0199853+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\文件夹1\\表2.json"
+    ]
   },
   {
     "ModuleName": "Tables/Branty/postgresSQL",
@@ -270,6 +297,15 @@
   },
   {
     "ModuleName": "TableView/view",
-    "ModuleType": 23
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T12:23:04.0199853+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\view.json"
+    ]
   }
 ]
