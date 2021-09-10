@@ -153,7 +153,16 @@
   },
   {
     "ModuleName": "Table/test_textlength",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T12:20:55.978602+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\Branty\\postgresSQL\\test_textlength.json"
+    ]
   },
   {
     "ModuleName": "Tables/Branty",
