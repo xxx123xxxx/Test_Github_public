@@ -318,19 +318,6 @@
     "ModuleType": 7
   },
   {
-    "ModuleName": "Table/Auto_ID",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:27:21.0775056+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\sqlserver\\Auto_ID.json"
-    ]
-  },
-  {
     "ModuleName": "Tables/Branty/sqlserver",
     "ModuleType": 22
   },
