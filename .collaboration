@@ -153,16 +153,7 @@
   },
   {
     "ModuleName": "Table/test_textlength",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:05:09.2631245+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\test_textlength.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/Branty",
@@ -170,16 +161,7 @@
   },
   {
     "ModuleName": "Table/createindesigner_textlength",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:05:09.2631245+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\createindesigner_textlength.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/Auto_ID",
@@ -279,12 +261,6 @@
   },
   {
     "ModuleName": "Tables/Branty/postgresSQL",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:05:00.3618958+08:00",
     "ModuleType": 22
   }
 ]
