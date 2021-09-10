@@ -231,7 +231,16 @@
   },
   {
     "ModuleName": "ServerCommand/sendmail_fixvalue",
-    "ModuleType": 15
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T15:47:49.1669472+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\Nancy\\sendmail_fixvalue.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/sendmail_fixvalue1",
