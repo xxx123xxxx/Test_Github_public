@@ -342,5 +342,25 @@
   {
     "ModuleName": "PCPage/TextLength_列表页面",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/表2_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T15:52:37.0148843+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/表2_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T15:52:37.0148843+08:00",
+    "ModuleType": 1
   }
 ]
