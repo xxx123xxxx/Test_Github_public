@@ -155,7 +155,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T17:57:06.6014959+08:00",
+    "LockDateTime": "2021-09-10T17:58:18.8968348+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\aaa.json",
@@ -170,7 +170,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T17:57:06.6014959+08:00",
+    "LockDateTime": "2021-09-10T17:58:18.8968348+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -191,7 +191,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T17:57:06.6014959+08:00",
+    "LockDateTime": "2021-09-10T17:58:18.8968348+08:00",
     "ModuleType": 23,
     "ExclusiveType": 0
   },
@@ -202,7 +202,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T17:57:06.6014959+08:00",
+    "LockDateTime": "2021-09-10T17:58:18.8968348+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -235,5 +235,16 @@
     },
     "LockDateTime": "2021-09-10T17:57:36.3800486+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "TableView/表3_工作流历史视图",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T17:58:18.8968348+08:00",
+    "ModuleType": 23,
+    "ExclusiveType": 0
   }
 ]
