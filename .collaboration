@@ -222,22 +222,62 @@
   },
   {
     "ModuleName": "Table/buildintabletest",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:29:20.1643753+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\buildintabletest.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/buildtable",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:29:20.1643753+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\buildtable.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:29:20.1643753+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\表1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表1_子表",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:29:20.1643753+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\表1_子表.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -320,7 +360,17 @@
   },
   {
     "ModuleName": "Table/TextLength",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:29:20.1603753+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\Branty\\sqlserver\\TextLength.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
@@ -382,5 +432,16 @@
     },
     "LockDateTime": "2021-09-10T16:28:47.1033753+08:00",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/表3",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:29:20.1603753+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
