@@ -138,25 +138,5 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
-  },
-  {
-    "ModuleName": "ServerCommand/服务端命令_引用",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:28:12.8017391+08:00",
-    "ModuleType": 15
-  },
-  {
-    "ModuleName": "ServerCommands/导入文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:28:12.8017391+08:00",
-    "ModuleType": 20
   }
 ]
