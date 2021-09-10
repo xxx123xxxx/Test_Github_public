@@ -375,25 +375,5 @@
   {
     "ModuleName": "PCPage/ADSecurityProvider",
     "ModuleType": 1
-  },
-  {
-    "ModuleName": "PCPage/createindesigner_textlength_详情页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T17:31:39.444191+08:00",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "PCPage/createindesigner_textlength_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T17:31:39.444191+08:00",
-    "ModuleType": 1
   }
 ]
