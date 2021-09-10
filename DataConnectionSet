@@ -1,2 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<DataConnectionSet />
+<DataConnectionSet>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
+    <ConnectionString>server=xa-dd3-fgcp13d8;user=sysdba;password=xA20200326;schema=#</ConnectionString>
+    <DataBaseType>DaMeng</DataBaseType>
+    <EConnectionString>qbtiAtkiG0FIlchDnOuWHJ0Z3LhI0c9zLQp/yYhU0Xk8aED/b3QYWErBv/00/BGjUiAVPFmHmnYsqyn/fAvQ3w==</EConnectionString>
+    <ID>19a02b03-4aa2-43f7-be8e-0e15070b460b</ID>
+  </Item>
+</DataConnectionSet>
