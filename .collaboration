@@ -142,16 +142,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:29:48.5923753+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -204,62 +195,22 @@
   },
   {
     "ModuleName": "Table/buildintabletest",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:29:20.1643753+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildintabletest.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/buildtable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:29:20.1643753+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildtable.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:29:20.1643753+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\表1.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表1_子表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:29:20.1643753+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\表1_子表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -342,17 +293,7 @@
   },
   {
     "ModuleName": "Table/TextLength",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:29:20.1603753+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\sqlserver\\TextLength.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -387,73 +328,31 @@
   },
   {
     "ModuleName": "Pages/zoey",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:26:33.9003753+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/testt",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:47:25.6582236+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Tables/zoey",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:28:47.1033753+08:00",
     "ModuleType": 22
   },
   {
     "ModuleName": "Table/表3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:29:20.1603753+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表4",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:29:48.5923753+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "PCPage/表4_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:54:53.7150248+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "ServerCommands/zoey",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:46:30.1716755+08:00",
     "ModuleType": 20
   },
   {
@@ -475,12 +374,6 @@
   },
   {
     "ModuleName": "ServerCommand/服务端命令2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:47:04.5081088+08:00",
     "ModuleType": 15
   }
 ]
