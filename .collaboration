@@ -117,7 +117,16 @@
   },
   {
     "ModuleName": "UserService",
-    "ModuleType": 11
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T15:21:49.6124076+08:00",
+    "ModuleType": 11,
+    "ToRemoveFiles": [
+      "UserServiceDB.sqlite3"
+    ]
   },
   {
     "ModuleName": "CustomLibrary",
