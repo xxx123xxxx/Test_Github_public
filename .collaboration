@@ -314,12 +314,12 @@
   },
   {
     "ModuleName": "Table/TextLength",
-    "State": 1,
+    "State": 4,
     "LockedBy": {
       "UserName": "GRAPECITY\\BrantyYan",
       "Email": "Branty.Yan@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T15:25:25.8123853+08:00",
+    "LockDateTime": "2021-09-10T15:25:33.8040911+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\Branty\\内建表\\TextLength.json",
