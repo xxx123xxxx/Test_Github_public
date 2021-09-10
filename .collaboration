@@ -165,6 +165,13 @@
   },
   {
     "ModuleName": "Upload",
-    "ModuleType": 26
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:54:56.3862109+08:00",
+    "ModuleType": 26,
+    "ToRemoveFiles": []
   }
 ]
