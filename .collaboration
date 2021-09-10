@@ -113,17 +113,7 @@
   },
   {
     "ModuleName": "ImageSelector",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:25:15.6640843+08:00",
-    "ModuleType": 10,
-    "ToRemoveFiles": [
-      "image\\fgc_logo_dark.png",
-      "image\\fgc_logo_light.png"
-    ]
+    "ModuleType": 10
   },
   {
     "ModuleName": "UserService",
@@ -131,16 +121,7 @@
   },
   {
     "ModuleName": "CustomLibrary",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:19:45.423838+08:00",
-    "ModuleType": 12,
-    "ToRemoveFiles": [
-      "CustomLibraries"
-    ]
+    "ModuleType": 12
   },
   {
     "ModuleName": "ShareCommand",
@@ -181,16 +162,7 @@
   },
   {
     "ModuleName": "Table/test_textlength",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:23:25.8283265+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\postgresSQL\\test_textlength.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/Branty",
