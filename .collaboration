@@ -141,7 +141,16 @@
   },
   {
     "ModuleName": "PCPage/test_textlength_详情页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T12:16:46.3310375+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\test_textlength_详情页面.json"
+    ]
   },
   {
     "ModuleName": "Pages/Branty",
