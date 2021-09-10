@@ -155,7 +155,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T10:08:03.4342865+08:00",
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -237,6 +237,97 @@
       "Email": "cindy.wu@grapecity.com"
     },
     "LockDateTime": "2021-09-10T10:08:03.4342865+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/表2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/导入文件夹2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/ADoubleKey1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/AABBCC1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/aaa表43",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/aaaTestWorkflow1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/_35",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/_26",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/___沃尔沃二1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T10:11:14.9927858+08:00",
     "ModuleType": 7
   }
 ]
