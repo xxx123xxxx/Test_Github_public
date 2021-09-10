@@ -97,16 +97,7 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:56:30.0340792+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
@@ -118,34 +109,11 @@
   },
   {
     "ModuleName": "Theme",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:14:09.521635+08:00",
-    "ModuleType": 9,
-    "ToRemoveFiles": [
-      "Theme\\CellTypeStyles",
-      "Theme\\ListViewStyles",
-      "Theme\\StyleDefaultNames",
-      "Theme\\ThemeConfig",
-      "C:\\Users\\cindywu\\Documents\\ForguncyCollaboration\\Test_Github_public-cindy\\Reports\\DefaultTheme.rdlx-theme"
-    ]
+    "ModuleType": 9
   },
   {
     "ModuleName": "ImageSelector",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:13:28.5238432+08:00",
-    "ModuleType": 10,
-    "ToRemoveFiles": [
-      "image\\fgc_logo_dark.png",
-      "image\\fgc_logo_light.png"
-    ]
+    "ModuleType": 10
   },
   {
     "ModuleName": "UserService",
@@ -161,14 +129,7 @@
   },
   {
     "ModuleName": "MapJsonFile",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:23:08.3859109+08:00",
-    "ModuleType": 14,
-    "ToRemoveFiles": []
+    "ModuleType": 14
   },
   {
     "ModuleName": "DataContectionSet",
@@ -177,45 +138,5 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
-  },
-  {
-    "ModuleName": "PCPage/表1_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:09:15.1389664+08:00",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "Pages/导入文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:09:15.1389664+08:00",
-    "ModuleType": 6
-  },
-  {
-    "ModuleName": "PCPage/页面2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:18:23.9170225+08:00",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "Pages/导入文件夹2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:18:23.9170225+08:00",
-    "ModuleType": 6
   }
 ]
