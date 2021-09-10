@@ -158,47 +158,12 @@
     "ModuleType": 26
   },
   {
-    "ModuleName": "PCPage/test_textlength_详情页面",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:46:14.8116933+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\test_textlength_详情页面.json"
-    ]
-  },
-  {
     "ModuleName": "Pages/Branty",
     "ModuleType": 6
   },
   {
-    "ModuleName": "PCPage/test_textlength_列表页面",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:46:14.8116933+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\test_textlength_列表页面.json"
-    ]
-  },
-  {
     "ModuleName": "Table/test_textlength",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:45:15.9256018+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\postgresSQL\\test_textlength.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/Branty",
