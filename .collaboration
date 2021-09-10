@@ -127,7 +127,24 @@
   },
   {
     "ModuleName": "UserService",
-    "ModuleType": 11
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T17:33:01.9309853+08:00",
+    "ModuleType": 11,
+    "ToRemoveFiles": [
+      "UserServiceDB.sqlite3",
+      "SecurityProvider\\ADSecurityProvider.dll",
+      "SecurityProvider\\config.json",
+      "SecurityProvider\\DependenceVersion.json",
+      "SecurityProvider\\LICENSE.txt",
+      "SecurityProvider\\ja\\ADSecurityProvider.resources.dll",
+      "SecurityProvider\\ko-KR\\ADSecurityProvider.resources.dll",
+      "SecurityProvider\\zh-CN\\ADSecurityProvider.resources.dll",
+      "SecurityProviderDefaultSettings\\A5D9D2DF-14A9-40AB-905B-B14D4C35721C"
+    ]
   },
   {
     "ModuleName": "CustomLibrary",
