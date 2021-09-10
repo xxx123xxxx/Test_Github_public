@@ -141,16 +141,7 @@
   },
   {
     "ModuleName": "PCPage/test_textlength_详情页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:19:58.8265682+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\test_textlength_详情页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/Branty",
@@ -158,16 +149,7 @@
   },
   {
     "ModuleName": "PCPage/test_textlength_列表页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T12:19:44.3281957+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\test_textlength_列表页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Table/test_textlength",
