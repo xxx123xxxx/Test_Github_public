@@ -143,5 +143,25 @@
     "ModuleName": "Table/aaa",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "PCPage/aaa_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T17:05:52.3466333+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/aaa_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T17:05:52.3466333+08:00",
+    "ModuleType": 1
   }
 ]
