@@ -97,7 +97,16 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T15:51:07.6783804+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\文件夹1\\页面1.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
