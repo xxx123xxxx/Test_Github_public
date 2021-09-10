@@ -412,5 +412,15 @@
   {
     "ModuleName": "TableView/view",
     "ModuleType": 23
+  },
+  {
+    "ModuleName": "Tables/Branty/内建表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T12:28:15.3610429+08:00",
+    "ModuleType": 22
   }
 ]
