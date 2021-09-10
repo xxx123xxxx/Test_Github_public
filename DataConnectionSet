@@ -11,7 +11,7 @@
     <ID>e95b86d5-548e-4614-a0a2-ac6f0f8f93b7</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
-    <ConnectionString>server=xa-dd3-fgcp13d8;user=sysdba;password=xA20200326;schema=#</ConnectionString>
+    <ConnectionString>server=xa-dd3-fgcp13d8.grapecity.net;user=sysdba;password=xA20200326;schema=#</ConnectionString>
     <DataBaseType>DaMeng</DataBaseType>
     <ID>19a02b03-4aa2-43f7-be8e-0e15070b460b</ID>
   </Item>
