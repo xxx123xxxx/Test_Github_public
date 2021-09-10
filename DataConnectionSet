@@ -1,2 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<DataConnectionSet />
+<DataConnectionSet>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
+    <ConnectionString>Host=xa-dd3-fS17Ms57;Username=postgres;Password=xA20200326;Database=BrantyTest</ConnectionString>
+    <DataBaseType>PostgreSQL</DataBaseType>
+    <EConnectionString>EoBsBTS1fh122RH/Vz3WkORNitUIxdAUv3tj9YqYLIRfct8G3SKMGpVsL4iDf2oZU2aqJtLLD6snrY1mzMKvQbOUIfq1mpZDqUUnFl/h5VM=</EConnectionString>
+    <ID>16db38f1-f281-4f2c-901b-4563f91f2d33</ID>
+  </Item>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
+    <ConnectionString>Data Source=xa-dd3-fs12o11;Initial Catalog=branty_UserService;Persist Security Info=True;User ID=sa;Password=xA20200326</ConnectionString>
+    <DataBaseType>SqlServer</DataBaseType>
+    <EConnectionString>XADzK5H4Kmto4fwTLRskxqeCRfJnUy4i9//0t6IBJZLgGoDfvNq4XFAQTEGbNyI2iGAHDFQx3Sk9Gw5xB/jirBHFxeHpn474e07DdT3pUgGSE2ryy6A/PAH+6eD6cLyw/nYF7auWu6Gv5hz5B8PtLyjw6rlv363ex5Cl6L7z1uc=</EConnectionString>
+    <ID>e95b86d5-548e-4614-a0a2-ac6f0f8f93b7</ID>
+  </Item>
+</DataConnectionSet>
