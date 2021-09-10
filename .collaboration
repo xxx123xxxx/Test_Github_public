@@ -274,7 +274,16 @@
   },
   {
     "ModuleName": "Table/TextLength",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T15:28:31.6849263+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\Branty\\sqlserver\\TextLength.json"
+    ],
     "ExclusiveType": 0
   }
 ]
