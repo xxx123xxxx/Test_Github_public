@@ -173,5 +173,16 @@
     "LockDateTime": "2021-09-10T16:54:56.3862109+08:00",
     "ModuleType": 26,
     "ToRemoveFiles": []
+  },
+  {
+    "ModuleName": "Table/表1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T17:04:00.7715961+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
