@@ -1,0 +1,1 @@
+{"ExternalDatabaseInfo":{"SourceConnectString":"server=xa-dd3-fgcp13d8;user=sysdba;password=xA20200326;schema=#","SourceTableName":"视图1","SourceTableSchema":"","DataBaseType":8,"ViewInfo":{"QueryColumns":[]},"UserSetQueryColumns":[]},"Name":"view","Relations":[]}
