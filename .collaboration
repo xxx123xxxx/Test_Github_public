@@ -243,7 +243,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T10:05:36.7827627+08:00",
+    "LockDateTime": "2021-09-10T10:05:55.1707352+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -264,7 +264,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T10:05:36.7827627+08:00",
+    "LockDateTime": "2021-09-10T10:05:55.1707352+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -275,7 +275,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T10:05:36.7827627+08:00",
+    "LockDateTime": "2021-09-10T10:05:55.1707352+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -286,40 +286,9 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T10:05:36.7827627+08:00",
+    "LockDateTime": "2021-09-10T10:05:55.1707352+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/aaa",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T10:05:36.7827627+08:00",
-    "ModuleType": 7
-  },
-  {
-    "ModuleName": "Table/表2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T10:05:36.7827627+08:00",
-    "ModuleType": 7,
-    "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "Table/表5",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T10:05:36.7827627+08:00",
-    "ModuleType": 7
   },
   {
     "ModuleName": "ServerCommand/服务端命令1",
