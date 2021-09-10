@@ -149,29 +149,11 @@
   },
   {
     "ModuleName": "PCPage/test_textlength_列表页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:31:37.5982251+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\test_textlength_列表页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Table/test_textlength",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:27:26.5545535+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\postgresSQL\\test_textlength.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/Branty",
@@ -179,16 +161,7 @@
   },
   {
     "ModuleName": "Table/createindesigner_textlength",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T11:48:48.8973407+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\postgresSQL\\createindesigner_textlength.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/Auto_ID",
