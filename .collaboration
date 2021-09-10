@@ -121,7 +121,16 @@
   },
   {
     "ModuleName": "CustomLibrary",
-    "ModuleType": 12
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T11:19:51.9081232+08:00",
+    "ModuleType": 12,
+    "ToRemoveFiles": [
+      "CustomLibraries"
+    ]
   },
   {
     "ModuleName": "ShareCommand",
