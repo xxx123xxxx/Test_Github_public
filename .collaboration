@@ -483,5 +483,15 @@
     "LockDateTime": "2021-09-10T17:17:54.2645233+08:00",
     "ModuleType": 23,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "PCPage/ADSecurityProvider",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T17:18:36.4736926+08:00",
+    "ModuleType": 1
   }
 ]
