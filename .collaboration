@@ -118,7 +118,20 @@
   },
   {
     "ModuleName": "Theme",
-    "ModuleType": 9
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T11:57:03.4318417+08:00",
+    "ModuleType": 9,
+    "ToRemoveFiles": [
+      "Theme\\CellTypeStyles",
+      "Theme\\ListViewStyles",
+      "Theme\\StyleDefaultNames",
+      "Theme\\ThemeConfig",
+      "C:\\Users\\cindywu\\Documents\\ForguncyCollaboration\\Test_Github_public-cindy\\Reports\\DefaultTheme.rdlx-theme"
+    ]
   },
   {
     "ModuleName": "ImageSelector",
