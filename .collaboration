@@ -125,7 +125,16 @@
   },
   {
     "ModuleName": "ShareCommand",
-    "ModuleType": 13
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:26:58.2553056+08:00",
+    "ModuleType": 13,
+    "ToRemoveFiles": [
+      "ShareCommand"
+    ]
   },
   {
     "ModuleName": "MapJsonFile",
