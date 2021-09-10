@@ -117,16 +117,7 @@
   },
   {
     "ModuleName": "UserService",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T15:21:49.6124076+08:00",
-    "ModuleType": 11,
-    "ToRemoveFiles": [
-      "UserServiceDB.sqlite3"
-    ]
+    "ModuleType": 11
   },
   {
     "ModuleName": "CustomLibrary",
@@ -222,16 +213,7 @@
   },
   {
     "ModuleName": "ServerCommand/sendmail_fixvalue",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T15:47:49.1669472+08:00",
-    "ModuleType": 15,
-    "ToRemoveFiles": [
-      "ServerCommands\\Nancy\\sendmail_fixvalue.json"
-    ]
+    "ModuleType": 15
   },
   {
     "ModuleName": "ServerCommand/sendmail_fixvalue1",
@@ -267,16 +249,7 @@
   },
   {
     "ModuleName": "Table/表2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T15:55:56.7846282+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\文件夹1\\表2.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/Branty/postgresSQL",
@@ -305,32 +278,14 @@
   },
   {
     "ModuleName": "TableView/视图8",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:03:13.3287141+08:00",
     "ModuleType": 23
   },
   {
     "ModuleName": "PCPage/视图8_详情页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:04:10.9532741+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/视图8_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-10T16:04:10.9532741+08:00",
     "ModuleType": 1
   }
 ]
