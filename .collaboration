@@ -145,7 +145,16 @@
   },
   {
     "ModuleName": "PCPage/servercommand",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T09:58:16.5721779+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\servercommand.json"
+    ]
   },
   {
     "ModuleName": "PCPage/抄送密送",
@@ -198,5 +207,15 @@
   {
     "ModuleName": "ServerCommand/sendmail_fixvalue4",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "PCPage/servercommand1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T09:58:16.5721779+08:00",
+    "ModuleType": 1
   }
 ]
