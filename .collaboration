@@ -490,5 +490,15 @@
     },
     "LockDateTime": "2021-09-10T16:32:03.6213753+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "ServerCommands/zoey",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T16:46:30.1716755+08:00",
+    "ModuleType": 20
   }
 ]
