@@ -142,13 +142,23 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-10T17:14:57.3391178+08:00",
+    "LockDateTime": "2021-09-10T17:24:39.6663964+08:00",
     "ModuleType": 26,
     "ToRemoveFiles": []
   },
   {
     "ModuleName": "Table/aaa",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-10T17:24:39.6663964+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\aaa.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
