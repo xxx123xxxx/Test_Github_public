@@ -1,2 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<DataConnectionSet />
+<DataConnectionSet>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
+    <ConnectionString>Host=xa-dd3-fS17Ms57;Username=postgres;Password=xA20200326;Database=TestDB(可做普通测试使用)</ConnectionString>
+    <DataBaseType>PostgreSQL</DataBaseType>
+    <EConnectionString>+ULBx3TsVnXZ/nHzenvsGlVmByXVd4gjOyDH3ZhUHnVu5ocXp0dG4rbF8WjaVNeoviVYtcwMt0oLsbxKVIQkXa9tvk6cYwZGqn+dmnhwPTo8bg970T+8gFud2UVHY/YxbD/RR1XP0/IikF1Cd/Z/Rg==</EConnectionString>
+    <ID>e6e9d8ee-d4a4-43bb-a840-26fbbc5e0218</ID>
+  </Item>
+</DataConnectionSet>
