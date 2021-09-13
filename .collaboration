@@ -440,7 +440,16 @@
   },
   {
     "ModuleName": "Table/eee",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:40:52.5963782+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\eee.json"
+    ]
   },
   {
     "ModuleName": "Pages/Branty/postgresSQL",
@@ -451,5 +460,15 @@
     },
     "LockDateTime": "2021-09-13T14:40:46.9676856+08:00",
     "ModuleType": 6
+  },
+  {
+    "ModuleName": "Table/gg",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:40:52.5963782+08:00",
+    "ModuleType": 7
   }
 ]
