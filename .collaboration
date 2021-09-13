@@ -533,7 +533,16 @@
   },
   {
     "ModuleName": "Table/Students",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:07:52.8282593+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\Students.json"
+    ]
   },
   {
     "ModuleName": "Table/Auto_ID",
