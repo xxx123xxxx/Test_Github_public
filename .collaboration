@@ -453,7 +453,16 @@
   },
   {
     "ModuleName": "Table/bbb",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:01:07.5290132+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\bbb.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/服务端命令",
@@ -464,5 +473,15 @@
     },
     "LockDateTime": "2021-09-13T14:00:35.8481749+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "Table/aaa",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:01:07.5290132+08:00",
+    "ModuleType": 7
   }
 ]
