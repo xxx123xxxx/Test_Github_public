@@ -41,17 +41,7 @@
   },
   {
     "ModuleName": "ApplicationSetting",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
-    "ModuleType": 8,
-    "ToRemoveFiles": [
-      "ApplicationSettings",
-      "favicon.ico"
-    ]
+    "ModuleType": 8
   },
   {
     "ModuleName": "Theme",
@@ -63,28 +53,7 @@
   },
   {
     "ModuleName": "UserService",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:00:01.0126419+08:00",
-    "ModuleType": 11,
-    "ToRemoveFiles": [
-      "UserServiceDB.sqlite3",
-      "SecurityProvider\\fd32b78c-7f97-411b-b167-e31695207fd5_SAMLIdP-0sp5g000000oLpZ.xml",
-      "SecurityProvider\\LICENSE.txt",
-      "SecurityProvider\\Release\\BouncyCastle.Crypto.dll",
-      "SecurityProvider\\Release\\Config.json",
-      "SecurityProvider\\Release\\DependenceVersion.json",
-      "SecurityProvider\\Release\\GeneralSamlSecurityProvider.dll",
-      "SecurityProvider\\Release\\ja\\GeneralSamlSecurityProvider.resources.dll",
-      "SecurityProvider\\Release\\ja\\GrapeCity.Forguncy.SecurityProvider.resources.dll",
-      "SecurityProvider\\Release\\ko-KR\\GeneralSamlSecurityProvider.resources.dll",
-      "SecurityProvider\\Release\\ko-KR\\GrapeCity.Forguncy.SecurityProvider.resources.dll",
-      "SecurityProvider\\Release\\zh-CN\\GeneralSamlSecurityProvider.resources.dll",
-      "SecurityProvider\\Release\\zh-CN\\GrapeCity.Forguncy.SecurityProvider.resources.dll"
-    ]
+    "ModuleType": 11
   },
   {
     "ModuleName": "CustomLibrary",
@@ -360,16 +329,7 @@
   },
   {
     "ModuleName": "PCPage/SaleForce",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:42.3407784+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Nancy\\SaleForce.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/Cindy",
@@ -403,162 +363,66 @@
   },
   {
     "ModuleName": "PCPage/FGC_修改密码",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/FGC_修改密码_手机版",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 2
   },
   {
     "ModuleName": "PCPage/FGC_忘记密码",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/FGC_忘记密码_手机版",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 2
   },
   {
     "ModuleName": "PCPage/FGC_修改用户信息",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/FGC_修改用户信息_手机版",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 2
   },
   {
     "ModuleName": "PCPage/FGC_登录",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/FGC_登录_手机版",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 2
   },
   {
     "ModuleName": "PCPage/FGC_重置密码发送邮件成功",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/FGC_重置密码发送邮件成功_手机版",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 2
   },
   {
     "ModuleName": "PCPage/FGC_重置密码",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/FGC_重置密码_手机版",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 2
   },
   {
     "ModuleName": "PCPage/FGC_两步验证_扫码页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/FGC_两步验证_扫码页面_手机版",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 2
   },
   {
     "ModuleName": "PCPage/FGC_两步验证_验证页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MobilePage/FGC_两步验证_验证页面_手机版",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:58:22.8848695+08:00",
     "ModuleType": 2
   },
   {
