@@ -463,7 +463,16 @@
   },
   {
     "ModuleName": "ServerCommand/调用存储过程",
-    "ModuleType": 15
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T16:36:58.1017586+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\Branty\\调用存储过程.json"
+    ]
   },
   {
     "ModuleName": "Table/ccc",
