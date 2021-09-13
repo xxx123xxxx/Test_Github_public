@@ -476,7 +476,14 @@
   },
   {
     "ModuleName": "Table/ccc",
-    "ModuleType": 7
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:33:12.4817927+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "ServerCommand/查询多行数据",
@@ -684,15 +691,5 @@
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\bbb.json"
     ]
-  },
-  {
-    "ModuleName": "Table/aaa",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:32:44.6113562+08:00",
-    "ModuleType": 7
   }
 ]
