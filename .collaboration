@@ -476,12 +476,6 @@
   },
   {
     "ModuleName": "Table/hhh",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:33:29.6897204+08:00",
     "ModuleType": 7
   },
   {
@@ -677,18 +671,5 @@
   {
     "ModuleName": "Tables/nancy/externaltable/StatisticFormula",
     "ModuleType": 22
-  },
-  {
-    "ModuleName": "Table/bbb",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:32:44.6113562+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\bbb.json"
-    ]
   }
 ]
