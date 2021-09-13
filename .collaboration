@@ -435,7 +435,16 @@
   },
   {
     "ModuleName": "Table/sds",
-    "ModuleType": 7
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:02:07.0872929+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\sds.json"
+    ]
   },
   {
     "ModuleName": "Tables/nancy/externaltable",
