@@ -477,32 +477,14 @@
   },
   {
     "ModuleName": "Pages/Branty/DaMeng",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:57:51.7801402+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/TextLength_DaMeng_详情页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:58:02.5567483+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/TextLength_DaMeng_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:58:02.5567483+08:00",
     "ModuleType": 1
   },
   {
