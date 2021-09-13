@@ -600,5 +600,15 @@
     },
     "LockDateTime": "2021-09-13T11:44:51.3959971+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/导入csv1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:45:21.0444013+08:00",
+    "ModuleType": 15
   }
 ]
