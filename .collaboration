@@ -300,7 +300,16 @@
   },
   {
     "ModuleName": "Table/TextLength_内建表转换成外连",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:08:49.8094858+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\Branty\\postgresSQL\\TextLength_内建表转换成外连.json"
+    ],
     "ExclusiveType": 0
   },
   {
