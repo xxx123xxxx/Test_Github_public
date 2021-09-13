@@ -440,5 +440,15 @@
     },
     "LockDateTime": "2021-09-13T10:08:43.4090274+08:00",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "SchedulerTasks/Cindy",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T10:08:49.3784967+08:00",
+    "ModuleType": 21
   }
 ]
