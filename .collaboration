@@ -481,7 +481,16 @@
   },
   {
     "ModuleName": "PCPage/TextLength_DaMeng_详情页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:00:09.2989378+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\DaMeng\\TextLength_DaMeng_详情页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/TextLength_DaMeng_列表页面",
