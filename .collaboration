@@ -105,7 +105,7 @@
       "UserName": "GRAPECITY\\BrantyYan",
       "Email": "Branty.Yan@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T11:02:04.7008248+08:00",
+    "LockDateTime": "2021-09-13T11:02:15.9503221+08:00",
     "ModuleType": 25,
     "ToRemoveFiles": [
       "DataConnectionSet"
@@ -358,7 +358,16 @@
   },
   {
     "ModuleName": "Table/textLength",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:02:15.9503221+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\Branty\\Mysql\\textLength.json"
+    ]
   },
   {
     "ModuleName": "SchedulerTasks/Cindy",
