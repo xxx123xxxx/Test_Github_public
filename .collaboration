@@ -518,5 +518,15 @@
     },
     "LockDateTime": "2021-09-13T13:44:58.4108171+08:00",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "ServerCommand/查询多行数据",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T13:47:06.8036487+08:00",
+    "ModuleType": 15
   }
 ]
