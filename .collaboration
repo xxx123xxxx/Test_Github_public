@@ -249,7 +249,16 @@
   },
   {
     "ModuleName": "Table/表4",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:18:21.1685812+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\zoey\\表4.json"
+    ]
   },
   {
     "ModuleName": "PCPage/表4_列表页面",
