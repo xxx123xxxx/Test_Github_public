@@ -671,5 +671,15 @@
   {
     "ModuleName": "Tables/nancy/externaltable/StatisticFormula",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/表10",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:30:45.8497473+08:00",
+    "ModuleType": 7
   }
 ]
