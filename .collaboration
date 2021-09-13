@@ -501,5 +501,15 @@
   {
     "ModuleName": "Tables/Cindy",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "PageReport/报表1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:15:39.9506419+08:00",
+    "ModuleType": 17
   }
 ]
