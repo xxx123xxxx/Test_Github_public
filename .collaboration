@@ -442,5 +442,15 @@
     },
     "LockDateTime": "2021-09-13T14:49:39.4004275+08:00",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "Tables/Branty/sqlserverTable",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:53:34.8419676+08:00",
+    "ModuleType": 22
   }
 ]
