@@ -709,5 +709,25 @@
     "LockDateTime": "2021-09-13T15:15:28.6546792+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "PCPage/TextLength_内建表转外联_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:17:06.9420413+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/TextLength_内建表转外联_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:17:06.9420413+08:00",
+    "ModuleType": 1
   }
 ]
