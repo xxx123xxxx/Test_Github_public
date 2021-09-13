@@ -100,16 +100,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:02:15.9503221+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -279,16 +270,7 @@
   },
   {
     "ModuleName": "Table/表4",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:02:04.7008248+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\zoey\\表4.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "PCPage/表4_列表页面",
@@ -358,16 +340,7 @@
   },
   {
     "ModuleName": "Table/textLength",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:02:15.9503221+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\Mysql\\textLength.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "SchedulerTasks/Cindy",
@@ -590,12 +563,6 @@
   },
   {
     "ModuleName": "Table/FORGUNCY_5387",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T10:59:38.5877335+08:00",
     "ModuleType": 7
   }
 ]
