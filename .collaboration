@@ -170,7 +170,16 @@
   },
   {
     "ModuleName": "Table/aaa",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T13:56:18.1749847+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\dameng\\aaa.json"
+    ]
   },
   {
     "ModuleName": "Tables/nancy",
