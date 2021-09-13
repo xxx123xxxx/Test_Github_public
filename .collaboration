@@ -605,7 +605,16 @@
   },
   {
     "ModuleName": "TaskScheduler/服务端命令执行后执行",
-    "ModuleType": 16
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T12:26:28.7495923+08:00",
+    "ModuleType": 16,
+    "ToRemoveFiles": [
+      "SchedulerTasks\\Cindy\\服务端命令执行后执行.json"
+    ]
   },
   {
     "ModuleName": "PCPage/页面2",
