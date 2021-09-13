@@ -243,16 +243,7 @@
   },
   {
     "ModuleName": "PCPage/createindesigner_textlength_列表页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:39:49.0870171+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\createindesigner_textlength_列表页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Table/TextLength_内建表转换成外连",
@@ -429,29 +420,11 @@
   },
   {
     "ModuleName": "Table/aaa",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:39:17.7401002+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\aaa.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/表2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:39:39.2496545+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\表2.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "TableView/视图8",
