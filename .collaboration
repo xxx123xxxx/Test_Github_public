@@ -475,19 +475,6 @@
     ]
   },
   {
-    "ModuleName": "Table/hhh",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:38:08.5539671+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\hhh.json"
-    ]
-  },
-  {
     "ModuleName": "ServerCommand/查询多行数据",
     "ModuleType": 15
   },
@@ -683,12 +670,6 @@
   },
   {
     "ModuleName": "Table/nnn",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:40:41.1774123+08:00",
     "ModuleType": 7
   }
 ]
