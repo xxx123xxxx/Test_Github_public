@@ -364,7 +364,16 @@
   },
   {
     "ModuleName": "TaskScheduler/计划任务执行后执行",
-    "ModuleType": 16
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:47:48.8442889+08:00",
+    "ModuleType": 16,
+    "ToRemoveFiles": [
+      "SchedulerTasks\\Cindy\\计划任务执行后执行.json"
+    ]
   },
   {
     "ModuleName": "PCPage/SaleForce",
