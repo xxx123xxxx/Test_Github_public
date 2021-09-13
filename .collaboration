@@ -411,5 +411,15 @@
     },
     "LockDateTime": "2021-09-13T14:03:30.9098999+08:00",
     "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/TextLength_DaMeng",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:16:11.2368097+08:00",
+    "ModuleType": 7
   }
 ]
