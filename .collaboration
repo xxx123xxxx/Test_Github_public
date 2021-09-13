@@ -506,7 +506,14 @@
   },
   {
     "ModuleName": "Tables/nancy/externaltable/dameng",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T13:56:27.6303653+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "ServerCommand/调用存储过程",
