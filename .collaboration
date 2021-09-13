@@ -129,7 +129,17 @@
   },
   {
     "ModuleName": "MapJsonFile",
-    "ModuleType": 14
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T09:37:21.2240338+08:00",
+    "ModuleType": 14,
+    "ToRemoveFiles": [
+      "UserMapFile\\china_point.json",
+      "UserMapFile\\location_area.json"
+    ]
   },
   {
     "ModuleName": "DataContectionSet",
