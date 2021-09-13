@@ -543,26 +543,6 @@
     "ModuleType": 7
   },
   {
-    "ModuleName": "Tables/导入文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:35:23.8318002+08:00",
-    "ModuleType": 22
-  },
-  {
-    "ModuleName": "Tables/导入文件夹1/nancy",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:35:23.8318002+08:00",
-    "ModuleType": 22
-  },
-  {
     "ModuleName": "Tables/nancy/dameng",
     "State": 3,
     "LockedBy": {
