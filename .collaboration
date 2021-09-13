@@ -164,29 +164,11 @@
   },
   {
     "ModuleName": "PCPage/TextLength_详情页面",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:41:37.1006601+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\TextLength_详情页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/TextLength_列表页面",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:41:37.1006601+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\TextLength_列表页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/视图8_详情页面",
@@ -236,29 +218,11 @@
   },
   {
     "ModuleName": "PCPage/test_textlength_详情页面",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:41:37.1006601+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\test_textlength_详情页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/test_textlength_列表页面",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:41:37.1006601+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\test_textlength_列表页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "ServerCommand/服务端命令2",
@@ -275,29 +239,11 @@
   },
   {
     "ModuleName": "PCPage/createindesigner_textlength_详情页面",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:41:37.1016575+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\createindesigner_textlength_详情页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/createindesigner_textlength_列表页面",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:41:37.1016575+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Branty\\createindesigner_textlength_列表页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Table/TextLength_内建表转换成外连",
@@ -454,22 +400,10 @@
   },
   {
     "ModuleName": "Tables/Branty/dameng",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:03:30.9098999+08:00",
     "ModuleType": 22
   },
   {
     "ModuleName": "Table/TextLength_DaMeng",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:16:11.2368097+08:00",
     "ModuleType": 7
   },
   {
@@ -490,22 +424,10 @@
   },
   {
     "ModuleName": "Pages/Branty/postgresSQL",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:40:46.9676856+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "Pages/Branty/postgres",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "Branty.Yan@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:41:27.5101199+08:00",
     "ModuleType": 6
   },
   {
