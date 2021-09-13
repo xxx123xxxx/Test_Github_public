@@ -409,7 +409,16 @@
   },
   {
     "ModuleName": "Table/yuu",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:27:30.8971024+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\yuu.json"
+    ]
   },
   {
     "ModuleName": "Tables/Branty/dameng",
@@ -429,6 +438,16 @@
       "Email": "Branty.Yan@grapecity.com"
     },
     "LockDateTime": "2021-09-13T14:16:11.2368097+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/aaa",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:27:30.8971024+08:00",
     "ModuleType": 7
   }
 ]
