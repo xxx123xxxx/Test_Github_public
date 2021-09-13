@@ -674,15 +674,6 @@
   },
   {
     "ModuleName": "Table/_111",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:31:25.0852758+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\_111.json"
-    ]
+    "ModuleType": 7
   }
 ]
