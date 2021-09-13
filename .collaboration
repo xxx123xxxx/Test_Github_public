@@ -550,7 +550,16 @@
   },
   {
     "ModuleName": "Table/Classes",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:08:37.3807368+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\Classes.json"
+    ]
   },
   {
     "ModuleName": "Pages/Branty/postgresSQL1",
