@@ -601,7 +601,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T15:56:57.2089119+08:00",
+    "LockDateTime": "2021-09-13T15:57:18.0184934+08:00",
     "ModuleType": 7
   },
   {
@@ -639,13 +639,13 @@
     ]
   },
   {
-    "ModuleName": "Table/Grades1",
+    "ModuleName": "Table/Grades11",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T15:56:57.2089119+08:00",
+    "LockDateTime": "2021-09-13T15:57:18.0184934+08:00",
     "ModuleType": 7
   },
   {
