@@ -492,12 +492,6 @@
   },
   {
     "ModuleName": "Table/BBB",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T13:58:25.4257613+08:00",
     "ModuleType": 7
   }
 ]
