@@ -515,5 +515,15 @@
   {
     "ModuleName": "TableView/ghjh",
     "ModuleType": 23
+  },
+  {
+    "ModuleName": "Tables/nancy/buildintable",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:45:51.0022478+08:00",
+    "ModuleType": 22
   }
 ]
