@@ -97,7 +97,16 @@
   },
   {
     "ModuleName": "PCPage/clientcommand",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:05:44.3715321+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\clientcommand.json"
+    ]
   },
   {
     "ModuleName": "Pages/Nancy",
@@ -105,11 +114,29 @@
   },
   {
     "ModuleName": "PCPage/servercommand",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:05:44.3715321+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\servercommand.json"
+    ]
   },
   {
     "ModuleName": "PCPage/抄送密送",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:05:44.3715321+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\抄送密送.json"
+    ]
   },
   {
     "ModuleName": "Table/buildintabletest",
@@ -226,7 +253,16 @@
   },
   {
     "ModuleName": "PCPage/ADSecurityProvider",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:05:44.3715321+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\ADSecurityProvider.json"
+    ]
   },
   {
     "ModuleName": "PCPage/createindesigner_textlength_详情页面",
@@ -263,7 +299,16 @@
   },
   {
     "ModuleName": "PCPage/SaleForce",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:05:44.3715321+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\SaleForce.json"
+    ]
   },
   {
     "ModuleName": "Table/FORGUNCY_5387",
