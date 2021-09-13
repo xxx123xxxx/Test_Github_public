@@ -232,7 +232,7 @@
       "UserName": "GRAPECITY\\Zoey",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T09:09:57.4655449+08:00",
+    "LockDateTime": "2021-09-13T11:10:39.3466419+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\zoey\\testt.json"
@@ -286,16 +286,6 @@
   },
   {
     "ModuleName": "PCPage/createindesigner_textlength_列表页面",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "PCPage/页面2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T09:15:09.1360871+08:00",
     "ModuleType": 1
   },
   {
