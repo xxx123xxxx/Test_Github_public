@@ -243,7 +243,16 @@
   },
   {
     "ModuleName": "PCPage/createindesigner_textlength_列表页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:39:49.0870171+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\createindesigner_textlength_列表页面.json"
+    ]
   },
   {
     "ModuleName": "Table/TextLength_内建表转换成外连",
