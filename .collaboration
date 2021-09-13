@@ -173,11 +173,29 @@
   },
   {
     "ModuleName": "PCPage/TextLength_详情页面",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:56:32.2571589+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\TextLength_详情页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/TextLength_列表页面",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:56:32.2571589+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\TextLength_列表页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/视图8_详情页面",
@@ -218,11 +236,29 @@
   },
   {
     "ModuleName": "PCPage/test_textlength_详情页面",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:56:32.2571589+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\test_textlength_详情页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/test_textlength_列表页面",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:56:32.2571589+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\test_textlength_列表页面.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/服务端命令2",
@@ -239,11 +275,29 @@
   },
   {
     "ModuleName": "PCPage/createindesigner_textlength_详情页面",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:56:32.2571589+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\createindesigner_textlength_详情页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/createindesigner_textlength_列表页面",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:56:32.2571589+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\createindesigner_textlength_列表页面.json"
+    ]
   },
   {
     "ModuleName": "Table/TextLength_内建表转换成外连",
