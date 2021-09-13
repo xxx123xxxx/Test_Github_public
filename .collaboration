@@ -636,16 +636,7 @@
   },
   {
     "ModuleName": "PCPage/页面3",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T16:19:50.5963946+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Nancy\\StatisticFormula\\页面3.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Table/TextLength_内建表转外联",
@@ -680,15 +671,6 @@
   },
   {
     "ModuleName": "PCPage/页面4",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T16:19:50.5963946+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Nancy\\StatisticFormula\\页面4.json"
-    ]
+    "ModuleType": 1
   }
 ]
