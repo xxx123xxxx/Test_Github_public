@@ -238,7 +238,16 @@
   },
   {
     "ModuleName": "PCPage/TextLength_列表页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:29:22.7035229+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\TextLength_列表页面.json"
+    ]
   },
   {
     "ModuleName": "TableView/视图8",
