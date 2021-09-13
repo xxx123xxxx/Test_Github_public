@@ -227,7 +227,16 @@
   },
   {
     "ModuleName": "PCPage/testt",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:14:18.9166419+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\testt.json"
+    ]
   },
   {
     "ModuleName": "Tables/zoey",
