@@ -488,5 +488,15 @@
     },
     "LockDateTime": "2021-09-13T11:48:53.7834371+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "ServerCommand/执行SQL命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T13:41:19.8653609+08:00",
+    "ModuleType": 15
   }
 ]
