@@ -190,11 +190,29 @@
   },
   {
     "ModuleName": "PCPage/视图8_详情页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:44:50.115088+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\视图8_详情页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/视图8_列表页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:44:50.115088+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\视图8_列表页面.json"
+    ]
   },
   {
     "ModuleName": "Pages/zoey",
@@ -482,12 +500,12 @@
   },
   {
     "ModuleName": "TableView/视图8",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T14:44:25.6406786+08:00",
+    "LockDateTime": "2021-09-13T14:44:50.115088+08:00",
     "ModuleType": 23,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\视图8.json"
@@ -524,5 +542,15 @@
   {
     "ModuleName": "Table/ddd",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "TableView/sss",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:44:50.115088+08:00",
+    "ModuleType": 23
   }
 ]
