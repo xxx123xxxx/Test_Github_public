@@ -97,16 +97,7 @@
   },
   {
     "ModuleName": "PCPage/clientcommand",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:00:35.8491728+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Nancy\\clientcommand.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/Nancy",
@@ -139,19 +130,6 @@
     "ModuleName": "Table/表1_子表",
     "ModuleType": 7,
     "ExclusiveType": 0
-  },
-  {
-    "ModuleName": "ServerCommand/服务端命令1",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:00:35.8481749+08:00",
-    "ModuleType": 15,
-    "ToRemoveFiles": [
-      "ServerCommands\\Nancy\\服务端命令1.json"
-    ]
   },
   {
     "ModuleName": "ServerCommands/Nancy",
@@ -452,36 +430,11 @@
     "ModuleType": 15
   },
   {
-    "ModuleName": "Table/bbb",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:01:07.5290132+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\bbb.json"
-    ]
-  },
-  {
     "ModuleName": "ServerCommand/服务端命令",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:00:35.8481749+08:00",
     "ModuleType": 15
   },
   {
     "ModuleName": "Table/sds",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T14:01:27.0467073+08:00",
     "ModuleType": 7
   }
 ]
