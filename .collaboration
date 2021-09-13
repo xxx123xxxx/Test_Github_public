@@ -395,7 +395,16 @@
   },
   {
     "ModuleName": "Table/TextLength_DaMeng",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T15:00:47.6323296+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\Branty\\dameng\\TextLength_DaMeng.json"
+    ]
   },
   {
     "ModuleName": "Table/aaa",
