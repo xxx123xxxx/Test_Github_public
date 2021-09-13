@@ -450,7 +450,16 @@
   },
   {
     "ModuleName": "ServerCommand/执行SQL命令",
-    "ModuleType": 15
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T16:05:00.7594691+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\Branty\\执行SQL命令.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/调用存储过程",
