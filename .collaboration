@@ -706,6 +706,25 @@
   },
   {
     "ModuleName": "Table/nnn",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T18:17:40.5643148+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\StatisticFormula\\nnn.json"
+    ]
+  },
+  {
+    "ModuleName": "Table/aaa",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T18:17:40.5643148+08:00",
     "ModuleType": 7
   }
 ]
