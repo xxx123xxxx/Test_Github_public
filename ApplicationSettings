@@ -1,11 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ApplicationSettings>
-  <AuthenticationMode>SecurityProvider</AuthenticationMode>
+  <AuthenticationMode>Windows</AuthenticationMode>
   <IntegrateWithOtherApplication>
     <Password>jzh#nUgDhGoH</Password>
   </IntegrateWithOtherApplication>
   <MaxRowCount>10000000</MaxRowCount>
   <NotAllowModifyDatabaseByJsApi>False</NotAllowModifyDatabaseByJsApi>
+  <SkipCheckErrorWhenGeneratePage>True</SkipCheckErrorWhenGeneratePage>
   <StartDateFiscalYear>1</StartDateFiscalYear>
   <UserServicePort>37257</UserServicePort>
   <WebSitePort>17330</WebSitePort>
