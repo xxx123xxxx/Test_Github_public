@@ -182,11 +182,27 @@
   },
   {
     "ModuleName": "Tables/nancy/文件夹1",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T13:43:02.3375215+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "Table/表2",
-    "ModuleType": 7
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T13:43:02.3375215+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\文件夹1\\表2.json"
+    ]
   },
   {
     "ModuleName": "Tables/Branty/postgresSQL",
@@ -199,7 +215,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T13:41:15.3425184+08:00",
+    "LockDateTime": "2021-09-13T13:43:02.3375215+08:00",
     "ModuleType": 23,
     "ToRemoveFiles": [
       "Tables\\nancy\\view.json"
@@ -219,7 +235,16 @@
   },
   {
     "ModuleName": "TableView/视图8",
-    "ModuleType": 23
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T13:43:02.3375215+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\文件夹1\\视图8.json"
+    ]
   },
   {
     "ModuleName": "PCPage/视图8_详情页面",
@@ -498,5 +523,15 @@
     },
     "LockDateTime": "2021-09-13T13:41:19.8653609+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "Tables/nancy/externaltable",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T13:43:02.3375215+08:00",
+    "ModuleType": 22
   }
 ]
