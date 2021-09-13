@@ -413,12 +413,12 @@
   },
   {
     "ModuleName": "PageReport/报表1",
-    "State": 1,
+    "State": 4,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T18:28:33.0234814+08:00",
+    "LockDateTime": "2021-09-13T18:29:10.1275064+08:00",
     "ModuleType": 17,
     "ToRemoveFiles": [
       "Reports\\报表1.json",
