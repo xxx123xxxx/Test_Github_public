@@ -193,5 +193,25 @@
     },
     "LockDateTime": "2021-09-13T09:13:51.4686122+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "PageReport/报表1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T09:20:39.0380774+08:00",
+    "ModuleType": 17
+  },
+  {
+    "ModuleName": "Reports/导入文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T09:20:39.0380774+08:00",
+    "ModuleType": 19
   }
 ]
