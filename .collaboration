@@ -85,7 +85,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T17:56:16.8584745+08:00",
+    "LockDateTime": "2021-09-13T17:56:33.4359164+08:00",
     "ModuleType": 25,
     "ToRemoveFiles": [
       "DataConnectionSet"
@@ -560,7 +560,16 @@
   },
   {
     "ModuleName": "Table/Auto_ID",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:56:33.4359164+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\Branty\\sqlserverTable\\Auto_ID.json"
+    ]
   },
   {
     "ModuleName": "Table/Classes",
