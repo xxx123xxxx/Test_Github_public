@@ -519,5 +519,15 @@
     },
     "LockDateTime": "2021-09-13T10:56:59.1000148+08:00",
     "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/Test",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T10:57:20.9736419+08:00",
+    "ModuleType": 1
   }
 ]
