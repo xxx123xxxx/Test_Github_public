@@ -537,7 +537,14 @@
   },
   {
     "ModuleName": "Tables/nancy/StatisticFormula",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:03:26.3434322+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "Tables/Branty/sqlserverTable",
@@ -545,7 +552,16 @@
   },
   {
     "ModuleName": "Table/Students",
-    "ModuleType": 7
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:03:26.3434322+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\StatisticFormula\\dameng\\Students.json"
+    ]
   },
   {
     "ModuleName": "Table/Auto_ID",
@@ -553,7 +569,16 @@
   },
   {
     "ModuleName": "Table/Classes",
-    "ModuleType": 7
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:03:26.3434322+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\StatisticFormula\\dameng\\Classes.json"
+    ]
   },
   {
     "ModuleName": "Pages/Branty/postgresSQL1",
@@ -591,7 +616,16 @@
   },
   {
     "ModuleName": "Table/Grades11",
-    "ModuleType": 7
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:03:26.3434322+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\StatisticFormula\\dameng\\Grades11.json"
+    ]
   },
   {
     "ModuleName": "Table/TextLength_Create",
@@ -617,7 +651,14 @@
   },
   {
     "ModuleName": "Tables/nancy/StatisticFormula/dameng",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:03:26.3434322+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "PCPage/TextLength_Create_详情页面",
@@ -679,5 +720,25 @@
     },
     "LockDateTime": "2021-09-13T16:45:39.0517154+08:00",
     "ModuleType": 2
+  },
+  {
+    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/dameng",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:03:26.3434322+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Tables/nancy/externaltable/StatisticFormula",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:03:26.3434322+08:00",
+    "ModuleType": 22
   }
 ]
