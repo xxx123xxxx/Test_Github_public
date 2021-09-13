@@ -195,7 +195,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T14:44:50.115088+08:00",
+    "LockDateTime": "2021-09-13T14:45:00.2291181+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\视图8_详情页面.json"
@@ -208,7 +208,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T14:44:50.115088+08:00",
+    "LockDateTime": "2021-09-13T14:45:00.2291181+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\视图8_列表页面.json"
@@ -544,13 +544,13 @@
     "ModuleType": 7
   },
   {
-    "ModuleName": "TableView/sss",
+    "ModuleName": "TableView/ghjh",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T14:44:50.115088+08:00",
+    "LockDateTime": "2021-09-13T14:45:00.2291181+08:00",
     "ModuleType": 23
   }
 ]
