@@ -513,7 +513,16 @@
   },
   {
     "ModuleName": "TableView/view",
-    "ModuleType": 23
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:01:52.6905222+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\view.json"
+    ]
   },
   {
     "ModuleName": "Tables/nancy/externaltable",
