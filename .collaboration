@@ -105,7 +105,7 @@
       "UserName": "GRAPECITY\\BrantyYan",
       "Email": "Branty.Yan@grapecity.com"
     },
-    "LockDateTime": "2021-09-13T10:59:38.5877335+08:00",
+    "LockDateTime": "2021-09-13T11:02:04.7008248+08:00",
     "ModuleType": 25,
     "ToRemoveFiles": [
       "DataConnectionSet"
@@ -279,7 +279,16 @@
   },
   {
     "ModuleName": "Table/表4",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T11:02:04.7008248+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\zoey\\表4.json"
+    ]
   },
   {
     "ModuleName": "PCPage/表4_列表页面",
