@@ -363,19 +363,6 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "TaskScheduler/计划任务执行后执行",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:48:17.6209545+08:00",
-    "ModuleType": 16,
-    "ToRemoveFiles": [
-      "SchedulerTasks\\Cindy\\计划任务执行后执行.json"
-    ]
-  },
-  {
     "ModuleName": "PCPage/SaleForce",
     "ModuleType": 1
   },
@@ -545,16 +532,7 @@
   },
   {
     "ModuleName": "Table/log_task",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:38:09.5384622+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Cindy\\log_task.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/Cindy",
@@ -572,22 +550,10 @@
   },
   {
     "ModuleName": "ServerCommands/Cindy",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:18:47.4337304+08:00",
     "ModuleType": 20
   },
   {
     "ModuleName": "ServerCommand/Test_trigger",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:19:41.0111336+08:00",
     "ModuleType": 15
   },
   {
@@ -612,12 +578,6 @@
   },
   {
     "ModuleName": "TaskScheduler/服务端命令执行后执行",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T11:48:17.6209545+08:00",
     "ModuleType": 16
   },
   {

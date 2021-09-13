@@ -1,1 +1,0 @@
-{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.EndTaskScheduleCommandTrigger, ServerDesignerCommon","CommandNameParamName":"命令名称","FolderNameParamName":"文件夹名","ErrorCodeParamName":"返回码","MessageParamName":"返回信息","LogParamName":"日志","StartTimeParamName":"执行开始时间","EndTimeParamName":"执行结束时间","ResultParamName":"执行结果"}],"Name":"计划任务执行后执行"}
