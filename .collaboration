@@ -451,5 +451,15 @@
   {
     "ModuleName": "Table/yyy",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "Pages/Branty/postgres",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "Branty.Yan@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T14:41:27.5101199+08:00",
+    "ModuleType": 6
   }
 ]
