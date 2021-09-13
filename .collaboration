@@ -534,7 +534,16 @@
   },
   {
     "ModuleName": "Table/ddd",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-13T17:03:49.089221+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\ddd.json"
+    ]
   },
   {
     "ModuleName": "TableView/ghjh",
