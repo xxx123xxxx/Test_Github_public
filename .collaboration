@@ -80,16 +80,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:56:33.4359164+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -101,16 +92,7 @@
   },
   {
     "ModuleName": "Table/test_textlength",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:42:36.7404467+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\postgresSQL\\test_textlength.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/Branty",
@@ -423,16 +405,7 @@
   },
   {
     "ModuleName": "Table/log_task",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:56:16.8584745+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Cindy\\log_task.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/Cindy",
@@ -560,16 +533,7 @@
   },
   {
     "ModuleName": "Table/Auto_ID",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T17:56:33.4359164+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\sqlserverTable\\Auto_ID.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/Classes",
@@ -705,26 +669,7 @@
     "ModuleType": 22
   },
   {
-    "ModuleName": "Table/nnn",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T18:17:40.5643148+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\nnn.json"
-    ]
-  },
-  {
     "ModuleName": "Table/aaa",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-13T18:18:16.8006799+08:00",
     "ModuleType": 7
   }
 ]

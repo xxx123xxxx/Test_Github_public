@@ -37,14 +37,9 @@
     <ID>cfa509c4-7c37-4a08-94d5-2e2835d42fe0</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
-    <ConnectionString>Host=xa-dd3-fS17Ms57;Username=postgres;Password=xA20200326;Database=cindytest</ConnectionString>
+    <ConnectionString>Host=xa-dd3-fS17Ms57.grapecity.net;Username=postgres;Password=xA20200326;Database=cindytest</ConnectionString>
     <DataBaseType>PostgreSQL</DataBaseType>
-    <EConnectionString>jl0rOeLzJdZ1nhcGn0T96i6jkgROLNdtcCEW9YIrVuHRvwR4YOO9pM4P38OT5DQObtpJx7RWeQAdDbgKaO/BBkGuzEVOa8Us6HN7ZSfQGHk=</EConnectionString>
+    <EConnectionString>jl0rOeLzJdZ1nhcGn0T96jNVgvZW2ZYuwbDlexdIE+0LYw8APCxFuUAU5rr4Ktknuzlpfa2hjlyy/YOM0aTNdrxY+kaEI8l2ACoJ0ER+vjmSXWHB3yU5kEI463RXnj9M</EConnectionString>
     <ID>34cb6c42-2af2-4c97-97c7-3baf2a9f8caf</ID>
-  </Item>
-  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
-    <ConnectionString>Data Source=xa-dd3-fs12o11;Initial Catalog=branty_UserService;Persist Security Info=True;User ID=sa;Password=xA20200326</ConnectionString>
-    <DataBaseType>SqlServer</DataBaseType>
-    <ID>7e5bf0c0-3830-4c94-8a57-7a4644f95633</ID>
   </Item>
 </DataConnectionSet>
