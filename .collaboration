@@ -436,7 +436,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T10:13:31.9162194+08:00",
+    "LockDateTime": "2021-09-14T10:28:33.6835023+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\Classes.json"
@@ -529,13 +529,13 @@
     "ModuleType": 17
   },
   {
-    "ModuleName": "Table/Grades",
+    "ModuleName": "Table/年级表",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T10:13:31.9162194+08:00",
+    "LockDateTime": "2021-09-14T10:28:33.6824989+08:00",
     "ModuleType": 7
   },
   {
