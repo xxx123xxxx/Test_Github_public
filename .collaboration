@@ -689,5 +689,15 @@
     "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "PCPage/页面7",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T14:18:57.5913258+08:00",
+    "ModuleType": 1
   }
 ]
