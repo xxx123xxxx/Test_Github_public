@@ -957,5 +957,15 @@
       "ForguncyDB.sqlite3"
     ],
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "PCPage/多个子表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T18:38:44.1321751+08:00",
+    "ModuleType": 1
   }
 ]
