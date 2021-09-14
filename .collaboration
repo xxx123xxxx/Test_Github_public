@@ -69,16 +69,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0615487+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -118,47 +109,17 @@
   },
   {
     "ModuleName": "Table/buildintabletest",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0615487+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildintable\\buildintabletest.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/buildtable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:19:03.2724216+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildintable\\buildtable.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0625461+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildintable\\表1.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -228,17 +189,7 @@
   },
   {
     "ModuleName": "Table/表3",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0625461+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\zoey\\表3.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -267,17 +218,7 @@
   },
   {
     "ModuleName": "TableView/用户信息视图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0625461+08:00",
     "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildintable\\用户信息视图.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -525,17 +466,7 @@
   },
   {
     "ModuleName": "Table/TextLength_内建表转外联",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0615487+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\dameng\\TextLength_内建表转外联.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -605,32 +536,12 @@
   },
   {
     "ModuleName": "Table/部门表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0615487+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\buildin\\部门表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/员工表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0615487+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\buildin\\员工表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -680,28 +591,7 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "Table/buildintablel",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:19:28.1032059+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\buildintablel.json",
-      "ForguncyDB.sqlite3"
-    ],
-    "ExclusiveType": 0
-  },
-  {
     "ModuleName": "Table/calsss",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:21:52.666824+08:00",
     "ModuleType": 7
   }
 ]

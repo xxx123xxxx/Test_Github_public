@@ -42,4 +42,10 @@
     <EConnectionString>jl0rOeLzJdZ1nhcGn0T96jNVgvZW2ZYuwbDlexdIE+0LYw8APCxFuUAU5rr4Ktknuzlpfa2hjlyy/YOM0aTNdrxY+kaEI8l2ACoJ0ER+vjmSXWHB3yU5kEI463RXnj9M</EConnectionString>
     <ID>34cb6c42-2af2-4c97-97c7-3baf2a9f8caf</ID>
   </Item>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
+    <ConnectionString>server=xa-dd3-fgcp13d8;user=sysdba;password=xA20200326;schema=(test)</ConnectionString>
+    <DataBaseType>DaMeng</DataBaseType>
+    <EConnectionString>yfdEppMUcICP1R3XQa0iDcD4fAnlOVry2GRh1S7nuwkhTESknEpB6GJYd2tM9YBsr1Bip4gZdb/ifNgKg4mgL9T3h0glQbDD8eGYUCA7s68=</EConnectionString>
+    <ID>347c822b-8195-4712-8b98-2454e90c9d42</ID>
+  </Item>
 </DataConnectionSet>
