@@ -695,26 +695,6 @@
     "ExclusiveType": 0
   },
   {
-    "ModuleName": "Table/班级表1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0615487+08:00",
-    "ModuleType": 7
-  },
-  {
-    "ModuleName": "Tables/导入文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:20:12.0615487+08:00",
-    "ModuleType": 22
-  },
-  {
     "ModuleName": "Table/calsss",
     "State": 3,
     "LockedBy": {
