@@ -524,16 +524,7 @@
   },
   {
     "ModuleName": "Table/学生表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:36:53.8952387+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\学生表.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/nancy/externaltable/StatisticFormula/buildintable",
@@ -600,46 +591,7 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "Table/calsss",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:44:49.8038056+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\calsss.json"
-    ]
-  },
-  {
     "ModuleName": "Table/mastertable",
     "ModuleType": 7
-  },
-  {
-    "ModuleName": "Table/主表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:44:38.5057177+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\主表.json"
-    ]
-  },
-  {
-    "ModuleName": "Table/子表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:44:38.5057177+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\子表.json"
-    ]
   }
 ]
