@@ -644,6 +644,15 @@
   },
   {
     "ModuleName": "PCPage/多个子表",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T19:01:52.2064601+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\StatisticFormula\\statistic\\多个子表.json"
+    ]
   }
 ]
