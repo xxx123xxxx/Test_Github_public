@@ -114,7 +114,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T13:33:45.9478869+08:00",
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\buildintabletest.json",
@@ -129,7 +129,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T13:33:45.9478869+08:00",
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\buildtable.json",
@@ -144,7 +144,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T13:33:45.9478869+08:00",
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\表1.json",
@@ -224,7 +224,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T13:33:45.9478869+08:00",
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\zoey\\表3.json",
@@ -263,7 +263,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T13:33:45.9478869+08:00",
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 23,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\用户信息视图.json",
@@ -515,7 +515,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T13:33:45.9478869+08:00",
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\Branty\\dameng\\TextLength_内建表转外联.json",
@@ -595,7 +595,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T13:33:45.9478869+08:00",
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\buildin\\部门表.json",
@@ -610,7 +610,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T13:33:45.9478869+08:00",
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\buildin\\员工表.json",
@@ -678,5 +678,16 @@
     },
     "LockDateTime": "2021-09-14T14:09:09.8345172+08:00",
     "ModuleType": 2
+  },
+  {
+    "ModuleName": "Table/项目组",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T14:11:42.0840725+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
