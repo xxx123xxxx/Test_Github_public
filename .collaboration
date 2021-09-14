@@ -670,11 +670,29 @@
   },
   {
     "ModuleName": "Table/aaa",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:02:30.1483092+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\StatisticFormula\\aaa.json"
+    ]
   },
   {
     "ModuleName": "TableView/_",
-    "ModuleType": 23
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:02:30.1483092+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\StatisticFormula\\_.json"
+    ]
   },
   {
     "ModuleName": "Reports/文件夹1",
