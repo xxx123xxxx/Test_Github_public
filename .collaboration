@@ -448,7 +448,16 @@
   },
   {
     "ModuleName": "PCPage/dameng",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T14:47:50.3285748+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\StatisticFormula\\dameng.json"
+    ]
   },
   {
     "ModuleName": "PCPage/TextLength_Create_详情页面",
