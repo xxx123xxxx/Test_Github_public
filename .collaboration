@@ -635,7 +635,16 @@
   },
   {
     "ModuleName": "PCPage/平均值",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T12:20:11.268736+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\StatisticFormula\\buildintable_page\\平均值.json"
+    ]
   },
   {
     "ModuleName": "PCPage/页面3",
