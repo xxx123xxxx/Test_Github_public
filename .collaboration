@@ -558,7 +558,16 @@
   },
   {
     "ModuleName": "PCPage/表3_详情页面",
-    "ModuleType": 1
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:30:43.2737632+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\表3_详情页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/表3_列表页面",
