@@ -750,28 +750,28 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
-    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/导入文件夹1",
+    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/statistic",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 22
   },
   {
-    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/导入文件夹1/学生信息表-仅包含一个子表",
+    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/statistic/美妆销售",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 22
   },
   {
@@ -781,7 +781,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -792,7 +792,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -803,18 +803,18 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
-    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/导入文件夹1/学生成绩表",
+    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/statistic/汽车销售统计",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 22
   },
   {
@@ -824,7 +824,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -835,7 +835,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -846,7 +846,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -857,18 +857,18 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
-    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/导入文件夹1/汽车销售统计",
+    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/statistic/学生成绩表",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 22
   },
   {
@@ -878,7 +878,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -889,7 +889,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -900,18 +900,18 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
-    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/导入文件夹1/美妆销售",
+    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/statistic/学生信息表-仅包含一个子表",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 22
   },
   {
@@ -921,7 +921,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -932,7 +932,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -943,7 +943,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -954,7 +954,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
@@ -965,7 +965,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:05:15.5518708+08:00",
+    "LockDateTime": "2021-09-14T18:05:39.0598821+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   }
