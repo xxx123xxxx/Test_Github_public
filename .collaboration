@@ -922,16 +922,6 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "Pages/导入文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T19:34:25.1935511+08:00",
-    "ModuleType": 6
-  },
-  {
     "ModuleName": "PCPage/美妆产品-子表统计02",
     "State": 3,
     "LockedBy": {
