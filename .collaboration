@@ -69,16 +69,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:31:29.0086062+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -529,16 +520,7 @@
   },
   {
     "ModuleName": "Table/班级表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:29:19.2774647+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\班级表.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/学生表",
@@ -614,12 +596,6 @@
   },
   {
     "ModuleName": "Table/mastertable",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:31:29.0086062+08:00",
     "ModuleType": 7
   }
 ]

@@ -3,49 +3,49 @@
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>Host=xa-dd3-fgcp13d8.grapecity.net;Username=postgres;Password=xA20200326;Database=brantytest</ConnectionString>
     <DataBaseType>PostgreSQL</DataBaseType>
-    <EConnectionString>RhztvhI35PuLt7s7BThZzrIGX5WqahzIv65Csy6A0Q6ZgQDEwf1SAvunYYgS/sr9ifGtPJbe6lhbSTP3eaVj15mYl6Jlg0po2ZQSdfp5lxTPjLlcfm4DGSgtd9g99g8j</EConnectionString>
+    <EConnectionString>UmV6SynGxdtRHLnynzOPCO93rvu2hBq70AGApIGtT1NzP16PZjneyZwI/IUvCfvy883+rjIsOb/xt3sT8/StLOF/atZJClBPTVhEBIVLObq2kavo7/WY1qTJEE7rydF2</EConnectionString>
     <ID>16db38f1-f281-4f2c-901b-4563f91f2d33</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>Data Source=xa-dd3-fs12o11.grapecity.net;Initial Catalog=branty_UserService;Persist Security Info=True;User ID=sa;Password=xA20200326</ConnectionString>
     <DataBaseType>SqlServer</DataBaseType>
-    <EConnectionString>pjTdBCklGdDsnRUuqhYELBTuI0Orr3rQECMh/Cx1bCtMwBidoFE1t59rDP3cvIfualuVs0BvylQ1MrEqXF8yI3PaSiTyK7IOfCZ/Y3CWIrKQpGgiQpGawW3VnHV4SzcyHEzDCSbV/05y0B0bn4vzHyrX2xgWqtejL1UaHtao6kkCMI+/lDI/aR2+c8tx485P</EConnectionString>
+    <EConnectionString>Kr73wfHlsgHNcbfNoT2bmR+t/BujItMNY+hZOxwoxkdTAsjsS/1Jmku++ejDI4OyRk0B0I/gJvrGUsDXveAt1SjkzeFU+4iuSyg/KgFLaAcVBwREG7Xs6xWmty/we4N0LRbhbaL/MKFLxa+KE7f5nR8o6Gv8O/ddvuquPlsBI9bTM8t7lgYhNobiRT9CHJQ6</EConnectionString>
     <ID>e95b86d5-548e-4614-a0a2-ac6f0f8f93b7</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>server=xa-dd3-fgcp13d8.grapecity.net;user=sysdba;password=xA20200326;schema=#</ConnectionString>
     <DataBaseType>DaMeng</DataBaseType>
-    <EConnectionString>pvXdZcS94WD6y+NFxBe9KFDSSLMa56LDUbSKgL00YXO7tFvcaHH+duOzeHZx+aE+4cpsBeUMoljPxARAA2O2ecIritK3zjmuQO5xW5+acQo=</EConnectionString>
+    <EConnectionString>0h9ZwDR1ja+6Ja0InEfj1+pF4DijUtX3oH3XFsQW3UQ3FQX1IXvYv8E5++XgVXJ70jTqxuSFGFmy745HWAKB0kM/DMSOkqkpi9Ebf3ukrvs=</EConnectionString>
     <ID>19a02b03-4aa2-43f7-be8e-0e15070b460b</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>Host=xa-dd3-fS17Ms57.grapecity.net;Username=postgres;Password=xA20200326;Database=TestDB(可做普通测试使用)</ConnectionString>
     <DataBaseType>PostgreSQL</DataBaseType>
-    <EConnectionString>jl0rOeLzJdZ1nhcGn0T96jNVgvZW2ZYuwbDlexdIE+0LYw8APCxFuUAU5rr4Ktknuzlpfa2hjlyy/YOM0aTNdrxY+kaEI8l2ACoJ0ER+vjm303SmxtHlCZ+kFjHv8pGP9PlsWTDbGsYiF3gVPfaKnBIxQQ6DvdBftYYOA2OByUM=</EConnectionString>
+    <EConnectionString>PyY6DzOf9APzapq72hNdEROKtjND3XvOhtvwLP5sr7LrT7jxM1sUOFcIqXkJ1T/BVfJaMj3dXLH8WNOYCmHnKKv5UsuNo/X/avRfHvidWdrUxVfdqN2nm/u0cUqJ2At9aNwGwk2KWtaiTnYEKJGPrlgcMkblXxfzRFlRAkn91xc=</EConnectionString>
     <ID>af68a5d1-41c0-4f49-ba0b-fb873c213b7d</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>Server=xa-dd3-fs16ms8.grapecity.net;User Id=root;Password=xA20200326;Database=brantytest1</ConnectionString>
     <DataBaseType>MySql</DataBaseType>
-    <EConnectionString>06/VxxkpYhAKUhS7+rF7WgysUFHutJ+tzJ3xn2eoLyExm4JTWHEL94y6LQgkyjU4kHbdVrSomYZJQxgSvV4og3hSqDpFt14Cl6M1716kECpYpAZGdcExKGc64wU15MqV</EConnectionString>
+    <EConnectionString>EXL1pNAYntT80xtJRbs9gvdnA/9GLvz1Ylk0VR8ehwmfJrSjG23jbQJhGNDktcJ8EBokc6uaY4LP/VQAIz+NRxphE5fGkA4FMJ/VUn3wdVgSR31uOllDV1uDJWESoPGb</EConnectionString>
     <ID>8529cb8c-f99c-4f68-bc59-3f327ae0b11b</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>server=xa-dd3-fgcp13d8.grapecity.net;user=SYSDBA;password=xA20200326;schema=brantyTest</ConnectionString>
     <DataBaseType>DaMeng</DataBaseType>
-    <EConnectionString>pvXdZcS94WD6y+NFxBe9KFDSSLMa56LDUbSKgL00YXPdJ1dHlA9fZ/ZN22b9J9BOT5NfqO43Nsv3sdj3QkeJ/vSBOxyJrXt7vjzSpSLJIY9MtHt6s90eSo7NrcaDlImr</EConnectionString>
+    <EConnectionString>0h9ZwDR1ja+6Ja0InEfj1+pF4DijUtX3oH3XFsQW3UTLCWjcBOpo+01/N/Rj5DtlnCZMwWZhdo8mjxbMzFCdG+2l4SdirspcaBV6dSxB/8LyfxJwBqO0l+HwJqoNj9di</EConnectionString>
     <ID>cfa509c4-7c37-4a08-94d5-2e2835d42fe0</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>Host=xa-dd3-fS17Ms57.grapecity.net;Username=postgres;Password=xA20200326;Database=cindytest</ConnectionString>
     <DataBaseType>PostgreSQL</DataBaseType>
-    <EConnectionString>jl0rOeLzJdZ1nhcGn0T96jNVgvZW2ZYuwbDlexdIE+0LYw8APCxFuUAU5rr4Ktknuzlpfa2hjlyy/YOM0aTNdrxY+kaEI8l2ACoJ0ER+vjmSXWHB3yU5kEI463RXnj9M</EConnectionString>
+    <EConnectionString>PyY6DzOf9APzapq72hNdEROKtjND3XvOhtvwLP5sr7LrT7jxM1sUOFcIqXkJ1T/BVfJaMj3dXLH8WNOYCmHnKKv5UsuNo/X/avRfHvidWdoJtBIHFOKwpOftXKdVDnDJ</EConnectionString>
     <ID>34cb6c42-2af2-4c97-97c7-3baf2a9f8caf</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>server=xa-dd3-fgcp13d8;user=sysdba;password=xA20200326;schema=(test)</ConnectionString>
     <DataBaseType>DaMeng</DataBaseType>
-    <EConnectionString>yfdEppMUcICP1R3XQa0iDcD4fAnlOVry2GRh1S7nuwkhTESknEpB6GJYd2tM9YBsr1Bip4gZdb/ifNgKg4mgL9T3h0glQbDD8eGYUCA7s68=</EConnectionString>
+    <EConnectionString>0h9ZwDR1ja+6Ja0InEfj1we3g7gD59TbOj8wd6MPVWKKkz8aiKuTba6Fpev3mcLM3pzRKa4PhYEuRABwp1HLArc1dZm7hnCdxH1pdZoxedc=</EConnectionString>
     <ID>347c822b-8195-4712-8b98-2454e90c9d42</ID>
   </Item>
 </DataConnectionSet>
