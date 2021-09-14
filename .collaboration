@@ -73,7 +73,14 @@
   },
   {
     "ModuleName": "Upload",
-    "ModuleType": 26
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:29:35.5359901+08:00",
+    "ModuleType": 26,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "Pages/Branty",
@@ -118,7 +125,7 @@
       "UserName": "GRAPECITY\\Zoey",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T10:28:44.0158386+08:00",
+    "LockDateTime": "2021-09-14T10:29:35.5359901+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\buildintabletest.json",
@@ -133,7 +140,7 @@
       "UserName": "GRAPECITY\\Zoey",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T10:28:44.0158386+08:00",
+    "LockDateTime": "2021-09-14T10:29:35.5359901+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\buildtable.json",
@@ -148,7 +155,7 @@
       "UserName": "GRAPECITY\\Zoey",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T10:28:44.0158386+08:00",
+    "LockDateTime": "2021-09-14T10:29:35.5359901+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\表1.json",
@@ -227,7 +234,7 @@
       "UserName": "GRAPECITY\\Zoey",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T10:28:44.0158386+08:00",
+    "LockDateTime": "2021-09-14T10:29:35.5359901+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\zoey\\表3.json",
@@ -266,7 +273,7 @@
       "UserName": "GRAPECITY\\Zoey",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T10:28:44.0158386+08:00",
+    "LockDateTime": "2021-09-14T10:29:35.5359901+08:00",
     "ModuleType": 23,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\用户信息视图.json",
@@ -579,7 +586,7 @@
       "UserName": "GRAPECITY\\Zoey",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T10:28:44.0158386+08:00",
+    "LockDateTime": "2021-09-14T10:29:35.5359901+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\Branty\\dameng\\TextLength_内建表转外联.json",
