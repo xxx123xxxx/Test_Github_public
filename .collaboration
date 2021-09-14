@@ -214,16 +214,7 @@
   },
   {
     "ModuleName": "PCPage/testt",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:43:45.2659546+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\zoey\\testt.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Tables/zoey",
@@ -549,16 +540,7 @@
   },
   {
     "ModuleName": "MobilePage/页面5",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:42:11.4485738+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\zoey\\页面5.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "Tables/nancy/externaltable/StatisticFormula/dameng",
@@ -582,29 +564,11 @@
   },
   {
     "ModuleName": "PCPage/表3_详情页面",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:30:43.2737632+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\表3_详情页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/表3_列表页面",
-    "State": 4,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:30:52.0886446+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\表3_列表页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Table/班级表",
