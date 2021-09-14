@@ -553,5 +553,15 @@
     "ModuleName": "Table/员工表",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Pages/Nancy/StatisticFormula/buildintable_page",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:35:05.8230498+08:00",
+    "ModuleType": 6
   }
 ]
