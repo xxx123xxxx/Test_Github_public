@@ -537,7 +537,16 @@
   },
   {
     "ModuleName": "Table/Classes",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:13:31.9162194+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\Classes.json"
+    ]
   },
   {
     "ModuleName": "Pages/Branty/postgresSQL1",
@@ -575,7 +584,16 @@
   },
   {
     "ModuleName": "Table/Grades11",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:13:31.9152219+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\Grades11.json"
+    ]
   },
   {
     "ModuleName": "Table/TextLength_Create",
@@ -675,5 +693,15 @@
   {
     "ModuleName": "PageReport/报表2",
     "ModuleType": 17
+  },
+  {
+    "ModuleName": "Table/Grades",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:13:31.9162194+08:00",
+    "ModuleType": 7
   }
 ]
