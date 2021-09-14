@@ -644,7 +644,16 @@
   },
   {
     "ModuleName": "PCPage/学生和班级(单级别)",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T18:37:16.4919292+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\StatisticFormula\\statistic\\学生和班级(单级别).json"
+    ]
   },
   {
     "ModuleName": "Pages/Nancy/StatisticFormula/statistic",
@@ -652,15 +661,42 @@
   },
   {
     "ModuleName": "PCPage/学生和班级(多级别)",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T18:37:16.4919292+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\StatisticFormula\\statistic\\学生和班级(多级别).json"
+    ]
   },
   {
     "ModuleName": "PCPage/美妆产品-子表统计01",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T18:37:16.4919292+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\StatisticFormula\\statistic\\美妆产品-子表统计01.json"
+    ]
   },
   {
     "ModuleName": "PCPage/美妆产品-子表统计02",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T18:37:16.4929259+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\StatisticFormula\\statistic\\美妆产品-子表统计02.json"
+    ]
   },
   {
     "ModuleName": "Table/Students",
