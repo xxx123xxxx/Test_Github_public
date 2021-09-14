@@ -521,7 +521,16 @@
   },
   {
     "ModuleName": "Table/年级表",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T17:44:06.8005827+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\年级表.json"
+    ]
   },
   {
     "ModuleName": "PCPage/表3_详情页面",
