@@ -677,5 +677,15 @@
     },
     "LockDateTime": "2021-09-14T17:45:37.3324877+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/表统计字段和子表统计字段在同一个listview",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T17:51:47.50989+08:00",
+    "ModuleType": 1
   }
 ]
