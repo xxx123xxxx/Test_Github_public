@@ -422,34 +422,8 @@
     "ModuleType": 22
   },
   {
-    "ModuleName": "Table/Students",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:29:15.5738286+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\Students.json"
-    ]
-  },
-  {
     "ModuleName": "Table/Auto_ID",
     "ModuleType": 7
-  },
-  {
-    "ModuleName": "Table/Classes",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:28:54.2390482+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\Classes.json"
-    ]
   },
   {
     "ModuleName": "Pages/Branty/postgresSQL1",
@@ -468,19 +442,6 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "Table/Grades11",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:13:31.9152219+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\Grades11.json"
-    ]
-  },
-  {
     "ModuleName": "Table/TextLength_Create",
     "ModuleType": 7
   },
@@ -494,16 +455,7 @@
   },
   {
     "ModuleName": "PCPage/dameng",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:28:54.2490218+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Nancy\\StatisticFormula\\dameng.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/TextLength_Create_详情页面",
@@ -548,12 +500,6 @@
   },
   {
     "ModuleName": "Table/年级表",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:28:33.6824989+08:00",
     "ModuleType": 7
   },
   {
@@ -584,32 +530,14 @@
   },
   {
     "ModuleName": "Table/班级表",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:29:15.5738286+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Table/学生表",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:29:15.5738286+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Tables/nancy/externaltable/StatisticFormula/buildintable",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T10:29:41.7010864+08:00",
     "ModuleType": 22
   }
 ]
