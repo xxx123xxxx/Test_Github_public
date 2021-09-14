@@ -671,5 +671,15 @@
     },
     "LockDateTime": "2021-09-14T10:29:15.5738286+08:00",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "Tables/nancy/externaltable/StatisticFormula/buildintable",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T10:29:41.7010864+08:00",
+    "ModuleType": 22
   }
 ]
