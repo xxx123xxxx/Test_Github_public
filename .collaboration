@@ -364,7 +364,17 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T15:11:15.0727587+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\页面2.json",
+      "Pages\\a2e0f2ab-a5fc-4e8c-b7f5-9f7dec41c8e7.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/执行SQL命令",
