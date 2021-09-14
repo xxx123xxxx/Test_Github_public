@@ -629,5 +629,15 @@
     },
     "LockDateTime": "2021-09-14T16:25:37.7903469+08:00",
     "ModuleType": 3
+  },
+  {
+    "ModuleName": "Pages/Nancy/StatisticFormula/dameng",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T16:45:39.34525+08:00",
+    "ModuleType": 6
   }
 ]
