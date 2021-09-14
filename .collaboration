@@ -45,20 +45,7 @@
   },
   {
     "ModuleName": "Theme",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:47:42.3985487+08:00",
-    "ModuleType": 9,
-    "ToRemoveFiles": [
-      "Theme\\CellTypeStyles",
-      "Theme\\ListViewStyles",
-      "Theme\\StyleDefaultNames",
-      "Theme\\ThemeConfig",
-      "C:\\Users\\ZoeyHe\\Documents\\ForguncyCollaboration\\Test_Github_public-master\\Reports\\DefaultTheme.rdlx-theme"
-    ]
+    "ModuleType": 9
   },
   {
     "ModuleName": "ImageSelector",
@@ -185,16 +172,7 @@
   },
   {
     "ModuleName": "PCPage/testt",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:47:42.4005487+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\zoey\\testt.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Tables/zoey",
@@ -377,17 +355,7 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:11:15.0727587+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\zoey\\页面2.json",
-      "Pages\\a2e0f2ab-a5fc-4e8c-b7f5-9f7dec41c8e7.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "ServerCommand/执行SQL命令",
@@ -492,16 +460,7 @@
   },
   {
     "ModuleName": "MobilePage/页面5",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T14:05:58.4873844+08:00",
-    "ModuleType": 2,
-    "ToRemoveFiles": [
-      "Pages\\zoey\\页面5.json"
-    ]
+    "ModuleType": 2
   },
   {
     "ModuleName": "Tables/nancy/externaltable/StatisticFormula/dameng",
@@ -594,12 +553,6 @@
   },
   {
     "ModuleName": "PCPage/页面3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T12:11:46.7204049+08:00",
     "ModuleType": 1
   },
   {
@@ -608,22 +561,10 @@
   },
   {
     "ModuleName": "MobilePage/页面4",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T14:07:52.9588304+08:00",
     "ModuleType": 2
   },
   {
     "ModuleName": "MobilePage/页面6",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T14:09:09.8345172+08:00",
     "ModuleType": 2
   },
   {
@@ -640,12 +581,6 @@
   },
   {
     "ModuleName": "MasterPCPage/母版页1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Zoey",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T16:25:37.7903469+08:00",
     "ModuleType": 3
   },
   {
