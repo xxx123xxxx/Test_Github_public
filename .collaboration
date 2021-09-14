@@ -114,7 +114,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\buildintabletest.json",
@@ -134,7 +134,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\表1.json",
@@ -205,7 +205,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\zoey\\表3.json",
@@ -244,7 +244,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 23,
     "ToRemoveFiles": [
       "Tables\\nancy\\buildintable\\用户信息视图.json",
@@ -492,7 +492,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\Branty\\dameng\\TextLength_内建表转外联.json",
@@ -563,7 +563,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\buildin\\部门表.json",
@@ -578,7 +578,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\buildin\\员工表.json",
@@ -705,7 +705,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生信息表-仅包含一个子表\\Students.json",
@@ -719,7 +719,14 @@
   },
   {
     "ModuleName": "Tables/nancy/externaltable/StatisticFormula/statistic/美妆销售",
-    "ModuleType": 22
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
+    "ModuleType": 22,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "Table/Grades",
@@ -728,7 +735,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生信息表-仅包含一个子表\\Grades.json",
@@ -743,7 +750,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生信息表-仅包含一个子表\\Classes.json",
@@ -758,7 +765,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生成绩表\\ScoreTable.json",
@@ -777,7 +784,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生成绩表\\GradeTable.json",
@@ -792,7 +799,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生成绩表\\ClassTable.json",
@@ -807,7 +814,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生成绩表\\StudentTable.json",
@@ -822,7 +829,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\汽车销售统计\\汽车企业信息.json",
@@ -841,7 +848,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\汽车销售统计\\汽车销售排行榜.json",
@@ -856,7 +863,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\汽车销售统计\\车型列表.json",
@@ -866,12 +873,12 @@
   },
   {
     "ModuleName": "Table/美妆_店铺信息",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_店铺信息.json",
@@ -885,12 +892,12 @@
   },
   {
     "ModuleName": "Table/美妆_区域列表",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_区域列表.json",
@@ -900,12 +907,12 @@
   },
   {
     "ModuleName": "Table/美妆_员工信息",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_员工信息.json",
@@ -915,12 +922,12 @@
   },
   {
     "ModuleName": "Table/美妆_会员信息",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_会员信息.json",
@@ -930,12 +937,12 @@
   },
   {
     "ModuleName": "Table/美妆_产品信息",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_产品信息.json",
@@ -945,12 +952,12 @@
   },
   {
     "ModuleName": "Table/美妆_销售信息",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-14T18:31:55.756011+08:00",
+    "LockDateTime": "2021-09-14T18:56:21.3441317+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_销售信息.json",
