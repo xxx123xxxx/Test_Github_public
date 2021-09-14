@@ -533,7 +533,16 @@
   },
   {
     "ModuleName": "MobilePage/页面5",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Zoey",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-14T14:05:58.4873844+08:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\页面5.json"
+    ]
   },
   {
     "ModuleName": "Tables/nancy/externaltable/StatisticFormula/dameng",
