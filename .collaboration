@@ -533,16 +533,7 @@
   },
   {
     "ModuleName": "Table/班级表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-14T15:47:08.4179515+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\dameng\\班级表.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/学生表",
