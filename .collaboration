@@ -41,17 +41,7 @@
   },
   {
     "ModuleName": "ApplicationSetting",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-15T18:28:46.754543+08:00",
-    "ModuleType": 8,
-    "ToRemoveFiles": [
-      "ApplicationSettings",
-      "favicon.ico"
-    ]
+    "ModuleType": 8
   },
   {
     "ModuleName": "Theme",
