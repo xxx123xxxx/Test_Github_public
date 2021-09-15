@@ -779,40 +779,15 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "TaskScheduler/计划任务1",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-15T18:00:37.9470073+08:00",
-    "ModuleType": 16,
-    "ToRemoveFiles": [
-      "SchedulerTasks\\Cindy\\计划任务1.json"
-    ]
-  },
-  {
     "ModuleName": "TaskScheduler/计划任务2",
     "ModuleType": 16
   },
   {
     "ModuleName": "Table/testButton",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-15T17:55:20.6634815+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "TaskScheduler/ABC",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-15T18:00:37.9470073+08:00",
     "ModuleType": 16
   }
 ]
