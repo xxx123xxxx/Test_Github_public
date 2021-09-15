@@ -965,16 +965,6 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "Pages/导入文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-15T10:09:29.4379578+08:00",
-    "ModuleType": 6
-  },
-  {
     "ModuleName": "Table/detailstable",
     "State": 3,
     "LockedBy": {
