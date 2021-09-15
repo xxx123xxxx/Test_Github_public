@@ -961,7 +961,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-15T10:09:29.4379578+08:00",
+    "LockDateTime": "2021-09-15T10:13:51.9051019+08:00",
     "ModuleType": 1
   },
   {
@@ -997,13 +997,13 @@
     "ExclusiveType": 0
   },
   {
-    "ModuleName": "Pages/Nancy/StatisticFormula/statisticpages",
+    "ModuleName": "Pages/Nancy/statisticpages",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-15T10:13:25.9985842+08:00",
+    "LockDateTime": "2021-09-15T10:13:51.9051019+08:00",
     "ModuleType": 6
   }
 ]
