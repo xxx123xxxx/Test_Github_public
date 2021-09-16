@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.OneTimeScheduleTrigger, ServerDesignerCommon","StartDateTime":44455.0,"ScheduleRunInDebugServer":false}],"Commands":[{"$type":"OperateFilesCommand.DeleteFileCommand, OperateFilesCommand","FilePath":"D:\\A_EveryDay_Files\\0916","Comments":"aaa"}],"Name":"计划任务_删除文件"}

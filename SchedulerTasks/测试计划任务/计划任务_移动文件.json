@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.OneTimeScheduleTrigger, ServerDesignerCommon","StartDateTime":44455.0,"ScheduleRunInDebugServer":false}],"Commands":[{"$type":"OperateFilesCommand.MoveFileCommand, OperateFilesCommand","FilePath":"a","TargetFolderPath":"b","Comments":"aaa"}],"Name":"计划任务_移动文件"}
