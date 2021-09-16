@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.OneTimeScheduleTrigger, ServerDesignerCommon","StartDateTime":44455.0,"ScheduleRunInDebugServer":false}],"Commands":[{"$type":"OperateFilesCommand.DownloadFileCommand, OperateFilesCommand","FilePath":"D:\\A_EveryDay_Files\\0916\\bb.csv","DownloadFileName":"bb.csv","Comments":"aaa"}],"Name":"计划任务_下载文件"}
