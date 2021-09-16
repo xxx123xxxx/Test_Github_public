@@ -523,7 +523,16 @@
   },
   {
     "ModuleName": "TaskScheduler/计划任务_服务端导入导出CSV",
-    "ModuleType": 16
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T14:14:35.9562443+08:00",
+    "ModuleType": 16,
+    "ToRemoveFiles": [
+      "SchedulerTasks\\测试计划任务\\计划任务_服务端导入导出CSV.json"
+    ]
   },
   {
     "ModuleName": "Table/导入导出CSV",
@@ -539,5 +548,15 @@
       "ForguncyDB.sqlite3"
     ],
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_服务端导入导出CSV_导出",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T14:14:35.9563266+08:00",
+    "ModuleType": 16
   }
 ]
