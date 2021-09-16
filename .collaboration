@@ -576,5 +576,15 @@
   {
     "ModuleName": "ServerCommand/服务端命令_下载文件",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_保存内容到文件",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T16:47:55.7263299+08:00",
+    "ModuleType": 16
   }
 ]
