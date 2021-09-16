@@ -1,0 +1,1 @@
+{"Enabled":false,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]}}],"Commands":[{"$type":"Forguncy.Model.ReturnCommand, ServerDesignerCommon","ErrorCode":"0","Message":"success"}],"Name":"禁用_返回命令"}

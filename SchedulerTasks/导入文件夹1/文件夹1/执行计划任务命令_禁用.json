@@ -1,0 +1,1 @@
+{"Enabled":false,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.ScheduleTrigger, ServerDesignerCommon","Interval":0.1,"StartDateTime":44453.445138888892}],"Commands":[{"$type":"Forguncy.Model.ReturnCommand, ServerDesignerCommon","ErrorCode":"0","Message":"success"}],"Name":"执行计划任务命令_禁用"}

@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]}}],"Commands":[{"$type":"Forguncy.Model.RequestServerCommand, ServerDesignerCommon","ServerCommandName":"启用_返回命令","RefreshAfterFinish":true,"CheckDataValidation":true}],"Name":"调用_启用服务端命令"}
