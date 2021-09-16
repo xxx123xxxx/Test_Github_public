@@ -784,7 +784,16 @@
   },
   {
     "ModuleName": "Table/testButton",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T10:31:33.575048+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\Cindy\\testButton.json"
+    ]
   },
   {
     "ModuleName": "TaskScheduler/abc",
