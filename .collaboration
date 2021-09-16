@@ -600,7 +600,16 @@
   },
   {
     "ModuleName": "PCPage/附件_列表页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T17:32:43.3962774+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\附件_列表页面.json"
+    ]
   },
   {
     "ModuleName": "TaskScheduler/计划任务_获取数据库附件中的文件路径",
