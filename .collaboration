@@ -133,7 +133,16 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "ModuleType": 25
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T12:08:48.9413034+08:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet"
+    ]
   },
   {
     "ModuleName": "Upload",
@@ -254,7 +263,16 @@
   },
   {
     "ModuleName": "Table/mysql_TestTrigger",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T12:08:48.9413034+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\导入文件夹1\\外联表\\mysql_TestTrigger.json"
+    ]
   },
   {
     "ModuleName": "Table/dameng_TestTrigger",
