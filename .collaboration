@@ -408,5 +408,15 @@
   {
     "ModuleName": "TaskScheduler/计划任务_打印_导出页面到pdf",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_导出页面到html",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T13:54:05.9599636+08:00",
+    "ModuleType": 16
   }
 ]
