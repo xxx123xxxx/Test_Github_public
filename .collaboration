@@ -788,6 +788,15 @@
   },
   {
     "ModuleName": "TaskScheduler/abc",
-    "ModuleType": 16
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T09:54:59.6352602+08:00",
+    "ModuleType": 16,
+    "ToRemoveFiles": [
+      "SchedulerTasks\\Cindy\\abc.json"
+    ]
   }
 ]
