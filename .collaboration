@@ -1,1 +1,742 @@
-[{"ModuleName":"Pages/内建页面","ModuleType":6},{"ModuleName":"PCPage/FGC_401页面","ModuleType":1},{"ModuleName":"PCPage/FGC_修改密码","ModuleType":1},{"ModuleName":"PCPage/FGC_忘记密码","ModuleType":1},{"ModuleName":"PCPage/FGC_邮件订阅","ModuleType":1},{"ModuleName":"PCPage/FGC_维护中","ModuleType":1},{"ModuleName":"PCPage/FGC_两步验证_扫码页面","ModuleType":1},{"ModuleName":"PCPage/FGC_两步验证_验证页面","ModuleType":1},{"ModuleName":"PCPage/FGC_修改用户信息","ModuleType":1},{"ModuleName":"PCPage/FGC_重置密码","ModuleType":1},{"ModuleName":"PCPage/FGC_重置密码发送邮件成功","ModuleType":1},{"ModuleName":"PCPage/FGC_登录","ModuleType":1},{"ModuleName":"Pages/内建手机页面","ModuleType":6},{"ModuleName":"MobilePage/FGC_401页面_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_修改密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_忘记密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_邮件订阅_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_维护中_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_两步验证_扫码页面_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_两步验证_验证页面_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_修改用户信息_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_重置密码发送邮件成功_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_重置密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_登录_手机版","ModuleType":2},{"ModuleName":"PCPage/页面1","ModuleType":1},{"ModuleName":"MasterPCPage/FGC_母版页","ModuleType":3},{"ModuleName":"ApplicationSetting","ModuleType":8},{"ModuleName":"Theme","ModuleType":9},{"ModuleName":"ImageSelector","ModuleType":10},{"ModuleName":"UserService","ModuleType":11},{"ModuleName":"CustomLibrary","ModuleType":12},{"ModuleName":"ShareCommand","ModuleType":13},{"ModuleName":"MapJsonFile","ModuleType":14},{"ModuleName":"DataContectionSet","ModuleType":25},{"ModuleName":"Upload","ModuleType":26}]
+[
+  {
+    "ModuleName": "Pages/内建页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/FGC_401页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_修改密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_忘记密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_邮件订阅",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_维护中",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_两步验证_扫码页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_两步验证_验证页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_修改用户信息",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_重置密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_重置密码发送邮件成功",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_登录",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/内建手机页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "MobilePage/FGC_401页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_修改密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_忘记密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_邮件订阅_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_维护中_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_两步验证_扫码页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_两步验证_验证页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_修改用户信息_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_重置密码发送邮件成功_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_重置密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_登录_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "PCPage/页面1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2041177+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面1.json"
+    ]
+  },
+  {
+    "ModuleName": "MasterPCPage/FGC_母版页",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "ApplicationSetting",
+    "ModuleType": 8
+  },
+  {
+    "ModuleName": "Theme",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 9,
+    "ToRemoveFiles": [
+      "Theme\\CellTypeStyles",
+      "Theme\\ListViewStyles",
+      "Theme\\StyleDefaultNames",
+      "Theme\\ThemeConfig",
+      "C:\\Users\\cindywu\\Documents\\ForguncyCollaboration\\Test_Github_public-cindy\\Reports\\DefaultTheme.rdlx-theme"
+    ]
+  },
+  {
+    "ModuleName": "ImageSelector",
+    "ModuleType": 10
+  },
+  {
+    "ModuleName": "UserService",
+    "ModuleType": 11
+  },
+  {
+    "ModuleName": "CustomLibrary",
+    "ModuleType": 12
+  },
+  {
+    "ModuleName": "ShareCommand",
+    "ModuleType": 13
+  },
+  {
+    "ModuleName": "MapJsonFile",
+    "ModuleType": 14
+  },
+  {
+    "ModuleName": "DataContectionSet",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1931188+08:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet"
+    ]
+  },
+  {
+    "ModuleName": "Upload",
+    "ModuleType": 26
+  },
+  {
+    "ModuleName": "MasterPCPage/母版页1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "MasterPages/导入文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 24
+  },
+  {
+    "ModuleName": "PCPage/服务端命令集合",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/导入文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/查看服务端日志情况",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/查看计划任务日志情况",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/查看副本同步日志情况",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/服务端命令执行日志详情内页",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/导入文件夹1/详情",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/计划任务命令执行日志详情内页",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/副本同步执行日志详情内页",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.1941165+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Table/Task_server",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/导入文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Tables/导入文件夹1/日志记录",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/Task_Task",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/Task_copy",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/Trigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/导入文件夹1/副本",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/sqlserver_TestTrigger1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/mysql_testtrigger1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/dameng_TestTrigger1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/oracle_TestTrigger1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/表1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/sqlserver_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Tables/导入文件夹1/外联表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "Table/oracle_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/mysql_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "Table/dameng_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2071156+08:00",
+    "ModuleType": 7
+  },
+  {
+    "ModuleName": "ServerCommand/启用_返回命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommands/导入文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 20
+  },
+  {
+    "ModuleName": "ServerCommand/禁用_返回命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/多命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/调用_启用服务端命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/调用_禁用服务端命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/无权限_返回命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/删除Trigger表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommands/导入文件夹1/创建_删除表",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 20
+  },
+  {
+    "ModuleName": "ServerCommand/创建表Trigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/删除sqlserver_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/创建sqlserver_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/创建oracle_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/删除oracle_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/创建mysql_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/删除mysql_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/创建dameng_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/删除dameng_TestTrigger",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "TaskScheduler/服务端命令执行后执行",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 16
+  },
+  {
+    "ModuleName": "SchedulerTasks/导入文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 21
+  },
+  {
+    "ModuleName": "SchedulerTasks/导入文件夹1/日志记载",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 21
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务命令执行后执行",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/副本同步执行后执行",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/执行计划任务命令_禁用",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 16
+  },
+  {
+    "ModuleName": "SchedulerTasks/导入文件夹1/文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 21
+  },
+  {
+    "ModuleName": "TaskScheduler/执行计划任务命令_启用",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/执行计划任务命令_启用1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:44:00.2081167+08:00",
+    "ModuleType": 16
+  }
+]
