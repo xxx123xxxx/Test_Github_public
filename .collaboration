@@ -371,5 +371,15 @@
   {
     "ModuleName": "TaskScheduler/执行计划任务命令_启用1",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "SchedulerTasks/测试计划任务",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T11:46:18.0438481+08:00",
+    "ModuleType": 21
   }
 ]
