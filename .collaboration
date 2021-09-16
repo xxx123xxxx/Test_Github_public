@@ -618,5 +618,15 @@
     },
     "LockDateTime": "2021-09-16T14:37:19.4859162+08:00",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_设置变量命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T14:44:29.6878292+08:00",
+    "ModuleType": 16
   }
 ]
