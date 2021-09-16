@@ -566,6 +566,15 @@
   },
   {
     "ModuleName": "TaskScheduler/计划任务_设置变量命令",
-    "ModuleType": 16
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T14:54:10.6388585+08:00",
+    "ModuleType": 16,
+    "ToRemoveFiles": [
+      "SchedulerTasks\\测试计划任务\\计划任务_设置变量命令.json"
+    ]
   }
 ]
