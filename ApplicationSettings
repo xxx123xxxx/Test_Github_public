@@ -6,9 +6,7 @@
   <MaxRowCount>10000000</MaxRowCount>
   <NotAllowAnonymousAccessData>True</NotAllowAnonymousAccessData>
   <NotAllowModifyDatabaseByJsApi>False</NotAllowModifyDatabaseByJsApi>
-  <SkipCheckErrorWhenGeneratePage>True</SkipCheckErrorWhenGeneratePage>
   <StartDateFiscalYear>1</StartDateFiscalYear>
-  <StartPage>查看服务端日志情况</StartPage>
   <UserServicePort>22103</UserServicePort>
   <WebSitePort>31189</WebSitePort>
 </ApplicationSettings>
