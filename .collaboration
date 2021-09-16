@@ -522,5 +522,15 @@
     },
     "LockDateTime": "2021-09-16T15:42:19.6411544+08:00",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_添加用户到角色",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T15:43:42.9354175+08:00",
+    "ModuleType": 16
   }
 ]
