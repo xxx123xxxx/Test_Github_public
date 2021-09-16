@@ -576,5 +576,15 @@
     "ToRemoveFiles": [
       "SchedulerTasks\\测试计划任务\\计划任务_设置变量命令.json"
     ]
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_返回命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T15:10:37.843014+08:00",
+    "ModuleType": 16
   }
 ]
