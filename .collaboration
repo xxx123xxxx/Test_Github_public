@@ -429,5 +429,15 @@
     "ModuleName": "Table/导入导出CSV",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Tables/测试计划任务/文件夹1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T14:06:50.216148+08:00",
+    "ModuleType": 22
   }
 ]
