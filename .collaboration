@@ -137,7 +137,14 @@
   },
   {
     "ModuleName": "Upload",
-    "ModuleType": 26
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
+    "ModuleType": 26,
+    "ToRemoveFiles": []
   },
   {
     "ModuleName": "MasterPCPage/母版页1",
@@ -190,7 +197,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\日志记录\\Task_server.json",
@@ -213,7 +220,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\日志记录\\Task_Task.json",
@@ -228,7 +235,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\日志记录\\Task_copy.json",
@@ -243,7 +250,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\Trigger.json",
@@ -262,7 +269,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\sqlserver_TestTrigger1.json",
@@ -277,7 +284,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\mysql_testtrigger1.json",
@@ -292,7 +299,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\dameng_TestTrigger1.json",
@@ -307,7 +314,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\oracle_TestTrigger1.json",
@@ -322,7 +329,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\表1.json",
@@ -477,7 +484,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\测试计划任务\\数据表操作.json",
@@ -528,7 +535,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\测试计划任务\\导入导出CSV.json",
@@ -591,7 +598,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 23,
     "ToRemoveFiles": [
       "Tables\\用户信息视图.json",
@@ -662,7 +669,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\测试计划任务\\保存组织结构.json",
@@ -677,7 +684,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3737895+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\测试计划任务\\保存组织结构成员.json",
@@ -764,7 +771,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T16:54:07.3736813+08:00",
+    "LockDateTime": "2021-09-16T16:55:08.8015173+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
