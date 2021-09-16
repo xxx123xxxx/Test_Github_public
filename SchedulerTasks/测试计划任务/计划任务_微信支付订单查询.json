@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.OneTimeScheduleTrigger, ServerDesignerCommon","StartDateTime":44455.0,"ScheduleRunInDebugServer":false}],"Commands":[{"$type":"WechatPay.WechatPayOrderQuery, WechatPay","appid":"1","mch_id":"2","key":"3","ParamName":"wer","Comments":"aaa"}],"Name":"计划任务_微信支付订单查询"}
