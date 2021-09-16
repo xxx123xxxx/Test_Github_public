@@ -182,7 +182,16 @@
   },
   {
     "ModuleName": "Table/Test",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "cindy",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-09-16T11:05:37.9713686+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\导入文件夹2\\Test.json"
+    ]
   },
   {
     "ModuleName": "Tables/导入文件夹2",
