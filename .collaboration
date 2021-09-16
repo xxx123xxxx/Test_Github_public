@@ -708,5 +708,15 @@
       "ForguncyDB.sqlite3"
     ],
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_获取管理站点URL",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T16:13:18.8511074+08:00",
+    "ModuleType": 16
   }
 ]
