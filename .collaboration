@@ -728,5 +728,15 @@
     },
     "LockDateTime": "2021-09-16T16:15:26.0164241+08:00",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_拷贝文件",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T16:16:14.5442192+08:00",
+    "ModuleType": 16
   }
 ]
