@@ -746,5 +746,15 @@
     },
     "LockDateTime": "2021-09-16T16:51:04.2365141+08:00",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_获取文件夹中的文件路径",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T16:52:01.5055479+08:00",
+    "ModuleType": 16
   }
 ]
