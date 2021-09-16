@@ -564,5 +564,15 @@
   {
     "ModuleName": "TaskScheduler/计划任务_修改文件名",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_获取文件信息",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T16:23:00.0782957+08:00",
+    "ModuleType": 16
   }
 ]
