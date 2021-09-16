@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.OneTimeScheduleTrigger, ServerDesignerCommon","StartDateTime":44455.0,"ScheduleRunInDebugServer":false}],"Commands":[{"$type":"UserManagementCommands.Commands.UpdateUserCommand, UserManagementCommands","UserName":"小明","FullName":"未来","ExtendedProperties":[],"Comments":"aaa"}],"Name":"计划任务_更新用户"}
