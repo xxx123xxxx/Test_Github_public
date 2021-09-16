@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.OneTimeScheduleTrigger, ServerDesignerCommon","StartDateTime":44455.0,"ScheduleRunInDebugServer":false}],"Commands":[{"$type":"UserManagementCommands.Commands.SaveRolesToTableCommand, UserManagementCommands","TableName":"导入导出CSV","RoleNameColumn":"文本","Comments":"aaa"}],"Name":"计划任务_保存角色到表"}
