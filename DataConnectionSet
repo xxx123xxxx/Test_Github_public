@@ -19,9 +19,9 @@
     <ID>e0a7ff5d-29b5-4b07-badb-3b08b8158af2</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
-    <ConnectionString>Server=xa-dd3-fMS56O18;User Id=AutoTest;Password=xA20200326;Database=autotest</ConnectionString>
+    <ConnectionString>Server=xa-dd3-fMS56O18;User Id=AutoTest;Password=xA20200326;Database=test_cin</ConnectionString>
     <DataBaseType>MySql</DataBaseType>
-    <EConnectionString>W5M/BcrXIXC+w36XQ9EaOsCGJsEe6kNXHkB9p5l8KNlJKXaYk5IhYhk7kWaAz8MXU0mzCPIQR/AIfChK3awpruZt/VN+hpTMHaJ6RB4TFWM=</EConnectionString>
+    <EConnectionString>W5M/BcrXIXC+w36XQ9EaOsCGJsEe6kNXHkB9p5l8KNlJKXaYk5IhYhk7kWaAz8MXU0mzCPIQR/AIfChK3awprm/41V7QP1eeJPSm9iOZAxA=</EConnectionString>
     <ID>c71e612e-c9a0-4984-87a7-284679fed297</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
