@@ -625,5 +625,15 @@
   {
     "ModuleName": "TaskScheduler/计划任务_等待命令",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_JSON反序列化",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T17:27:08.6981465+08:00",
+    "ModuleType": 16
   }
 ]
