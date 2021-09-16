@@ -190,7 +190,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\日志记录\\Task_server.json",
@@ -213,7 +213,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\日志记录\\Task_Task.json",
@@ -228,7 +228,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\日志记录\\Task_copy.json",
@@ -243,7 +243,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\Trigger.json",
@@ -262,7 +262,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\sqlserver_TestTrigger1.json",
@@ -277,7 +277,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\mysql_testtrigger1.json",
@@ -292,7 +292,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\dameng_TestTrigger1.json",
@@ -307,7 +307,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\副本\\oracle_TestTrigger1.json",
@@ -322,7 +322,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\导入文件夹1\\表1.json",
@@ -477,7 +477,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\测试计划任务\\数据表操作.json",
@@ -528,7 +528,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\测试计划任务\\导入导出CSV.json",
@@ -591,7 +591,7 @@
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-16T15:47:02.229239+08:00",
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
     "ModuleType": 23,
     "ToRemoveFiles": [
       "Tables\\用户信息视图.json",
@@ -678,5 +678,16 @@
     },
     "LockDateTime": "2021-09-16T15:50:17.4492102+08:00",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "Table/保存组织结构",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-16T15:53:25.5762016+08:00",
+    "ModuleType": 7,
+    "ExclusiveType": 0
   }
 ]
