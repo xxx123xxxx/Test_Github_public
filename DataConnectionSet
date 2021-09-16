@@ -6,4 +6,9 @@
     <EConnectionString>0UTCBUoaUYt5Ztt2BshEhZ7YlywE4/bxwEp4OXtik7IHCGSzmCg5IUVYsLtfq4FiDug0i7S6nk7PhZWpge++2r+H8Rt/t4HmT8jNM3UWrCk=</EConnectionString>
     <ID>ccadeff2-c8ca-4131-ba1d-f76e068c0a49</ID>
   </Item>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
+    <ConnectionString>Host=xa-dd3-fgcp13d8.grapecity.net;Username=postgres;Password=xA20200326;Database=brantytest</ConnectionString>
+    <DataBaseType>PostgreSQL</DataBaseType>
+    <ID>0e6d8241-a5d9-4cc9-b365-ab6e046da3a8</ID>
+  </Item>
 </DataConnectionSet>
