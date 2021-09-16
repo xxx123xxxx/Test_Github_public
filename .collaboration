@@ -190,16 +190,7 @@
   },
   {
     "ModuleName": "Table/Test1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-16T11:05:46.0778569+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\导入文件夹3\\Test1.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/导入文件夹3",
