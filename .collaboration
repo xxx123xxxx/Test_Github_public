@@ -810,7 +810,16 @@
   },
   {
     "ModuleName": "ServerCommand/服务端命令_数据表操作",
-    "ModuleType": 15
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T12:28:03.0195798+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\测试服务端命令\\服务端命令_数据表操作.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/服务端命令_存储过程调用",
