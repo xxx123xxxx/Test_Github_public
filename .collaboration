@@ -487,7 +487,16 @@
   },
   {
     "ModuleName": "TaskScheduler/计划任务_数据表操作",
-    "ModuleType": 16
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T13:36:57.0035563+08:00",
+    "ModuleType": 16,
+    "ToRemoveFiles": [
+      "SchedulerTasks\\测试计划任务\\计划任务_数据表操作.json"
+    ]
   },
   {
     "ModuleName": "TaskScheduler/计划任务_存储过程调用",
