@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"OpenDingTalkCommand.DingTalkLoginCommand, OpenDingTalkCommand","AppId":"asd","AppSecret":"asd","Comments":"aaa"}],"Name":"服务端命令_钉钉扫码登录"}

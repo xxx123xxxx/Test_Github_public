@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"WechatPay.WechatPayResponse, WechatPay","ReturnCode":"SUCCESS","ReturnMsg":"0","Comments":"aaa"}],"Name":"服务端命令_微信支付回调应答"}

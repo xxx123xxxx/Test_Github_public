@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"UserManagementCommands.Commands.LoginCommand, UserManagementCommands","UserName":"asd","Password":"sdfd","Comments":"aaa"}],"Name":"服务端命令_登录"}

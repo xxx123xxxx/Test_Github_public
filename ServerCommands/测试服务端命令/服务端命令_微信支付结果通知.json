@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"WechatPay.WechatPayResultNotify, WechatPay","Key":"1","ParamName":"res","Comments":"aaa"}],"Name":"服务端命令_微信支付结果通知"}

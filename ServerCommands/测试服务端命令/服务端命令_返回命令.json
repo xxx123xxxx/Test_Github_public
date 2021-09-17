@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"Forguncy.Model.ReturnCommand, ServerDesignerCommon","ErrorCode":"0","Message":"res","CustomReturns":[],"Comments":"aaa"}],"Name":"服务端命令_返回命令"}

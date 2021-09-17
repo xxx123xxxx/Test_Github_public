@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"WechatPay.WechatPayOrderQuery, WechatPay","appid":"1","mch_id":"2","key":"1","ParamName":"er","Comments":"aaa"}],"Name":"服务端命令_微信支付订单查询"}
