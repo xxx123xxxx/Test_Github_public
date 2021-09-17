@@ -851,7 +851,16 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T17:16:06.5643598+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\运行服务端命令\\页面2.json"
+    ]
   },
   {
     "ModuleName": "SchedulerTasks/测试计划任务/特殊点",
