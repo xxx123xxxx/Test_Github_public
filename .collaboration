@@ -767,12 +767,12 @@
   },
   {
     "ModuleName": "PCPage/主表1_详情页面",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-17T10:12:01.0258719+08:00",
+    "LockDateTime": "2021-09-17T10:12:13.5036257+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\主表1_详情页面.json"
@@ -780,12 +780,12 @@
   },
   {
     "ModuleName": "PCPage/主表1_列表页面",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-17T10:12:01.0258719+08:00",
+    "LockDateTime": "2021-09-17T10:12:13.5036257+08:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\主表1_列表页面.json"
