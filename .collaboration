@@ -754,15 +754,42 @@
   },
   {
     "ModuleName": "Table/主表1",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T10:12:01.023878+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\主表1.json"
+    ]
   },
   {
     "ModuleName": "PCPage/主表1_详情页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T10:12:01.0258719+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\主表1_详情页面.json"
+    ]
   },
   {
     "ModuleName": "PCPage/主表1_列表页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T10:12:01.0258719+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\主表1_列表页面.json"
+    ]
   },
   {
     "ModuleName": "TaskScheduler/计划任务2",
