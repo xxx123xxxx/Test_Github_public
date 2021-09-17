@@ -797,5 +797,15 @@
     },
     "LockDateTime": "2021-09-17T11:05:26.6975028+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令_微信支付订单查询",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T11:05:59.8942761+08:00",
+    "ModuleType": 15
   }
 ]
