@@ -961,5 +961,15 @@
     },
     "LockDateTime": "2021-09-17T12:09:54.1076611+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令_JSON(反)序列化",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T12:10:37.5765179+08:00",
+    "ModuleType": 15
   }
 ]
