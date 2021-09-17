@@ -1002,7 +1002,16 @@
   },
   {
     "ModuleName": "ServerCommand/服务端命令_DeleteOSInfoCommand",
-    "ModuleType": 15
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T18:06:30.1110621+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\测试服务端命令\\服务端命令_DeleteOSInfoCommand.json"
+    ]
   },
   {
     "ModuleName": "Pages/运行服务端命令",
