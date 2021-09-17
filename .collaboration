@@ -578,7 +578,16 @@
   },
   {
     "ModuleName": "TaskScheduler/计划任务_发送企业微信命令",
-    "ModuleType": 16
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T14:51:45.3371594+08:00",
+    "ModuleType": 16,
+    "ToRemoveFiles": [
+      "SchedulerTasks\\测试计划任务\\计划任务_发送企业微信命令.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/服务端命令_发送企业微信命令",
