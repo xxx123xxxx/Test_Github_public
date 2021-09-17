@@ -660,52 +660,22 @@
   },
   {
     "ModuleName": "ServerCommand/服务端命令_数据表操作",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:26:57.0456532+08:00",
     "ModuleType": 15
   },
   {
     "ModuleName": "ServerCommand/服务端命令_存储过程调用",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:27:26.6238066+08:00",
     "ModuleType": 15
   },
   {
     "ModuleName": "ServerCommand/服务端命令_事务命令",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:28:07.233079+08:00",
     "ModuleType": 15
   },
   {
     "ModuleName": "ServerCommand/服务端命令_执行sql命令",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:29:00.2471949+08:00",
     "ModuleType": 15
   },
   {
     "ModuleName": "ServerCommand/服务端命令_导出页面到excel",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:29:55.8302728+08:00",
     "ModuleType": 15
   }
 ]
