@@ -798,5 +798,15 @@
     },
     "LockDateTime": "2021-09-16T11:35:49.8974548+08:00",
     "ModuleType": 27
+  },
+  {
+    "ModuleName": "Pages/Nancy/有未提交数据时给提示",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T09:13:07.2252541+08:00",
+    "ModuleType": 6
   }
 ]
