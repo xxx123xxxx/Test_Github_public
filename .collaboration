@@ -1096,5 +1096,15 @@
     },
     "LockDateTime": "2021-09-17T15:27:25.1999215+08:00",
     "ModuleType": 21
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务_调用禁用的服务端命令",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T15:28:20.0180081+08:00",
+    "ModuleType": 16
   }
 ]
