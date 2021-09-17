@@ -931,5 +931,15 @@
     },
     "LockDateTime": "2021-09-17T12:07:22.5753009+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令_获取数据库中的附件的文件路径",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T12:08:26.2711958+08:00",
+    "ModuleType": 15
   }
 ]
