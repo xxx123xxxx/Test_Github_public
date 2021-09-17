@@ -817,7 +817,16 @@
   },
   {
     "ModuleName": "ServerCommandPrivate/服务端命令_私有_由定时任务调用",
-    "ModuleType": 27
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T15:26:57.6321969+08:00",
+    "ModuleType": 27,
+    "ToRemoveFiles": [
+      "ServerCommands\\服务端命令_私有_由定时任务调用.json"
+    ]
   },
   {
     "ModuleName": "TaskScheduler/计划任务_程序调用命令_清除缓存",
