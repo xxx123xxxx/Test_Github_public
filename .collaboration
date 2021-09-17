@@ -911,5 +911,15 @@
     },
     "LockDateTime": "2021-09-17T11:27:42.0172817+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令_删除文件夹",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T11:28:13.567793+08:00",
+    "ModuleType": 15
   }
 ]
