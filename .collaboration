@@ -833,13 +833,13 @@
     "ModuleType": 16
   },
   {
-    "ModuleName": "ServerCommandPrivate/服务端命令_公有_由定时任务调用",
+    "ModuleName": "ServerCommand/服务端命令_公有_由定时任务调用",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\CindyWu",
       "Email": "cindy.wu@grapecity.com"
     },
-    "LockDateTime": "2021-09-17T09:52:22.3773486+08:00",
-    "ModuleType": 27
+    "LockDateTime": "2021-09-17T09:52:30.9593682+08:00",
+    "ModuleType": 15
   }
 ]
