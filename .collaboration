@@ -520,7 +520,16 @@
   },
   {
     "ModuleName": "PCPage/表3_列表页面",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T12:15:30.1005351+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\表3_列表页面.json"
+    ]
   },
   {
     "ModuleName": "Table/班级表",
@@ -864,6 +873,16 @@
       "Email": "Nancy.yang@grapecity.com"
     },
     "LockDateTime": "2021-09-17T10:12:44.1572575+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/aa",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T12:15:30.1015346+08:00",
     "ModuleType": 1
   }
 ]
