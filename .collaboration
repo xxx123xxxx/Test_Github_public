@@ -619,7 +619,16 @@
   },
   {
     "ModuleName": "TaskScheduler/计划任务_发送钉钉消息命令",
-    "ModuleType": 16
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T14:56:27.8527283+08:00",
+    "ModuleType": 16,
+    "ToRemoveFiles": [
+      "SchedulerTasks\\测试计划任务\\计划任务_发送钉钉消息命令.json"
+    ]
   },
   {
     "ModuleName": "TaskScheduler/计划任务_发送Teams消息命令",
