@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.OneTimeScheduleTrigger, ServerDesignerCommon","StartDateTime":44455.0,"ScheduleRunInDebugServer":false}],"Commands":[{"$type":"Forguncy.Model.BatchProgramCommand, ServerDesignerCommon","Path":"C:\\Users\\cindywu\\Downloads\\clear.bat"}],"Name":"计划任务_程序调用命令_清除缓存"}

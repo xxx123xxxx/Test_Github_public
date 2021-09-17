@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"Forguncy.Model.BatchProgramCommand, ServerDesignerCommon","Path":"C:\\Users\\cindywu\\Downloads\\clear.bat"}],"Name":"服务端命令_程序调用命令_清楚缓存"}
