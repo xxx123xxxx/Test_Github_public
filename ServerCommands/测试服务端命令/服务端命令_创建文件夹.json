@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"OperateFilesCommand.CreateFolderCommand, OperateFilesCommand","FolderPath":"D:\\A_EveryDay_Files\\0916\\aa","Comments":"aaa"}],"Name":"服务端命令_创建文件夹"}

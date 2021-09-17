@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"DetectOSInfoCommand.DetectOSInfoCommand, DetectOSInfoCommand"}],"Name":"服务端命令_DeleteOSInfoCommand"}

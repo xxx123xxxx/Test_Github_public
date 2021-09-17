@@ -1,0 +1,1 @@
+{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"OperateFilesCommand.DeleteFileCommand, OperateFilesCommand","FilePath":"D:\\A_EveryDay_Files\\0916","Comments":"aaa"}],"Name":"服务端命令_删除文件"}
