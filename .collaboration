@@ -657,5 +657,15 @@
   {
     "ModuleName": "TaskScheduler/计划任务_DeleteOSInfoCommand",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令_数据表操作",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T10:26:57.0456532+08:00",
+    "ModuleType": 15
   }
 ]
