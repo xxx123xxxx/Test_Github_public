@@ -781,5 +781,15 @@
   {
     "ModuleName": "ServerCommand/服务端命令_添加用户到角色",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令_从角色中删除用户",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T11:19:19.5720011+08:00",
+    "ModuleType": 15
   }
 ]
