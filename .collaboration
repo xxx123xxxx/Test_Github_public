@@ -801,5 +801,15 @@
     },
     "LockDateTime": "2021-09-17T11:57:22.2477915+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令_保存用户到组织",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T11:58:48.3184485+08:00",
+    "ModuleType": 15
   }
 ]
