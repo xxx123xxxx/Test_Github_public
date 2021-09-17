@@ -472,7 +472,16 @@
   },
   {
     "ModuleName": "ServerCommand/服务端命令_发送企业微信命令",
-    "ModuleType": 15
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-17T14:41:54.1123575+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\测试服务端命令\\服务端命令_发送企业微信命令.json"
+    ]
   },
   {
     "ModuleName": "TableView/用户信息视图",
