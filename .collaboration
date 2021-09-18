@@ -660,7 +660,16 @@
   },
   {
     "ModuleName": "PCPage/表统计字段和子表统计字段在同一个listview",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T10:26:49.2776249+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\StatisticFormula\\dameng\\表统计字段和子表统计字段在同一个listview.json"
+    ]
   },
   {
     "ModuleName": "Pages/Nancy/StatisticFormula/statistic",
