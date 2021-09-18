@@ -824,7 +824,16 @@
   },
   {
     "ModuleName": "PCPage/视频播放_MP3",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T14:36:10.7370804+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Cindy\\视频播放\\视频播放_MP3.json"
+    ]
   },
   {
     "ModuleName": "Table/音频集合",
