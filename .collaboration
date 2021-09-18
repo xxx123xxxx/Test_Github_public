@@ -761,7 +761,16 @@
   },
   {
     "ModuleName": "PCPage/Show notify dialog when leave page with uncommitted changes",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T10:29:00.295174+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\有未提交数据时给提示\\Show notify dialog when leave page with uncommitted changes.json"
+    ]
   },
   {
     "ModuleName": "PCPage/表1_详情页面",
@@ -797,11 +806,29 @@
   },
   {
     "ModuleName": "TableView/mastertable11__",
-    "ModuleType": 23
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T10:29:00.295174+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\mastertable11__.json"
+    ]
   },
   {
     "ModuleName": "TableView/TTT",
-    "ModuleType": 23
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T10:29:00.295174+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\TTT.json"
+    ]
   },
   {
     "ModuleName": "ServerCommandPrivate/服务端命令",
@@ -825,5 +852,15 @@
     "ModuleName": "Table/表5_子表",
     "ModuleType": 7,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableView/bbb",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T10:29:00.295174+08:00",
+    "ModuleType": 23
   }
 ]
