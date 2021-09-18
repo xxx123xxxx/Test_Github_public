@@ -481,7 +481,16 @@
   },
   {
     "ModuleName": "PCPage/TextLength_Create_列表页面",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T10:00:17.4411285+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Branty\\DaMeng\\TextLength_Create_列表页面.json"
+    ]
   },
   {
     "ModuleName": "Table/TextLength_内建表转外联",
