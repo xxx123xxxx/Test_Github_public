@@ -725,45 +725,6 @@
     "ModuleType": 6
   },
   {
-    "ModuleName": "Table/主表1",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:12:01.023878+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\主表1.json"
-    ]
-  },
-  {
-    "ModuleName": "PCPage/主表1_详情页面",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:12:13.5036257+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\主表1_详情页面.json"
-    ]
-  },
-  {
-    "ModuleName": "PCPage/主表1_列表页面",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:12:13.5036257+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\主表1_列表页面.json"
-    ]
-  },
-  {
     "ModuleName": "TaskScheduler/计划任务2",
     "ModuleType": 16
   },
@@ -781,42 +742,18 @@
   },
   {
     "ModuleName": "Pages/Nancy/有未提交数据时给提示",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T09:13:07.2252541+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/Show notify dialog when leave page with uncommitted changes",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T09:13:26.2939341+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/表1_详情页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:12:44.1572575+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/表1_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-17T10:12:44.1572575+08:00",
     "ModuleType": 1
   },
   {
