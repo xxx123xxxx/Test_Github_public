@@ -411,16 +411,7 @@
   },
   {
     "ModuleName": "Table/表2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T09:44:13.4496922+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\表2.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Tables/nancy/externaltable",
@@ -560,19 +551,6 @@
   {
     "ModuleName": "Table/mastertable",
     "ModuleType": 7
-  },
-  {
-    "ModuleName": "Table/主表",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T09:48:11.9688698+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\主表.json"
-    ]
   },
   {
     "ModuleName": "MasterPCPage/母版页1",
