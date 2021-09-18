@@ -1278,5 +1278,15 @@
     },
     "LockDateTime": "2021-09-18T12:01:38.791199+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/循环播放_不勾选",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T12:03:39.7951112+08:00",
+    "ModuleType": 1
   }
 ]
