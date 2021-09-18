@@ -580,16 +580,7 @@
   },
   {
     "ModuleName": "PCPage/表统计字段和子表统计字段在同一个listview",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T10:26:49.2776249+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Nancy\\StatisticFormula\\dameng\\表统计字段和子表统计字段在同一个listview.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "Pages/Nancy/StatisticFormula/statistic",
@@ -761,16 +752,7 @@
   },
   {
     "ModuleName": "PCPage/Show notify dialog when leave page with uncommitted changes",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T10:29:00.295174+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Nancy\\有未提交数据时给提示\\Show notify dialog when leave page with uncommitted changes.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/表1_详情页面",
@@ -805,30 +787,8 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "TableView/mastertable11__",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T10:29:00.295174+08:00",
-    "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\mastertable11__.json"
-    ]
-  },
-  {
     "ModuleName": "TableView/TTT",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T10:29:00.295174+08:00",
-    "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\TTT.json"
-    ]
+    "ModuleType": 23
   },
   {
     "ModuleName": "ServerCommandPrivate/服务端命令",
@@ -855,12 +815,6 @@
   },
   {
     "ModuleName": "TableView/bbb",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T10:29:00.295174+08:00",
     "ModuleType": 23
   }
 ]
