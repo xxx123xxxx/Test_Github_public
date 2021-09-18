@@ -11,28 +11,240 @@
         "$type": "VideoPlayer.VideoPlayer, VideoPlayer",
         "VideoInfos": [
           {
-            "Caption": "音频",
-            "ExternalVideoPathFormula": {
-              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "=视频播放_MP3!S3:AB7"
-            }
+            "VideoPath": "3560524-e2906d78cfaeb1d4d2cd8a61debafb37.mp4",
+            "Caption": "音频"
           }
-        ]
+        ],
+        "Autoplay": true
+      }
+    },
+    "1,21": {
+      "BindingInfo": {
+        "TableName": "视频集合",
+        "ColumnName": "文本"
+      }
+    },
+    "4,21": {
+      "BindingInfo": {
+        "TableName": "视频集合",
+        "ColumnName": "文本2"
+      }
+    },
+    "13,3": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "视频集合",
+        "RowIndex": 13,
+        "ColumnIndex": 3,
+        "ColumnCount": 32,
+        "RowCount": 13,
+        "IsRowHeaderVisible": true,
+        "IsRowHeaderCheckBoxVisible": true,
+        "AllowEditInListview": true,
+        "AllowAddNewRow": true,
+        "ShowDeleteButton": true,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "Name": "表格1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "14,5": {
+      "BindingInfo": {
+        "TableName": "视频集合",
+        "ColumnName": "ID"
+      }
+    },
+    "14,8": {
+      "BindingInfo": {
+        "TableName": "视频集合",
+        "ColumnName": "文本"
+      }
+    },
+    "14,14": {
+      "BindingInfo": {
+        "TableName": "视频集合",
+        "ColumnName": "文本1"
+      }
+    },
+    "14,20": {
+      "BindingInfo": {
+        "TableName": "视频集合",
+        "ColumnName": "文本2"
+      }
+    },
+    "14,29": {
+      "CellType": {
+        "$type": "Forguncy.AttachmentCelltype, ServerDesignerCommon",
+        "UploadLimit": {
+          "MaxUploadFileCount": 1,
+          "ReplaceWhenOneFile": true
+        }
+      },
+      "BindingInfo": {
+        "TableName": "视频集合",
+        "ColumnName": "附件"
       }
     }
   },
   "StyleDatas": {
+    "Styles": [
+      {
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "BorderLeft": 0
+      },
+      {
+        "Foreground": 1,
+        "Underline": true
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": 0
+      }
+    ],
     "Types": {
       "Strs": [
+        "DarkGray",
+        "Blue",
         "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 0
+        }
       ]
     },
+    "CellStyles": {
+      "13,3": 0,
+      "13,4": 1,
+      "13,5": 1,
+      "13,6": 1,
+      "13,7": 1,
+      "13,8": 1,
+      "13,9": 1,
+      "13,10": 1,
+      "13,11": 1,
+      "13,12": 1,
+      "13,13": 1,
+      "13,14": 1,
+      "13,15": 1,
+      "13,16": 1,
+      "13,17": 1,
+      "13,18": 1,
+      "13,19": 1,
+      "13,20": 1,
+      "13,21": 1,
+      "13,22": 1,
+      "13,23": 1,
+      "13,24": 1,
+      "13,25": 1,
+      "13,26": 1,
+      "13,27": 1,
+      "13,28": 1,
+      "13,29": 1,
+      "13,30": 1,
+      "13,31": 1,
+      "13,32": 1,
+      "13,33": 1,
+      "13,34": 2,
+      "14,3": 3,
+      "14,29": 4,
+      "14,34": 5,
+      "15,3": 3,
+      "15,34": 5,
+      "16,3": 3,
+      "16,34": 5,
+      "17,3": 3,
+      "17,34": 5,
+      "18,3": 3,
+      "18,34": 5,
+      "19,3": 3,
+      "19,34": 5,
+      "20,3": 3,
+      "20,34": 5,
+      "21,3": 3,
+      "21,34": 5,
+      "22,3": 3,
+      "22,34": 5,
+      "23,3": 3,
+      "23,34": 5,
+      "24,3": 3,
+      "24,34": 5,
+      "25,3": 6,
+      "25,4": 7,
+      "25,5": 7,
+      "25,6": 7,
+      "25,7": 7,
+      "25,8": 7,
+      "25,9": 7,
+      "25,10": 7,
+      "25,11": 7,
+      "25,12": 7,
+      "25,13": 7,
+      "25,14": 7,
+      "25,15": 7,
+      "25,16": 7,
+      "25,17": 7,
+      "25,18": 7,
+      "25,19": 7,
+      "25,20": 7,
+      "25,21": 7,
+      "25,22": 7,
+      "25,23": 7,
+      "25,24": 7,
+      "25,25": 7,
+      "25,26": 7,
+      "25,27": 7,
+      "25,28": 7,
+      "25,29": 7,
+      "25,30": 7,
+      "25,31": 7,
+      "25,32": 7,
+      "25,33": 7,
+      "25,34": 8
+    },
     "SheetStyle": {
-      "FontFamily": 0
+      "FontFamily": 2
     }
   },
   "Spans": [
-    "1,3,10,14"
+    "1,3,10,14",
+    "15,3,11,32",
+    "14,5,1,3",
+    "13,5,1,3",
+    "14,8,1,6",
+    "13,8,1,6",
+    "14,14,1,6",
+    "13,14,1,6",
+    "14,20,1,9",
+    "13,20,1,9",
+    "14,29,1,6",
+    "13,29,1,6",
+    "1,21,2,7",
+    "4,21,3,14"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
@@ -46,4 +258,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//puiNWmwW+5DA5quE4KOPmFUjQ6rwVg6hqHaDPQNMJ2RyJRCKIohgtzThDN6jU1ZN1OMRr9GxeRjx/MuiaZXAlr/+DRELIXE0bs2tcr3xoO5tj8AZOVEcJ+KTYoj1ER9onyaUmwD/3KxLsVZR10+xNPsdAuctgt0jNC2WKb+2xT7S30U30dWzABnFT0B20tExzw5gjwhh8LsCf2cL2th1adOHA93JPWcWp2Q3C8wkO4tRvv8APUE94gkDjBjKXmZzHxZB8wbnsuwWITbulpHmy9iZBHIFio/1+8F0g8bRkANK18CUMzJQmelVVJuuU0bZNxgINlpuZgQOM5k8vMnQ2OvR1EG9sT9HMbNWfIE3sj6a9MnBEYdJqhW7uonaAiXIZrdymWLJqjhUEiQIHhJuKKfNOrs/Hr0Q7UUc6Wc5rKylWWT8JUfH/VZ3LN1KlTYvkPiAvWJcNAzyD0Ytpfoc2/WTOs6tlUjj8NCiSOU16FtoWAYSg95A9KSSuGFCvpGSn3H0CWoq4KXS8sNbDU/k84y4S4iVCozWdLUCj/1/fFknK7GqBNiQIkvL44i7F0yvkl3JAgD87I8y1KCw3GnnXqLerwQcVmopxEKgywrphx/MVTd/dSivyfWT1lwoPtc4pjCbzkCdELu3aW4ZoPLYCUetHDtVwEbIfah/jEJB3YsIlA1+3Ei8EkHGsowwv33dPY4O5AGfxpUOZ/6VQAEK9etSmCw8VmIUpkCs1RqCl5/r6j8ORBrUwVllG8KnGvw1N+i1wzhwGsbGUiRa/5DYBlPYOU1b5rRK+fzCu/Ky5/W0mZ5I0lhnLPWQaepH5mcJooi4XLs+cEppYJ5APnIuk6oseFz9Sf+THyBpsAN/c+KHfUCLnL3qE1/s5yYEO7qGQyQPzbTx8CLO9Dbt4kCnuw==|920
+}//anmiU5W5s6mJz3/og23GAcrfOp27YH3+juziJRs8GS8laHOz+si9FRCnqijLnlNoUKDEFAEA3w6R8n1KXlS6uvTV7m6mWzQMTizZOE5KVipEFjwlGss+GXJOITW5AvSAX/96RkS8lLI6Lm77bwYzXSGuqEKY2TjC8OcMY2x4/lheY84fsrGheplykFY0+sd0VTTcNPtQ7TDKEz/KwqU2K6/aHDIrBl7ZnWiZWtfXKzcELvNwnNarkOqp9fXFjbbBPhPT/rCzV5TKsT6iJE/m4Ahkf014/6sOzMUP0l518Uo4iyAlvPdFlSNJUMtMrwVWv0r2xnojE4pJMXlT5JApRxbiS4l+rtTCD65DWtEm1cNN8jUOOZ4y0AzsEDPhrp9IEQDQ6LEmGRTMaDLLvUdlC5e+1kNd8mOeklnKT+5TD1i/aIUXANYw5yHvTQgCnxDwL814fiTeYjSMoDvHZN1GkThLDxpfP9zCKvjLeb5+JdV8yzJa10EgBu2BbSkkfz+mf3TfAQCnGgMIL/1UtbmhoTJ5iOaSj86vt9r+5STFfGvyLq6Zppk19Yy9+PxoB+sRsMOa2DG7cwrv/gm1BKSmmtE9EEiGprZW3zP4TbsBlS2heVwlYAJxso1541SQXen4ykBE46Qov0RVRwf8bWvuu48/VnKTdv7ncpRh/FT7hDdrG2EEaWTmIP7RRXMfC+EYhFPn44/oJ9xKo4tPqrSwchxPnR3pLJBYvc6C+txbbbxA9BknvoEp9y4Hy3R3MaX3+T9BCZNQHWLIof+HE7Xxl+pRefCB6txAMimqL39DjIZY7IIrDqQvbCu1scF7GIpBipGyl2yirZYd4EPxL88nW9T7xbbpaE/+S9XfntEgjvQAqeBCs1EkhMZd7wmJCrr0GvTYZHUdRQ/TFeDnDAC0aQ==|920
