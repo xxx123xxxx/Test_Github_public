@@ -1,0 +1,49 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "1,3": {
+      "CellType": {
+        "$type": "VideoPlayer.VideoPlayer, VideoPlayer",
+        "VideoInfos": [
+          {
+            "Caption": "音频",
+            "ExternalVideoPathFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=视频播放_MP3!S3:AB7"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,3,10,14"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//puiNWmwW+5DA5quE4KOPmFUjQ6rwVg6hqHaDPQNMJ2RyJRCKIohgtzThDN6jU1ZN1OMRr9GxeRjx/MuiaZXAlr/+DRELIXE0bs2tcr3xoO5tj8AZOVEcJ+KTYoj1ER9onyaUmwD/3KxLsVZR10+xNPsdAuctgt0jNC2WKb+2xT7S30U30dWzABnFT0B20tExzw5gjwhh8LsCf2cL2th1adOHA93JPWcWp2Q3C8wkO4tRvv8APUE94gkDjBjKXmZzHxZB8wbnsuwWITbulpHmy9iZBHIFio/1+8F0g8bRkANK18CUMzJQmelVVJuuU0bZNxgINlpuZgQOM5k8vMnQ2OvR1EG9sT9HMbNWfIE3sj6a9MnBEYdJqhW7uonaAiXIZrdymWLJqjhUEiQIHhJuKKfNOrs/Hr0Q7UUc6Wc5rKylWWT8JUfH/VZ3LN1KlTYvkPiAvWJcNAzyD0Ytpfoc2/WTOs6tlUjj8NCiSOU16FtoWAYSg95A9KSSuGFCvpGSn3H0CWoq4KXS8sNbDU/k84y4S4iVCozWdLUCj/1/fFknK7GqBNiQIkvL44i7F0yvkl3JAgD87I8y1KCw3GnnXqLerwQcVmopxEKgywrphx/MVTd/dSivyfWT1lwoPtc4pjCbzkCdELu3aW4ZoPLYCUetHDtVwEbIfah/jEJB3YsIlA1+3Ei8EkHGsowwv33dPY4O5AGfxpUOZ/6VQAEK9etSmCw8VmIUpkCs1RqCl5/r6j8ORBrUwVllG8KnGvw1N+i1wzhwGsbGUiRa/5DYBlPYOU1b5rRK+fzCu/Ky5/W0mZ5I0lhnLPWQaepH5mcJooi4XLs+cEppYJ5APnIuk6oseFz9Sf+THyBpsAN/c+KHfUCLnL3qE1/s5yYEO7qGQyQPzbTx8CLO9Dbt4kCnuw==|920

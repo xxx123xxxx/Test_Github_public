@@ -1,0 +1,82 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "12,4": {
+      "CellType": {
+        "$type": "VideoPlayer.AudioPlayer, VideoPlayer",
+        "VideoInfos": [
+          {
+            "Caption": "<!DOCTYPE html>aaaaaabbbb",
+            "Description": "aaa",
+            "ExternalVideoPathFormula": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_700KB.mp3"
+          }
+        ]
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "12,4": 0,
+      "12,5": 0,
+      "12,6": 0,
+      "12,7": 0,
+      "12,8": 0,
+      "12,9": 0,
+      "12,10": 0,
+      "12,11": 0,
+      "12,12": 0,
+      "12,13": 0,
+      "12,14": 0,
+      "12,15": 0,
+      "12,16": 0,
+      "12,17": 0,
+      "13,4": 0,
+      "13,5": 0,
+      "13,6": 0,
+      "13,7": 0,
+      "13,8": 0,
+      "13,9": 0,
+      "13,10": 0,
+      "13,11": 0,
+      "13,12": 0,
+      "13,13": 0,
+      "13,14": 0,
+      "13,15": 0,
+      "13,16": 0,
+      "13,17": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "12,4,2,14"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//3gSgOxv3lSqntZZyzwX364LhfFrecethwwTaBtIq774SuGUifQPPLaIBImA0cJBeQ6HOEMXutWH/wY/xoiGAun4jR9MbEDX4XulZJEdi7bk7Hgr3oRrvMFXHF8Xvx7XjVN2u2XADAmpEiK08ifCuArbEeFkiO2p3Z0PZkJNhIuXLGF4VVfd8zQyhUCGuE6HEHej4Ka/b1ns+Qdny8kGSccJpgigcMDYNK9bw+/lr/Wnk9QxEYyRwX9iZK2mXOEdJyVESoE5krpjJTvkeJuw8me88CVv0DUwTJtq/QTZjLLBbAK4lMj9wUCY3GLDH2ibfN+tlisb2WoIJqZugRYe2aDdaChFVfqLYOrB3EYtScCIjEQwzYy7YfWwI+BzJTMeyTLnGCfRarImDtLAW2crf+JVYIwYtPbMofASUBXJY621H6QKcyqiJ07t1cjY1lRtG1rECUuiIBcRThlrfuSQBozQ+RsbdzKvDoMyv1Dvi0oeKR2J664knjIZMUXokclYOJ5DgdXdCc7RsvEvuI3zmdvxUNjWdWEVWq8UCOTPaDAh/AimxIv+hpNARr2IVNJtIHZq3+Z2UMLcNSU9yVED+3oWQGxwZtXAGvJRPcv4NI3ffJDNa+zcoDCFmfXXNQz2ZUSkCoE6pWH5tYMSiiBqW1BsZ0LkSXG7/WZiVyIkwpQizpLhtqBABGiBxZ4xzHUu5rZdegl8zz8hSMQ4v86IzqMMeItEhJaBRTUkDxbTQ1XPsCgYX6zwKT5U2eHzgljdc3BachP62JxizJilZmk9MW0RsUbtxFzuEMqn4c14TfPTbOTdgpvylcAK3Lz+XVoBXLuNIaJQKnLxzvfPdyrYmLEEehF0YvePFVOWGwlsA2BJuQkAYqZWAFKYcxhcAGfqoKa5GHO8hDEVTdY5ZXYIuKg==|920

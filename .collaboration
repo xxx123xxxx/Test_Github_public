@@ -41,17 +41,7 @@
   },
   {
     "ModuleName": "ApplicationSetting",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T09:54:50.3247365+08:00",
-    "ModuleType": 8,
-    "ToRemoveFiles": [
-      "ApplicationSettings",
-      "favicon.ico"
-    ]
+    "ModuleType": 8
   },
   {
     "ModuleName": "Theme",
@@ -72,21 +62,7 @@
   },
   {
     "ModuleName": "ImageSelector",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:46:13.8101786+08:00",
-    "ModuleType": 10,
-    "ToRemoveFiles": [
-      "image\\bb.gif",
-      "image\\fgc_logo_dark.png",
-      "image\\fgc_logo_light.png",
-      "image\\ghost.svg",
-      "image\\radish.svg",
-      "image\\rubber-ring.svg"
-    ]
+    "ModuleType": 10
   },
   {
     "ModuleName": "UserService",
@@ -106,27 +82,11 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:08:48.6257392+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
-    "ModuleType": 26,
-    "ToRemoveFiles": []
+    "ModuleType": 26
   },
   {
     "ModuleName": "Pages/Branty",
@@ -162,17 +122,7 @@
   },
   {
     "ModuleName": "Table/buildintabletest",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildintable\\buildintabletest.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -182,17 +132,7 @@
   },
   {
     "ModuleName": "Table/表1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildintable\\表1.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -262,17 +202,7 @@
   },
   {
     "ModuleName": "Table/表3",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\zoey\\表3.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -297,17 +227,7 @@
   },
   {
     "ModuleName": "TableView/用户信息视图",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\buildintable\\用户信息视图.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -324,16 +244,7 @@
   },
   {
     "ModuleName": "Table/TextLength_内建表转换成外连",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:13:55.8799492+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\postgresSQL\\TextLength_内建表转换成外连.json"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -564,17 +475,7 @@
   },
   {
     "ModuleName": "Table/TextLength_内建表转外联",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\Branty\\dameng\\TextLength_内建表转外联.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -623,32 +524,12 @@
   },
   {
     "ModuleName": "Table/部门表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\buildin\\部门表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/员工表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\buildin\\员工表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -669,17 +550,7 @@
   },
   {
     "ModuleName": "Table/mastertable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\statistictable\\mastertable.json",
-      "ForguncyDB.sqlite3"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "MasterPCPage/母版页1",
@@ -707,17 +578,7 @@
   },
   {
     "ModuleName": "Table/Students",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生信息表-仅包含一个子表\\Students.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -726,47 +587,17 @@
   },
   {
     "ModuleName": "Table/Grades",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生信息表-仅包含一个子表\\Grades.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/Classes",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生信息表-仅包含一个子表\\Classes.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/ScoreTable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生成绩表\\ScoreTable.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -775,62 +606,22 @@
   },
   {
     "ModuleName": "Table/GradeTable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生成绩表\\GradeTable.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/ClassTable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生成绩表\\ClassTable.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/StudentTable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\学生成绩表\\StudentTable.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/汽车企业信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\汽车销售统计\\汽车企业信息.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -839,32 +630,12 @@
   },
   {
     "ModuleName": "Table/汽车销售排行榜",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\汽车销售统计\\汽车销售排行榜.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/车型列表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\汽车销售统计\\车型列表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -877,17 +648,7 @@
   },
   {
     "ModuleName": "Table/美妆_店铺信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_店铺信息.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -896,77 +657,27 @@
   },
   {
     "ModuleName": "Table/美妆_区域列表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_区域列表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/美妆_员工信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_员工信息.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/美妆_会员信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_会员信息.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/美妆_产品信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_产品信息.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/美妆_销售信息",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\externaltable\\StatisticFormula\\statistic\\美妆销售\\美妆_销售信息.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -993,17 +704,7 @@
   },
   {
     "ModuleName": "Table/detailstable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\statistictable\\detailstable.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -1012,17 +713,7 @@
   },
   {
     "ModuleName": "Table/masterparenttable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\nancy\\statistictable\\masterparenttable.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -1076,22 +767,10 @@
   },
   {
     "ModuleName": "Pages/Cindy",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T09:48:45.7520092+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/音乐播放_mp3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T10:06:37.5975551+08:00",
     "ModuleType": 1
   },
   {
@@ -1108,47 +787,17 @@
   },
   {
     "ModuleName": "Table/表3_子表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\zoey\\表3_子表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表5",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\zoey\\表5.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/表5_子表",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:33:12.6655878+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\zoey\\表5_子表.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -1167,172 +816,70 @@
   },
   {
     "ModuleName": "PCPage/Test",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T10:47:45.8448526+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Pages/Cindy/视频播放",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:02:16.6005871+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/视频播放_MP3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:02:49.5781369+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Table/音频集合",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:08:48.6287381+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "PCPage/音乐播放_属性",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:48:59.6329481+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Pages/Cindy/详情",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:44:41.96624+08:00",
     "ModuleType": 6
   },
   {
     "ModuleName": "PCPage/自动播放_勾选",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:48:59.6329481+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/自动播放_不勾选",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:49:42.0727369+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/控制栏_显示",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:53:31.0631328+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/控制栏_不显示",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:54:43.5303663+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/禁止下载_勾选",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:56:20.4060978+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/禁止下载_不勾选",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T11:58:01.3608075+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/循环播放_勾选",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T12:01:38.791199+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/循环播放_不勾选",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T12:03:39.7951112+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "MasterPages/Cindy",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:56:30.2606234+08:00",
     "ModuleType": 24
   },
   {
     "ModuleName": "MasterPCPage/音视频母版页",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:56:55.724585+08:00",
     "ModuleType": 3
   },
   {
     "ModuleName": "PCPage/首页",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T13:58:43.3917669+08:00",
     "ModuleType": 1
   }
 ]
