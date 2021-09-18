@@ -82,7 +82,16 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "ModuleType": 25
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T15:38:50.0154287+08:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet"
+    ]
   },
   {
     "ModuleName": "Upload",
@@ -793,7 +802,16 @@
   },
   {
     "ModuleName": "TableView/TTT",
-    "ModuleType": 23
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T15:38:50.0184209+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\TTT.json"
+    ]
   },
   {
     "ModuleName": "ServerCommandPrivate/服务端命令",
@@ -820,7 +838,16 @@
   },
   {
     "ModuleName": "TableView/bbb",
-    "ModuleType": 23
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T15:38:50.0184209+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\bbb.json"
+    ]
   },
   {
     "ModuleName": "PCPage/Test",
