@@ -1111,16 +1111,6 @@
     "ModuleType": 23
   },
   {
-    "ModuleName": "PCPage/Show notify dialog when leave page with uncommitted changes (2)",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-18T10:29:57.4478323+08:00",
-    "ModuleType": 1
-  },
-  {
     "ModuleName": "PCPage/Test",
     "ModuleType": 1
   },
