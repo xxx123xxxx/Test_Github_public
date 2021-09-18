@@ -752,7 +752,16 @@
   },
   {
     "ModuleName": "PCPage/Show notify dialog when leave page with uncommitted changes",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T09:58:45.0537808+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Nancy\\有未提交数据时给提示\\Show notify dialog when leave page with uncommitted changes.json"
+    ]
   },
   {
     "ModuleName": "PCPage/表1_详情页面",
