@@ -765,5 +765,15 @@
     },
     "LockDateTime": "2021-09-18T09:48:45.7520092+08:00",
     "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/音乐播放",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-18T09:49:04.5429455+08:00",
+    "ModuleType": 1
   }
 ]
