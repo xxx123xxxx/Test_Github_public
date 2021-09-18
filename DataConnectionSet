@@ -55,12 +55,6 @@
     <ID>82dbbcaa-59a2-4b9b-a928-0649d2cbfaf4</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
-    <ConnectionString>server=xa-dd3-fgcp13d8;user=sysdba;password=xA20200326;schema=#</ConnectionString>
-    <DataBaseType>DaMeng</DataBaseType>
-    <EConnectionString>pvXdZcS94WD6y+NFxBe9KB+mKz5dcmuv19qpWfzAkb0em00PSKS8DUqMlUtohE0XETa90ngJ2nXA7n504hbk9w==</EConnectionString>
-    <ID>ed8444c7-f09d-40d2-8b6d-88f3875acec1</ID>
-  </Item>
-  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>Host=xa-dd3-fgcp13d8.grapecity.net;Username=postgres;Password=xA20200326;Database=cindytest</ConnectionString>
     <DataBaseType>PostgreSQL</DataBaseType>
     <EConnectionString>RhztvhI35PuLt7s7BThZzrIGX5WqahzIv65Csy6A0Q6ZgQDEwf1SAvunYYgS/sr9ifGtPJbe6lhbSTP3eaVj15mYl6Jlg0po2ZQSdfp5lxSy6sO/1SR4sOGibf6EXDXU</EConnectionString>
