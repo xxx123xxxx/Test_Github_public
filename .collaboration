@@ -1310,5 +1310,15 @@
     },
     "LockDateTime": "2021-09-22T15:11:37.1861577+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/视频播放_路径",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-22T15:15:26.7207415+08:00",
+    "ModuleType": 1
   }
 ]
