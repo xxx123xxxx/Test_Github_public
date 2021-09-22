@@ -897,7 +897,18 @@
   },
   {
     "ModuleName": "PCPage/音乐播放器_预加载",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-22T11:09:02.7864797+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Cindy\\音乐播放\\音乐播放器_预加载.json",
+      "image\\UserCustomCellTypeFiles\\VideoPlayer\\Videos\\file_example_OOG_5MG.ogg",
+      "image\\UserCustomCellTypeFiles\\VideoPlayer\\Videos\\file_example_WAV_10MG.wav"
+    ]
   },
   {
     "ModuleName": "Pages/Cindy/音乐播放",
