@@ -1290,28 +1290,10 @@
   },
   {
     "ModuleName": "PCPage/视频播放_路径",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-22T16:18:32.3911502+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Cindy\\视频播放\\视频播放_路径.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/视频播放_属性",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-22T16:21:11.4532637+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Cindy\\视频播放\\视频播放_属性.json"
-    ]
+    "ModuleType": 1
   }
 ]
