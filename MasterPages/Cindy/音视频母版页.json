@@ -92,6 +92,23 @@
                 "CanVisitRoleList": [
                   "FGC_Anonymous"
                 ]
+              },
+              {
+                "Text": "音乐播放器_预加载",
+                "SelectedIconColor": "Background 1",
+                "SelectedIconColorUseItemColor": true,
+                "IconColorUseItemColor": true,
+                "IsOldMenuPath": false,
+                "CommandList": [
+                  {
+                    "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                    "PageName": "音乐播放器_预加载",
+                    "PassValues": []
+                  }
+                ],
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
               }
             ]
           }
@@ -99,6 +116,11 @@
         "MenuLevelsStyle": [
           {
             "Height": 45.0,
+            "IconHeight": 24.0,
+            "IconWidth": 24.0
+          },
+          {
+            "Height": 32.0,
             "IconHeight": 24.0,
             "IconWidth": 24.0
           },
@@ -167,4 +189,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//gLrBgA4ySTDS2mdfKJSjtMp8s+UkJlg95S7T6LRGpR2yAKi8paMXef9jPJmAOlod4WYrUjmPJRGEbi7DiMR0wvBczpF8nH0J/aWf35amv7YddJrw2S0UU6NtymO6iqrDOkERqY05RxtEdD/Ka8eARnvoU/fqRVgvYLDzJHhFBeSY/USzZe/1aW5/Sc8x/OMwZ+XSx/pDzZ1p6ESNYmZgKdtZSShwUi11OE+XocEgbWD1+/wrBXBXS5MnamKmbsK4X/PgzVoNZGxIMYQcdTTC8JJr+PgFG2Hr/K48EGqCHHqJHQC8v5qDXgqcxURwg50WMcjaaWVB+tyPwG9xcAFKaVyor141lZ3sIR+TZH8qNiGwMEl2RpL3DzuaWBA5WVZlALeZQvgOrzp5/kLlNmSeZNzT3GkB3Wf3az3rIsvnUzhqsHh/de3d5ddGN2kfjP2JPcKUOUqIFAuC6uTis0qICe98krJ2UXz77QcO161SojE1YuVAypwCRDfnZrSZtQEyQhLGnOUykLBvygPiv5lvUDMzOTrO4KjqMIVEq3Yot0t1OfowvGCAZrpKcGlLWJlRTv6t5PuaZmlKZ/EkWFGI1+2zceMjsVvEWiVoZ7ID/hVEuLNsbFFFkYuUcJibn3Oq9kB0YXePVjU/5sP/bD1fkcAQQvn1V32Ocj4gLXV+8k1lIaAHbS3gbkBFdyQJl1ENTUn2HOePlbzNdTC/jOSAlvZKGNCwdzWOvCY2capxevp/DY0NQ+YAZYpZ8F/JTlXsJbx12ULGBVZO+2kZnMaJGT8QmenV6LGk6sYV1C7OM4JdUmCRar+ubNsDKzDzMDIXdK9wpY+8d3V4u0M3fDPzooO+gHQY3fHLEoVBeBpMOA9ihmOSnxbU3ZTiKEmIYe0aPahpwMBYqsnHnLFYUa3aMQ==|920
+}//KwmA2A9Xa4iQSgY/JsihHmeejifYW3/7hHUstyKaqIQ9QMf+Pg2qBBt6mM15TpqLim9KSmju9vRS/zpS/cMVijiskOz3VRQ94wBRpm25ShQ0z84DWdiwJui7WKwIa8ylAChFhXteL5evyThEgKeogmewAVKc8pqXuLLW2F0mQacahz7fRjPprXcDZkQr4frY3L8uQE1FaKgJRP2Jf00VCDSryy9SEdTMGFdWzXsuYHRGrsYa+Iw+7wx5+xrykIyheAnyxYUeCfxeEENpq9d/BG0lqEIOFJJSG7fIGTIrjFI9AIbCURqnBSaYK5ZsxspE1PRDrorcEbJntvqBXDHxE4hOTWSstWwRspdQXNEbAd4Au8cbr9LuiN77tNsD4ANemBFynP9ZmkjhL2z0GU2zAFLMzWKOQvkXO8i3UVsqwroNEuRNCwEttzkbERz/WAAaXQILEeF0MVZgi7z6yCw1sEM81FTuisVnxejtOBgB24NiB4C5OAeFGmqfqmxSZ7VVOFXEqARKaprw/SpUpe0N9/EFpitlXSg6n1vb5d6KzTk/I6wlDdR3LzjE6MvgMWtnNMFKBU8/75fbb8QrhpkcnxFJTvsPFMXighYMQd2V/vugOHRF5u58Ttgf9myuFqN6CI1j7bqwRX3+tM6YcAEhvsDQ5v5cnz1epqQ612puxCmMZjvb2aNbNuqELtrJomgNFFTbf6TiNT4Z61tVpxzIEW2Ew4LJbEzwxPBrOB3nc+NAxn6Cw0UJsDl62/jdIkox7hzUJOyuwQORN6a0TwqanKrpcdeLspHPwDGdDSGo9b8Nx+mjQMpR5vYOSqmxHfQQpL/UQuZSdGSZrknXxZjuiKTi8mbeq1gspTSpP2WPZFZdTHZHX8P1VQrkP2UHTbSWdpVFwk9peDmDcjTm6idwrw==|920
