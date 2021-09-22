@@ -22,7 +22,7 @@
             "Description": "aaaa",
             "ExternalCoverPathFormula": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "=视频播放!Q4"
+              "SerializeProperty": "=视频播放_封面!Q4"
             }
           }
         ]
@@ -90,7 +90,7 @@
             "Description": "aaaa",
             "ExternalCoverPathFormula": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "=视频播放!attachment"
+              "SerializeProperty": "=视频播放_封面!attachment"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "Caption": "视频",
             "ExternalCoverPathFormula": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "=视频播放!AU18"
+              "SerializeProperty": "=视频播放_封面!AU18"
             }
           }
         ]
@@ -1017,7 +1017,7 @@
   "CustomNames": [
     {
       "Name": "attachment",
-      "Formula": "视频播放!$R$13"
+      "Formula": "视频播放_封面!$R$13"
     }
   ]
-}//Pp1zUx7gax6R+4pZ4obk5EY5/qmmcnrjumIBEf0AYDwnHn6dEOdJ/H+mCb1RK3oH5q350v40uQp49p3vpQDZWmZcpTJd+YQs+exmCgjED09ktA2uIMVPjFGZRbM4LBPf2CAQ6cjaxuXhB2iNaMwtdal4W0h8AowGTOIsG7TUcAcXFferS7odWgNvA7H/jDzjcfGJxq4ZIsgV+rIzw57drvxcmwxktMPHpJ6OZaUUP7MEEfE9D+Ct2c72D6pJCiIHZjbfWEMNc9bHPF21Sq55z7LvbELk6qkDAheKRqMhC8XHdJXVq4KR03zfJsZrBqFUxf/a+idlZ3yiMB/OBgDsateH/kNBWeUJZdXn2i0GjprS/5fXL7ak6PgaeF3sl0n/vDbQUjQCD9TCSFBIPy/qVad/zy767X4sXiyBtuvUl7rGV0zgGNdzJj3N1vpASQtMRmVAsqClxS2Dd+ufy/CGeyPX+aPUbCfQfS7v0ScxWw8X6p7RYLESZ7hbmI3bMnCQoBADAI+AXfj+bv2GQxA8PdaUZ9QhBaUeRnGJSmlqc+yNxZaufVS2QWb2WfJqPwexklWwTVDeaYTcUsR4ujoyyxlemBNKAPXPvH3sy70BbbvfUrq51wjMlePZGY3NWwkDCF7zXWIS6NdD8mN1QR8lgzJHyocz7BnolaAH3S26qL4Dg07x8Jr4dbkRZY/+3t6sYOzC5HGa3yLi3Y+4+0ouNrNM8OBc6EsiDLiw/0VbzOB5xTdwkzQ7RsIZtrAVcgqgWTVd6sWYoEvHXdix00TGQ1b19CPloP+cGLsAzsxMWv1Q5p6erEdGb7A0GCrKyZqx4gMdeo/SuBq8wvqylygq80sNXwZmQx5jo1dpGcRZPEK36NbaviOXUw6N6EsNTr5umUTJacZWFyDVy1ljqHJDUw==|920
+}//Zm7hoHYrjBajbc3KEOYpQ1LmRk/DnumOBI9bQRbFgZqTohFO/KLXFtn7BtxIUhkds9+dG4hoY3iCQNXF3xkRywaLcwR/cIGUEv3ApCLn3oLBrduZqdGKZ/T8/vBfWLObJMpMBOG63uZsJOcYs1VoJrHQa7+hCbVmfc+ShtpfAdLi/DUlmO24sGqayJwdkX5u1T5ZOoQ1tzskMJK7U5FtAsL4lzoiM+WQzRzb0lj3ye7m1FhJStXsKUdLdgA9VwkKmOFtDcGbNtsSiIqG/TxGw2WyYYIJ2x82eEkWmK5WDIh5MCDbLibJRFJ6OTlIl6eAjriUgmWUM88v9l5qLBVT+GxMuYyZtPfyXna3p+5qYO4PtG1fmNl472VITtG0RKBBcGgN6ueEJKz6JY7cM+s2gJendrHUOIFfQl4t7dDL7MbdUt8jDPzF7YltLQoPT8W8+EojH24wFUi4uead1lCpZyrwiqWzRPaPilf4x2PGm86EINcwdzARr5T37/MdhmfJ4SezsYx/fI16i35DwsMaylOS1I5Whi6iG7H8LrSayG6NTXoi0SX/6wDFw1pdWYbt9NtZRU+aIgUFanGsrB0EbL0MJzNdMFQ59pkQqK2b7CEj+Ecgy9SEHAGttO3STulTr/OhYfO3Negk1lCE/bZJSeML0DDOuplIrvV7ki+/HddFYFRUabkBIg34d9qPSpcTybqcBmJP4lbH1pYJ4mUfH2OdmTlRTjIdI8fyKnrExRixmgLGAditCYjwI3A7oUN6lFLX1ZQyGQIADqcnf3p6k//YqmXDbEsVWVFnAS6crBo+2NmXUAkDGWU9k1f9OXXTNs40ZDFUrE0QMiOvzB8N3L1xiTXCx66/uoP8U4aGpsEEieIzWVMvXvJVhctndjS26yNQpYo4BMul9EyNLhmjog==|920
