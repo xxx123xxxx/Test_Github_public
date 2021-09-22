@@ -762,7 +762,18 @@
   },
   {
     "ModuleName": "PCPage/音乐播放_mp3",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-22T09:16:52.1480195+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Cindy\\音乐播放_mp3.json",
+      "image\\UserCustomCellTypeFiles\\VideoPlayer\\Videos\\file_example_MP3_700KB.mp3",
+      "image\\UserCustomCellTypeFiles\\VideoPlayer\\Videos\\file_example_MP3_1MG.mp3"
+    ]
   },
   {
     "ModuleName": "TableView/TTT",
