@@ -1036,5 +1036,15 @@
     },
     "LockDateTime": "2021-09-22T13:40:22.385736+08:00",
     "ModuleType": 1
+  },
+  {
+    "ModuleName": "Table/视频_封面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-22T15:04:31.7162459+08:00",
+    "ModuleType": 7
   }
 ]
