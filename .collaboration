@@ -809,7 +809,16 @@
   },
   {
     "ModuleName": "PCPage/音乐播放_属性",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-22T10:20:40.1815581+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Cindy\\音乐播放\\音乐播放_属性.json"
+    ]
   },
   {
     "ModuleName": "Pages/Cindy/详情",
