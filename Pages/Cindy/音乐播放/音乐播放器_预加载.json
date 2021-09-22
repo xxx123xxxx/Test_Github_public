@@ -4,6 +4,11 @@
   },
   "Cols": {
     "RowColumnAttachedInfos": {
+      "13": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 667.0
+        }
+      },
       "30": {
         "GridRowColumnDefinition": {
           "DesignLengthInPixel": 370.0
@@ -140,25 +145,29 @@
       "BindingInfo": {
         "TableName": "音频集合",
         "ColumnName": "ID"
-      }
+      },
+      "NameUsedInJavaScript": "ID"
     },
     "16,22": {
       "BindingInfo": {
         "TableName": "音频集合",
         "ColumnName": "标题"
-      }
+      },
+      "NameUsedInJavaScript": "b_标题"
     },
     "16,27": {
       "BindingInfo": {
         "TableName": "音频集合",
         "ColumnName": "描述"
-      }
+      },
+      "NameUsedInJavaScript": "b_描述"
     },
     "16,36": {
       "BindingInfo": {
         "TableName": "音频集合",
         "ColumnName": "URL"
-      }
+      },
+      "NameUsedInJavaScript": "b_URL"
     },
     "16,45": {
       "CellType": {
@@ -172,7 +181,8 @@
       "BindingInfo": {
         "TableName": "音频集合",
         "ColumnName": "音频"
-      }
+      },
+      "NameUsedInJavaScript": "b_音频"
     },
     "18,3": {
       "CellType": {
@@ -1209,4 +1219,4 @@
       "Formula": "音乐播放器_预加载!$D$21"
     }
   ]
-}//EPdYNuySgfn8IJZ715Hb3cN6sDmlmoaYvpTHgGSfLwp4qjMsyERvzPLcK/rdXQrnqZmFGyN4M1UZBxZig53y6Yb1i/vVcLWb2xODDFGeCYuX7ojtce2jmLCAZ2FUiBOR4TUmRXF0Z0mMXAnN/PaZCCdr8+rYmewRdkAcz+S4Q9wri2ACNJF6ieO7K2xdNFCRApszo5XrcNKsCgm6yWjVkvWrY35DnYmkiU34zeziABnW36mlILJrUYeIosYGH5KFIlRx6iRQIzSXzTR0FVJlRdoGMdCzGtADLeB24+7IIKLWA4ilXNf5vXYRd4uuW9oem/peTsrLlN43gosngPJoML4VX0j4pMnyk1oRHrv7zRcvNBX3W4KxKXF7TCMsJKF+WTnT0F6ECyRd1SuaNfXapELkfZNwtnGmdyivAmphKUSiIqNuhu/+cEBkSND4sRuba1T1mI1YMmotZg7t12nDZ0DVHq4Px/oCmulXy8IF+YnAgbsvQl5UnInvwQB0xvFqdCQa988jnd5dZC5/jKSx3ZZb0P9NApKvbaXwde5P67LYDDRJS8q2T2lN9VdrgrTbKT8gTNtakP3E4LASU6udztEKyPWPrFAq8ynTK6zJBHySBtojcEj6/NO2cHZCvHCL2NxjatFWzXOZvzkEOa8OOjRFaLWyd6hCmP8XLmhdmfGTCbtvgXmrzTPsLOUkiNL0sZYjGBkJoAMiGXs/7dh+a+nT/50xA6dr9D+UBIPWihljatUroL5e1V/eZPIZZQ5YANcTlo8N/K5blk+VC3lxLfwPY+YZD3KLBg+XoA0dboSwz4MUmSIrxEV21je6SLgJKVAWYWxm2F4Yt/EYE+GFofcGuzTZo+ORUTlTAdwEtpHXRNhfnFW3kGieEw1rZz3ff4FnKhUFcWbMwABnAGHEMg==|920
+}//+A47QBmm7FdRO1QXNY21smjioQnz6Np9Nj/PpTgNUWrPqaF+WuCHkZ0dkPfZsKxQtsae+0JFD5tqY/wVBk2gkI8d3lsqdUIGXe9xiT5DAgMVHLs7qaWcTXcsOLKPcpNQ/T4+sB+QWY+tyA3m25Kp0vcCG/BAFnICcSjiTSWoD/VCncHKnNQ6/aQKWIhfKHv4f1fxTbKUWTrEJo6pUxtL4FD6vAWhuqRv7IiLDu/deL2lNZbsESRjoTh40bYHfBqb1pHdEHxbIpAhc/7b29ltXbQZboiwhVTJb+RtWidWryzlIHAyaLOy/6dih+VHxsfzXV3KoLM+6ez68TMvKet6+6smst41cvAQ+9agvCTWk0l4MVdZY39JsC8UMaSW3V1kG1qqqXwlZixk6xec1wIVmw4fUqwKqdUO750mYQ9A/stqA3HqwaJXwjl3Z+kWMaATrjkpJr5szdw4zTF3w7n3x+iqeqZzpD5Fqs80L7uuFnp0Ik/koZJag/03FbrG3oVH44hygU+m4RtYuLO35ErGiPniKtIbrN5ekQrAGt0Cr+BLpu5Yki52C7ZVwMAncklsYLTLH2ZoEr0AlY2amvJ0BmSXx8AxoPDc8ID0gHdqsRVPRNrS1n1dfuD/eJpFdSXKt2xP2QhNXRakPQJQjUc2SeDwM3G4+rfAniWO/BmkuTNXMVD8uY65Uw2SeqloBMpJiFDwJAlyDrnJAOO4ZAWGA8K7TfoNvQB5lHoXPpAQADHZIIbXvGYUNlBQF7R6kE2eFvKjO9muNVGbAFZgqT2wosDzEocht5IlTObjBR6R9Mg5d92UbJPV/KZ4kV6lRuwHzVmaQRiK5onfkOH2jU2mL0qDeysFEzGji5+S5FsMxERqpjz+ce9qOvs16Dd50/YA9gXtv13McjtrxIWIMjfj/Q==|920
