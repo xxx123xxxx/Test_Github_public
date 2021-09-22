@@ -1303,6 +1303,15 @@
   },
   {
     "ModuleName": "PCPage/视频播放_属性",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-22T16:21:11.4532637+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Cindy\\视频播放\\视频播放_属性.json"
+    ]
   }
 ]
