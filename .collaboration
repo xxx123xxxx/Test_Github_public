@@ -962,10 +962,33 @@
   },
   {
     "ModuleName": "PCPage/视频播放",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-22T15:11:37.1861577+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\Cindy\\视频播放\\视频播放.json",
+      "image\\UserCustomCellTypeFiles\\CarouselCellType\\Images\\download (1).gif",
+      "image\\UserCustomCellTypeFiles\\CarouselCellType\\Images\\download (2).jfif",
+      "image\\UserCustomCellTypeFiles\\CarouselCellType\\Images\\download (8).jfif",
+      "image\\UserCustomCellTypeFiles\\VideoPlayer\\Videos\\small.mp4"
+    ]
   },
   {
     "ModuleName": "Table/视频_封面",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "PCPage/视频播放_封面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-22T15:11:37.1861577+08:00",
+    "ModuleType": 1
   }
 ]
