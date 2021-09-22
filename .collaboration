@@ -86,14 +86,7 @@
   },
   {
     "ModuleName": "Upload",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-22T16:08:11.135468+08:00",
-    "ModuleType": 26,
-    "ToRemoveFiles": []
+    "ModuleType": 26
   },
   {
     "ModuleName": "Pages/Branty",
@@ -1297,25 +1290,10 @@
   },
   {
     "ModuleName": "PCPage/视频播放_路径",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-22T16:06:09.0836378+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\Cindy\\视频播放\\视频播放_路径.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/视频播放_属性",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\CindyWu",
-      "Email": "cindy.wu@grapecity.com"
-    },
-    "LockDateTime": "2021-09-22T15:48:05.8183422+08:00",
     "ModuleType": 1
   }
 ]
