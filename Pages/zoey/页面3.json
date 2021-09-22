@@ -8,38 +8,145 @@
   "AttachInfos": {
     "1,1": {
       "CellType": {
-        "$type": "Forguncy.AttachmentCelltype, ServerDesignerCommon",
-        "UploadLimit": {
-          "ExtensionFilter": ".jpg, .jpeg, .png, .gif, .bmp, .xlsx, .docx, .doc, .xls, .pdf",
-          "ReplaceWhenOneFile": true
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "TemplateKey": "_RS_Normal_Style2",
+        "Icon": {
+          "Name": "Application/002_add_2.svg",
+          "BuiltIn": true,
+          "Color": "Background 1",
+          "UseCellTypeForeColor": true
+        }
+      }
+    },
+    "1,11": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "Icon": {
+          "Name": "Navigation/165_home_3.svg",
+          "BuiltIn": true,
+          "Color": "Text 1 70",
+          "UseCellTypeForeColor": true
+        }
+      }
+    },
+    "1,20": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "ImagePath": "File/353_access_file_2.svg",
+        "BuiltIn": true,
+        "Color": "Accent 1",
+        "UseCellForeColor": true
+      }
+    },
+    "1,29": {
+      "CellType": {
+        "$type": "Forguncy.UploadImageCellType, ServerDesignerCommon",
+        "ImagePath": "Chart/370_pie_chart_5.svg",
+        "BuiltIn": true,
+        "Color": "Accent 1",
+        "UseCellForeColor": true
+      }
+    },
+    "10,1": {
+      "CellType": {
+        "$type": "Forguncy.PageNavigateCellType, ServerDesignerCommon",
+        "FirstImage": {
+          "Name": "Arrow/347_move_first.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
         },
-        "TemplateKey": "_RS_Normal_Style2"
+        "PreviousImage": {
+          "Name": "Arrow/349_left_arrow.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
+        },
+        "NextImage": {
+          "Name": "Arrow/350_right_arrow.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
+        },
+        "LastImage": {
+          "Name": "Arrow/348_move_last.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
+        }
+      }
+    },
+    "15,1": {
+      "CellType": {
+        "$type": "Forguncy.RecordNavigationCellType, ServerDesignerCommon",
+        "FirstImage": {
+          "Name": "Arrow/347_move_first.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
+        },
+        "LastImage": {
+          "Name": "Arrow/348_move_last.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
+        },
+        "PreviousImage": {
+          "Name": "Arrow/349_left_arrow.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
+        },
+        "NextImage": {
+          "Name": "Arrow/350_right_arrow.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
+        }
       }
     }
   },
   "StyleDatas": {
     "Styles": [
       {
-        "Underline": true
+        "Formatter": 0
+      },
+      {
+        "HorizontalAlignment": 1
       }
     ],
     "Types": {
       "Strs": [
+        "@",
+        "Center",
         "Body"
       ]
     },
     "CellStyles": {
-      "1,1": 0
+      "1,11": 0,
+      "10,1": 1,
+      "15,1": 1
     },
     "SheetStyle": {
-      "FontFamily": 0
+      "FontFamily": 2
     }
   },
   "Spans": [
-    "1,1,20,37"
+    "1,1,8,9",
+    "1,11,8,8",
+    "1,20,8,8",
+    "1,29,8,8",
+    "10,1,4,36",
+    "15,1,4,36"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "母版页2",
     "AuthorizeInfo": {
       "VisitMode": 2
     },
@@ -50,4 +157,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//YNfGk7DjZE+n8d7BNDNHOXQtYOR3oGj8PPFIxofTnRMZnpnSvFA+yYWY42N31TRseoAZLjUdVlYvJRthuy53R4rAf/Dn/5q5URt2fpP4K2iH3o9yXctl+OemIxKbhM7rXBecSgfIVC+a9VjNPwUHwd3lBHoN3TSZfso1LEmrfOJizZ8WWSZGde3TpNPg8TQQWNh66gWvFNvvFb9GMO6Y6qCMF7THIiSE7ja0/+0sjqlImrBIcv7c1AeAXDy8Nb/geP9PXREuO1BSAYJS4UEJVB9MxWiPN4o7Td1v5JSb7tp0lyVGFK/feddrlood9H/AUV1UIYYEAIwJcxDJkYxxtLR6QD/Oj7LK6trVJA17Le4HANAK0jTPyrMzVM8mZvk/iRZxY1y437849BJLBkYO5ecy3pBd/piXcPsaXyMqWI8calEBk/bD3DinYbsMT6iw+ghGnzp/BXZiizuCs96gEBjxlKPeOuxSMo0MyNKmHHXrdFDJVCSTR1sWSh1M48QBd1ZzwBDWCShiO0yck/IiywUP+ZRZt0i5IxOsrCXE/kWZxE6oTLeYBYSsETYmvzJLBYvdHSAPoJ0xqX9uFx5qjiB0XahhQVJIw30a+U2vFRZ1cbnyO5o2+ExTJXuWYQfvN88DZweUHpVkKU+g3B47MzLFmjXwya0mCCYgr8njjpAjyBFq/PyVDPa/JR00vnT/iszbdVtAKmTp5WLPgcpLiYDQdKZFMIc9gKHd9v1gCfNqxJBP7B57WAL3ArLcDhOyr3kg70iUQrZhcBb362kUhSBc35c0EJ0sh35VOleVAKOYlcdOLHGreoLcjhfaqHTWg+STcAlCDBtb6I0AHAaXSxvuNZ7ccL0L3YtsepEP10zyqpCFQ6bxUab2vQbQIiSQ0kAE2cXg+ViH7Ss3uhNcxg==|920
+}//OQrXn1FfZ5XDi4/X9BuJYwFD1ZjooF+tNCY+GMSDm+gQSYUKs1rjoqMOR4KJ/Y5OJDckqHEqIZhnzWrGLS+067wed/39P3OFjJfBhZ9Ez4Hv+1yMNrSIqyLfkWJ8VsaUrhSery5ekVz7ET7AetxusZbuqY27c/r44D1W1g6MVGdToulhDy4O0Et9e2KZevBS8ixQI7gA8/F4j1yUm49Gez9jeBac3rw58Zt01mQzDCGh/PNMt0QDBmG4frUrIobNSH9T/MNozm8BwegA/LSqlT4iCk0wtu6Tlg6ZChyPch11gmotvKDiYgRCsUNqWriWSp6HlqFJcdI1X+Nr/1uUKPbEdSwZ4SsOcOEl6g85dKPJiCej9smZgYrSVCl9PYcSsOJmYgsoeKei/2MBk8L8abVCJaG9S/XyNGfDLEFJUdE4vKre1DU+PFxnJHOSpjYHBSk4n240MukuoA0uNvpYGU9w4bU4e7rbJc1BrUT0iuPIDEuZSnAWHcuBZZq73jLsbvATYBT04aayjNCcZFjDjujfu6I0puZEnb77mCZeSpo/9KwWx/hqMif3KwtDkJeANES8KBhGqaLrUCkMcy1KR3rYV25RciPOsJPt3Jm5dFyM3hb6mpHe22KCwEfjsUdE6ZxAFTDmN+wExuWrqY0ba0dfKtL17UOS2+YUmR94aXn/W5VZyNIPH8yWUlfmAeeczhZEAIVu8ij3z+j3C/8oDU9mLVCGEifzFVuow/zoK01OLxMP9rtRmg13/BrFdh/UZyOcmYEz7M3tiC/imhovizPI2yEt7d48Mixp7E/VE9Qp4DUYv1EwikxTR6BmsgOgL+lxxNQvZHENKsjssa404DtLoPoAWzRaENuydC+X4LRi/guSQ8URiEryf/huWrTQdpJ8sr1mvRHSL7So+mnagw==|920
