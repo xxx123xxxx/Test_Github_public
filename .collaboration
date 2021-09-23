@@ -150,5 +150,15 @@
   {
     "ModuleName": "Table/buildtable",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "TableView/视图2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T16:40:52.9837808+08:00",
+    "ModuleType": 23
   }
 ]
