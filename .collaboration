@@ -154,7 +154,7 @@
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-23T17:39:51.5190724+08:00",
+    "LockDateTime": "2021-09-23T17:40:24.0120056+08:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\buildtable.json"
@@ -194,13 +194,13 @@
     ]
   },
   {
-    "ModuleName": "TableView/学生表视图11",
+    "ModuleName": "TableView/学生表视图123",
     "State": 3,
     "LockedBy": {
       "UserName": "GRAPECITY\\NancyYang",
       "Email": "Nancy.yang@grapecity.com"
     },
-    "LockDateTime": "2021-09-23T17:39:51.5190724+08:00",
+    "LockDateTime": "2021-09-23T17:40:24.0120056+08:00",
     "ModuleType": 23
   }
 ]
