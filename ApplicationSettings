@@ -8,7 +8,6 @@
   <NotAllowModifyDatabaseByJsApi>False</NotAllowModifyDatabaseByJsApi>
   <SkipCheckErrorWhenGeneratePage>True</SkipCheckErrorWhenGeneratePage>
   <StartDateFiscalYear>1</StartDateFiscalYear>
-  <StartPage>首页</StartPage>
   <UserServicePort>22103</UserServicePort>
   <WebSitePort>31189</WebSitePort>
 </ApplicationSettings>

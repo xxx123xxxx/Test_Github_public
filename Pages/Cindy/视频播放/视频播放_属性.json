@@ -189,9 +189,7 @@
               "SerializeProperty": "=视频播放_属性!picture"
             }
           }
-        ],
-        "Autoplay": true,
-        "Loop": true
+        ]
       }
     },
     "14,19": {
@@ -210,9 +208,7 @@
             }
           }
         ],
-        "Autoplay": true,
-        "Controls": false,
-        "Loop": true
+        "Controls": false
       }
     },
     "22,1": {
@@ -1918,4 +1914,4 @@
       "Formula": "视频播放_属性!$B$8"
     }
   ]
-}//+4m1NQqvdCd1akhMFRMuX6VL6BqMOomuz/43XQp9E4MlROL5+atbPvu80D49YIqVLTr4FHItlemJFxeZU+xbfaMIPLw9HciIIs+BM9NRQpG0jPAjI79s5c60JT4Z47GOwmbHBq2GPu6qlccbZGKNC93SZrwVAfnf5fwH3Ez2yujF541Fcjzas9krx8tM0MmKUZTn0ZgXd4TCKAl5HOAc/GSINnzexkf7cIE5mHLyQihJN79UdzkhMf1QmEvxZkN299tMLE/ttyXzw9q5f4Xa9s43yVIWCIeQeDiSLY/OeluudANi4BIR6ADsuyom0n6qhNdaJWywyMOdNTBxiWbLLOAMl4URjrdYlEygpnhLk/HTjk3cSGxNH7wOSrbQvR5l9k+NciUhyYXKD/KWhcKpG6hKDz8qZSa2DJnkhXNvQmQBwxA/bjfNPIQKAX7ViM1oNa2oR3WGvDBs2phgntkbjwIr1gbc9yXOnO8ewyMnAcWxzJxITcvbcpinFy4lcsCiZ86xTtlYGG8zSG1L6XfgcRFaH0tDcWDJr6gwY2NUS1goagboNNqL3cX+tOvkYT3QOL57t20I4NH4rOlnjl9u6MUOFiiSoLze1LSzRyqdCfSzQiFXnAyTS7I3RxFO06eNNoBIVHY3CQBX84lyX7GdPylJHw8XtZA/4DvRmgwMMesr8BVDlciusmLP25ffRaPJ7C2v4spDD3TzK9z3lbScpmls7IQ3+izkpMTC76ZGsTt2978faUsp9f8sv2DMUI6Bp9cfQTEJI19EYKUJTB0a620rtFxFgc+rLT1+xOrM+uLINIhucA2dla+kimB+glhwdYKxeQmdMBnI/fIn7/EwS2sIkfnFerhUKhj3ESD3wqiQnH2QmfvBwt7l7PbQQC1tumFBVLBcTUFPakQYaIrY5g==|920
+}//a+nIiX9ejOVIcgjgubpoHl4+Hsz6WuKf8PZt+zAIR7jaCc9stfS7sU0rHWAD+EgOs/g7BpvHc9gND906KzXFtnE3yU8iHgwxJHGMrTsJfXlymrKNhG8NNnLsBQmknaNvSCAED4lVI/+gSQllkEyzzZuMBs1iuuLADiJRZ7Wgc4a1TQ5IQoAjzChLVG1ozCoaQ5QMk9uo831PDb0MPxEoEzygHH89SzqTuLYaACTBS14dYnZb3JqPnyRiZgIP8dTjw2Gy65Svcu4O3avV+CVchYTE8Ybq36pgKhALNaeX/t/ctPmE6CmwA//GXRtfrjMSdxOqC903IckyZZY8oiokKa9gCaWY+SE9arZjqVBYUBeQk5YvnKKx76Gg7RMepGMHHy/c3dLRA+rWhvr4YB0KuDthZIEmnMCM3OkUBXQ1Z1QX9HyMmwpyjJ/Wj3ZN/4Ct8jueThYdtAz00Z4yYips5WwIr2U2ogdyHzX9OhEtWNo8cn2O60uuA/bw2Wh/K0fpcBxjF5RhkjN9xpepQc46AfNTYgokRmEtDecbiewCqOvvLWgqUt+yadmKjZklJ9mPjz4X+XCruv3yQrS2BTk/jCI+F6ugDDhWuHRyW/QvJWdJv9VwkXIveAq81PiK/9ZvySbA/KttsZu5TXuBrmLG2mkqDF7SBuld6ekxru9HLvOurxLHuA3tTounPCNgoAZhS44ImVni51k5T3sxYK0AQkOtmDpbSuGoKomix4LslN3RqNmvDo6+GMIKw90xDFqu+FXmaedQEBNCovfIfnk+WXYHeWFzB20Ixld/OO6kK+xMQv/KBfIbWlAWVAu60yOEejjPyW7eLTut6ixWO2ilSxFTfYLZVCtDLF1OKlKqXGbRxZ9YQchte6kOOvuyTB4g8pwcl2Z1bjkfmFwVlTknaw==|920
