@@ -18,7 +18,16 @@
   },
   {
     "ModuleName": "TableView/学生表视图",
-    "ModuleType": 23
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T18:01:40.9473402+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\学生表视图.json"
+    ]
   },
   {
     "ModuleName": "Pages/内建页面",
