@@ -165,15 +165,6 @@
   },
   {
     "ModuleName": "Table/date111",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T17:31:24.4353512+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\date111.json"
-    ]
+    "ModuleType": 7
   }
 ]
