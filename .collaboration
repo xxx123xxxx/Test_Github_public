@@ -171,25 +171,5 @@
   {
     "ModuleName": "TableView/_",
     "ModuleType": 23
-  },
-  {
-    "ModuleName": "Table/date",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T16:55:14.7541385+08:00",
-    "ModuleType": 7
-  },
-  {
-    "ModuleName": "Table/newtable11111",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T16:58:41.900532+08:00",
-    "ModuleType": 7
   }
 ]
