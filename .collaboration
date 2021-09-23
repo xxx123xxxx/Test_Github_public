@@ -147,15 +147,5 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
-  },
-  {
-    "ModuleName": "TableView/视图8",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T16:27:54.2941961+08:00",
-    "ModuleType": 23
   }
 ]
