@@ -21,6 +21,23 @@
           "UseCellTypeForeColor": true
         },
         "IconSize": 30.0
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "0,4": {
@@ -33,6 +50,23 @@
           "Color": "Accent 5 0"
         },
         "IconSize": 30.0
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "0,8": {
@@ -43,6 +77,23 @@
         "BuiltIn": true,
         "Color": "Accent 1",
         "UseCellForeColor": true
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "0,12": {
@@ -52,6 +103,23 @@
         "ImagePath": "Navigation/197_dashboard_1.svg",
         "BuiltIn": true,
         "Color": "Accent 5 0"
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "0,15": {
@@ -64,7 +132,7 @@
               {
                 "TargetCells": {
                   "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                  "SerializeProperty": "=手机!A1,手机!E1,手机!I1,手机!M1,手机!A4,手机!E4,手机!I4,手机!M4,手机!A7,手机!I7,手机!A18,手机!I18,手机!I20,手机!A20,手机!A25"
+                  "SerializeProperty": "='手机 (4)'!A1,'手机 (4)'!E1,'手机 (4)'!I1,'手机 (4)'!M1,'手机 (4)'!A4,'手机 (4)'!E4,'手机 (4)'!I4,'手机 (4)'!M4,'手机 (4)'!A7,'手机 (4)'!I7,'手机 (4)'!A18,'手机 (4)'!I18,'手机 (4)'!I20,'手机 (4)'!A20,'手机 (4)'!A25"
                 },
                 "PropertyType": 3,
                 "Value": "Accent 6 60"
@@ -91,6 +159,23 @@
         },
         "IconSize": 30.0,
         "TemplateKey": "样式1"
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "3,4": {
@@ -108,6 +193,23 @@
         },
         "IconSize": 30.0,
         "TemplateKey": "样式1"
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "3,8": {
@@ -118,6 +220,23 @@
         "BuiltIn": true,
         "Color": "Accent 1",
         "UseCellForeColor": true
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "3,12": {
@@ -127,6 +246,23 @@
         "ImagePath": "File/359_pdf_file_2.svg",
         "BuiltIn": true,
         "Color": "Accent 5 0"
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "3,15": {
@@ -139,7 +275,7 @@
               {
                 "TargetCells": {
                   "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                  "SerializeProperty": "=手机!A1,手机!E1,手机!I1,手机!M1,手机!A4,手机!E4,手机!I4,手机!M4,手机!A7,手机!I7,手机!A18,手机!I18,手机!A20,手机!I20,手机!A25"
+                  "SerializeProperty": "='手机 (4)'!A1,'手机 (4)'!E1,'手机 (4)'!I1,'手机 (4)'!M1,'手机 (4)'!A4,'手机 (4)'!E4,'手机 (4)'!I4,'手机 (4)'!M4,'手机 (4)'!A7,'手机 (4)'!I7,'手机 (4)'!A18,'手机 (4)'!I18,'手机 (4)'!A20,'手机 (4)'!I20,'手机 (4)'!A25"
                 },
                 "PropertyType": 0,
                 "Value": false
@@ -238,6 +374,20 @@
           "UseCellTypeForeColor": true
         },
         "TemplateKey": "样式1"
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": "3_",
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "6,8": {
@@ -326,6 +476,20 @@
           "Color": "Accent 5 0"
         },
         "TemplateKey": "样式1"
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": "3_",
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "17,0": {
@@ -356,6 +520,23 @@
           "Color": "Accent 1",
           "UseCellTypeForeColor": true
         }
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "17,8": {
@@ -382,6 +563,23 @@
           "BuiltIn": true,
           "Color": "Accent 1"
         }
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "19,0": {
@@ -412,6 +610,23 @@
           "Color": "Accent 1",
           "UseCellTypeForeColor": true
         }
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "19,8": {
@@ -438,6 +653,23 @@
           "BuiltIn": true,
           "Color": "Accent 1"
         }
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
+          }
+        ]
       }
     },
     "21,0": {
@@ -565,10 +797,8 @@
           {
             "Text": "首页",
             "IconPath": "Mobile/381_home_3.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Application/053_settings_4.svg",
             "IsDefaultItem": true,
             "IsOldMenuPath": false,
@@ -579,10 +809,8 @@
           {
             "Text": "表单",
             "IconPath": "Mobile/383_file_3.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Chart/363_column_chart_2.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -592,11 +820,9 @@
           {
             "Text": "查询",
             "IconPath": "Mobile/442_search_8.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
-            "SelectedIconPath": "Application/046_search_7.svg",
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
+            "SelectedIconPath": "Application/044_search_5.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
               "FGC_Anonymous"
@@ -605,10 +831,8 @@
           {
             "Text": "报表",
             "IconPath": "Chart/363_column_chart_2.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Mobile/383_file_3.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -618,10 +842,8 @@
           {
             "Text": "设置",
             "IconPath": "Application/053_settings_4.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Mobile/381_home_3.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -636,6 +858,23 @@
             "ForeColor": "#9e9e9e",
             "SelectedBackColor": "#fcfcfc",
             "SelectedForeColor": "#00a1e9"
+          }
+        ]
+      },
+      "ConditionFormatRulesCollection": {
+        "Rules": [
+          {
+            "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
+            "Value": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "='手机 (4)'!$R$10"
+            },
+            "StyleInfo": {
+              "Background": "#FF92D050",
+              "Foreground": "#FFFFFF00",
+              "Underline": null,
+              "Strikethrough": null
+            }
           }
         ]
       }
@@ -1143,19 +1382,19 @@
     "0,15,2,3",
     "3,15,2,3",
     "23,5,1,13",
+    "22,5,1,2",
+    "22,7,1,2",
+    "22,9,1,2",
+    "22,12,1,2",
+    "22,14,1,2",
+    "22,16,1,2",
     "21,0,1,2",
     "21,2,1,2",
-    "22,5,1,2",
     "21,5,1,2",
-    "22,7,1,2",
     "21,7,1,2",
-    "22,9,1,2",
     "21,9,1,2",
-    "22,12,1,2",
     "21,12,1,2",
-    "22,14,1,2",
     "21,14,1,2",
-    "22,16,1,2",
     "21,16,1,2"
   ],
   "PageInfo": {
@@ -1171,4 +1410,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//kHewNRbhxFkEydTjzpDsoNrLLZ0rXEHfgkuG94ARtR6kk8CcfKb8yJ2U5MI/y5C1W5BI+khNFtNDTCoAxbUOVz30ml85ywaAr1gYY5iqTQyrlKTArm8+C9WkLpmMW2Q2mslfvS+I1FW8TlBG1P6Rh9ScAcNR+ish/K01/2DdSAm1+jkj1l/bu2yf5DVv6vjYsuzYaviAZFxfsMnY6zxg2VqO7boIr9GPlxc5r9vw8gtPP6uwsBO1Q8VPVZZnsJYyDnnujw6yBcqK1OncR3FJFwFfIHHBIxNdpR7bAOk2BMtg9CoHHTRwaZPiMVdjYQcEFyCcFh+5CUjq2a95WOOwVKEzHRij7rMTSUE2YeK9/6ZCQOs1XlP+lyEIHtOX8GwVrI78cQUUTxUTl8QcftWC0037wK/0BPtAY6sXaDb91RtzoMl435Sio587C5egh1igYJTTUJ/bhpqbovG8C2/xQRhqn6L6PLhP8Yln0X1D80d3BHFcEcK+n17qATbSjygtFZ5eNuwNDSsatFpKpwvVCqOTSDO2ancNhS2Cn38u4HIL/7diGYde//V5Nm0ibu5rb+k6613/c5LnHFkaSK/xgi/Ei1Ktd6B0ZBlsv4qlGqfrUF0jAu3rxQ1144QJ9ILnhwbGZZZH5Gy9Ko0NzVxGppA5c7kOUlcaqXKNH9+UkxDfNhV2KaN3h3YR8LbzCfg1l1WCIveqnJEoTJ82SmDZDnurnfJC2K7JHuOnU0SY09H6k2J+jLU+Vd199JPM/YbULuzU4ZGK2+Ma8qNpsQukNlHUVSepwymlAYHGE8CKB5+rIEgk5xEdmu+UOeH2Lvytj3ZY3eFczLeSe/60RIBlyzXLPMZSv4iW9zES6vlZwe4ZSvnAayzrfoxr/W16dU77l5sabxFIbqElY4yfY04WAg==|920
+}//TfR5jOb8qTQsiRMcla76xTiEr+40S2IKo8IfK9WgDMQqrgMCrXfoV2cy6/DKuhj3lb6aPDrvqDPMEAShBTebi0IBAuKzjLZd7pjaKH1Spbt17GKu2D3G1vCFpbs2hn+hkSugg2oCai6sOwVm4aoCzqT0djtXNiShrajqSLMQWaBwjWblOpzMJRuIHLzoXpls3idXYsx9VCj4qZ12dzbIHmIGCvis34JU6Y5DW3vKw+jA+E6k6678l1cX6DUb2DMGhOqoiSLgwXiZrIGSRWqkeOS96sHEZsDnHHnnt1s4ltgVadDAfmUkoSHNNOIGeYTmMhzNLlbwYl2KKqE+Nvjnhto+o85PH+CCWZD4wWkeff5bAxiUbP0IyFbkEC6SrtJMP1Uxg5mNouhwjLsPd49yV1WYpaRcRH53/0bjwYOacxPdcczwdouuw9FhgBRE2zI4IW/DC1ZRl2w+7cUcVomb9MPpj7voMdDUDm39P8o8vx/aBLV3pe4Dn06kFORvUj9bIjB8bVKrcnNmHdirHZmnqBPkPbWhrj73npROYFzj9+OBckwp6JzdBlTkA70fUgm3YtHNiLJRBTIANSLcRNr7lzziCrLry00VyjaXRlnlznl0fM/D0009ougPzZYiu9CmPi/p/uQPMsH1DrIOTIS6jCayNoTJR2knhLY/hEDulmC2rUilQb3xFlt156+GUYcGy7h3y1zN4qOO9T5iW590f4amXJtFzsP2kFCGIbF5qlf4ClHsqdLs+RaGDZnyZ5eYyt3K4GFNvcrt6qZfFUSA110xQEbYygHShYvbUOLOgo+5TbFtc1VMa5yYz0NAfiqG1j/7FzdlYsKf3lqqc29R+fsTK5Weuh/c3I3jkOS/3DR5HABlZYpgyzVz8o/xZorCfuHuoGNFjV4bMFsDGLEZSA==|920

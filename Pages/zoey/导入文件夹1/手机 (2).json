@@ -64,7 +64,7 @@
               {
                 "TargetCells": {
                   "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                  "SerializeProperty": "=手机!A1,手机!E1,手机!I1,手机!M1,手机!A4,手机!E4,手机!I4,手机!M4,手机!A7,手机!I7,手机!A18,手机!I18,手机!I20,手机!A20,手机!A25"
+                  "SerializeProperty": "='手机 (2)'!A1,'手机 (2)'!E1,'手机 (2)'!I1,'手机 (2)'!M1,'手机 (2)'!A4,'手机 (2)'!E4,'手机 (2)'!I4,'手机 (2)'!M4,'手机 (2)'!A7,'手机 (2)'!I7,'手机 (2)'!A18,'手机 (2)'!I18,'手机 (2)'!I20,'手机 (2)'!A20,'手机 (2)'!A25"
                 },
                 "PropertyType": 3,
                 "Value": "Accent 6 60"
@@ -139,7 +139,7 @@
               {
                 "TargetCells": {
                   "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                  "SerializeProperty": "=手机!A1,手机!E1,手机!I1,手机!M1,手机!A4,手机!E4,手机!I4,手机!M4,手机!A7,手机!I7,手机!A18,手机!I18,手机!A20,手机!I20,手机!A25"
+                  "SerializeProperty": "='手机 (2)'!A1,'手机 (2)'!E1,'手机 (2)'!I1,'手机 (2)'!M1,'手机 (2)'!A4,'手机 (2)'!E4,'手机 (2)'!I4,'手机 (2)'!M4,'手机 (2)'!A7,'手机 (2)'!I7,'手机 (2)'!A18,'手机 (2)'!I18,'手机 (2)'!A20,'手机 (2)'!I20,'手机 (2)'!A25"
                 },
                 "PropertyType": 0,
                 "Value": false
@@ -565,10 +565,8 @@
           {
             "Text": "首页",
             "IconPath": "Mobile/381_home_3.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Application/053_settings_4.svg",
             "IsDefaultItem": true,
             "IsOldMenuPath": false,
@@ -579,10 +577,8 @@
           {
             "Text": "表单",
             "IconPath": "Mobile/383_file_3.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Chart/363_column_chart_2.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -592,11 +588,9 @@
           {
             "Text": "查询",
             "IconPath": "Mobile/442_search_8.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
-            "SelectedIconPath": "Application/046_search_7.svg",
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
+            "SelectedIconPath": "Application/044_search_5.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
               "FGC_Anonymous"
@@ -605,10 +599,8 @@
           {
             "Text": "报表",
             "IconPath": "Chart/363_column_chart_2.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Mobile/383_file_3.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -618,10 +610,8 @@
           {
             "Text": "设置",
             "IconPath": "Application/053_settings_4.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Mobile/381_home_3.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -1143,19 +1133,19 @@
     "0,15,2,3",
     "3,15,2,3",
     "23,5,1,13",
+    "22,5,1,2",
+    "22,7,1,2",
+    "22,9,1,2",
+    "22,12,1,2",
+    "22,14,1,2",
+    "22,16,1,2",
     "21,0,1,2",
     "21,2,1,2",
-    "22,5,1,2",
     "21,5,1,2",
-    "22,7,1,2",
     "21,7,1,2",
-    "22,9,1,2",
     "21,9,1,2",
-    "22,12,1,2",
     "21,12,1,2",
-    "22,14,1,2",
     "21,14,1,2",
-    "22,16,1,2",
     "21,16,1,2"
   ],
   "PageInfo": {
@@ -1171,4 +1161,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//kHewNRbhxFkEydTjzpDsoNrLLZ0rXEHfgkuG94ARtR6kk8CcfKb8yJ2U5MI/y5C1W5BI+khNFtNDTCoAxbUOVz30ml85ywaAr1gYY5iqTQyrlKTArm8+C9WkLpmMW2Q2mslfvS+I1FW8TlBG1P6Rh9ScAcNR+ish/K01/2DdSAm1+jkj1l/bu2yf5DVv6vjYsuzYaviAZFxfsMnY6zxg2VqO7boIr9GPlxc5r9vw8gtPP6uwsBO1Q8VPVZZnsJYyDnnujw6yBcqK1OncR3FJFwFfIHHBIxNdpR7bAOk2BMtg9CoHHTRwaZPiMVdjYQcEFyCcFh+5CUjq2a95WOOwVKEzHRij7rMTSUE2YeK9/6ZCQOs1XlP+lyEIHtOX8GwVrI78cQUUTxUTl8QcftWC0037wK/0BPtAY6sXaDb91RtzoMl435Sio587C5egh1igYJTTUJ/bhpqbovG8C2/xQRhqn6L6PLhP8Yln0X1D80d3BHFcEcK+n17qATbSjygtFZ5eNuwNDSsatFpKpwvVCqOTSDO2ancNhS2Cn38u4HIL/7diGYde//V5Nm0ibu5rb+k6613/c5LnHFkaSK/xgi/Ei1Ktd6B0ZBlsv4qlGqfrUF0jAu3rxQ1144QJ9ILnhwbGZZZH5Gy9Ko0NzVxGppA5c7kOUlcaqXKNH9+UkxDfNhV2KaN3h3YR8LbzCfg1l1WCIveqnJEoTJ82SmDZDnurnfJC2K7JHuOnU0SY09H6k2J+jLU+Vd199JPM/YbULuzU4ZGK2+Ma8qNpsQukNlHUVSepwymlAYHGE8CKB5+rIEgk5xEdmu+UOeH2Lvytj3ZY3eFczLeSe/60RIBlyzXLPMZSv4iW9zES6vlZwe4ZSvnAayzrfoxr/W16dU77l5sabxFIbqElY4yfY04WAg==|920
+}//sAP9rrycOlR6o3aMUQV3tQkdlj7B/w5KtHlkgvsS+ct6n1CVXuzNSMADrvdezISmQ5YxX9jrYHNxQGdffXDC8fWJEDf63n7QiSfhfW/Hrj4S9LeArfBh6w57IFtp6YDiKB1vGtyWSf/Z7Nad2yAzrDF+pSqIOuBw0M5lbUTiOVTDo30LYIzXri7GmysR/EFzTy4IpfreA7E6JyCeBOLICKiFhxbCrIeBkcI3vGxjaR52kfYoPW+Kcl2Y9kfbdM244LJq4D9XtBWOmtDRYWbNK60hf3Rlk6PYeeE9xet/GrRck8Uurfkx4sxwpMIZuFG43uXxE6UbjzBqq7G+jWyGx/bL8aUPw+jNDpdhufwfaDw0BWyWhTdU0/zpp0gPN0+nG6E4KzDLKCbh/il/XpZsCM6doZHaKgE2jgAs4ntvzX34ZRrHE/Q4ksNCiJBTqC2654rNBrtxdv26pqhpkHJ6o7zETaBhyh7qJc7RKwHQRX7Iw74f2kmWUCukphqf7YFAgQAjbxud3rBmopZP7jxKJnIb2tUp6Hz7cj1T+3Js90uLJS6zyhGxYzXzOYLPCsyZyhvV3TURdHcNo7SZC0oNYJpkGEWYWAo+nPWmZdGMJIJc6VuJLXOoO/lJBgMiFUVLyEwE6fjaKEjBXbfPHgONvD4ul+L6T435fjQXxZb6yS9Y+pueTuWZNZOezo1oPo4H5mx+vCmFmsvjwqzthp/e1ypQzClHjuQ5+Cpz4nVOpyh9aCPoEsn6EGJpIxtHdefGqH0nTgQhEIBh4hQN+aVbteC3pxJBXXCTp3xwa3VgiM9hXu3rXR1qlOFDu5Lv6IHNwiWb3rqLL870RLVFimSzav0MSnZH1gciHL0IKVZzLEE14bVmqlpxAm0WlBYCpVgNtqF0Uju1LKtQ4emr741FPw==|920

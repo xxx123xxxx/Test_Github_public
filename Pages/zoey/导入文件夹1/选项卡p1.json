@@ -1,0 +1,57 @@
+{
+  "Rows": {
+    "Count": 28
+  },
+  "Cols": {
+    "Count": 18
+  },
+  "AttachInfos": {
+    "0,0": {
+      "CellType": {
+        "$type": "Forguncy.TabControlCellType, ServerDesignerCommon",
+        "Tabs": [
+          "手机",
+          "手机 (2)",
+          "手机 (3)",
+          "手机 (4)"
+        ],
+        "OverflowMode": 1
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Foreground": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "#337AB7",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "0,0": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Spans": [
+    "0,0,28,18"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsMobilePage": true
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//Rps8q7iv4fFdZZxgrpWrBB+JJFmhCcUWrM8+zklFsYUtJ/1/hWshNF2qLSwCJr6fsCe1wpcVeYI3KU4U20NOS8D67ZKCpxNMFCIEw9LQLqSd9WvaHP+VM4rQAo9qsENnk50SouRctuYXpB6sQgQuhMMkvhO+uEimdomfBCJjcHcFmVT5wO2SryOmbEDfnfsxUrr5VhakFZuT4rRTqsnPrMzR6K/zExkkp7GebZOv3qTl/JP0Ie+4go6+DFdO71qj7GIfP1Z9QJysIO8aETitRC7aCk5WktSsWipC/XdNdGh9o4pMcDtU+DcYtxmnbM9eVQvorZ6wYiOSKJhMi5miHRTvdlBHEYehlC+Re3BHX8kO0hswcIz/LQG4tggqLOUyJ84WeStXm/6o9n3zi2JOjOipkrvbC8amsrsKOzJKU8OuXXw0pEByx6pum/l/4e5fm7N6Xn3BQ7mHBizF8Hz6aZzzZ8ZGIgbOOinh5bc1rxbYF3MoetgqIBKUnOcHANDRXGJ7xV8P2cP9sYzqe9ou5T92loSCxTMqUi/K5FuK85bYSeLX4DR4y6bxZF3MbGkhvs095+v0mAo+dm2AV8c+F8UznZXgXKvVLHCM8Ts549WMJ2rO8YuWeYIZ1sOS0Lu2u3RiAT47hVPpGMkd8VXKMGgiTsd5NEVHo/rKURr8/8yDuN+cEKcyWOTp0gcU6UyCScjiXDMyEX9wZ5yMg4gnwEX9opuMoXdJ35181yFtcLdZStL1D5OwmOYm6iMbADo9HuPx4sLYRSP/6auEz1HQM8HWjZJkKkPTGrGOEv9U9XSc+St9p3rtZuk0JYweh95D/7Ln0tilkRnsy4wHxw1217ZZRTB/UGtdKvCMi1jzlXrS8n4vbDrX+8E9XIG9zQwfWK37mdleMKmZxvzL8XDjPg==|920

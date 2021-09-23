@@ -11,7 +11,9 @@
     "26,19": "111",
     "26,31": "111",
     "33,19": "前景色",
-    "33,25": "禁用"
+    "33,25": "禁用",
+    "42,34": "111",
+    "42,38": "111"
   },
   "AttachInfos": {
     "1,1": {
@@ -522,6 +524,7 @@
             ]
           }
         ],
+        "DefaultExpandStyle": 0,
         "ExpandIcon": {
           "Name": "Arrow/290_down_arrow_2.svg",
           "BuiltIn": true,
@@ -611,6 +614,7 @@
             ]
           }
         ],
+        "DefaultExpandStyle": 0,
         "ExpandIcon": {
           "Name": "Arrow/298_down_arrow_4.svg",
           "BuiltIn": true,
@@ -666,6 +670,96 @@
         ],
         "Text": "禁用",
         "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "41,34": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "表1",
+        "RowIndex": 41,
+        "ColumnIndex": 34,
+        "ColumnCount": 7,
+        "RowCount": 3,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "Name": "表格3",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "42,34": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "Icon": {
+          "Name": "Application/027_edit_7.svg",
+          "BuiltIn": true,
+          "Color": "Text 1 70",
+          "UseCellTypeForeColor": true
+        },
+        "CellDefaultValue": "111"
+      }
+    },
+    "42,35": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "ImagePath": "Application/080_lock_3.svg",
+        "BuiltIn": true,
+        "Color": "Accent 1",
+        "UseCellForeColor": true
+      }
+    },
+    "42,36": {
+      "CellType": {
+        "$type": "Forguncy.UploadImageCellType, ServerDesignerCommon",
+        "ImagePath": "Application/083_key_2.svg",
+        "BuiltIn": true,
+        "Color": "Accent 1",
+        "UseCellForeColor": true
+      }
+    },
+    "42,37": {
+      "BindingInfo": {
+        "TableName": "表1",
+        "ColumnName": "ID"
+      }
+    },
+    "42,38": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "Icon": {
+          "Name": "Application/027_edit_7.svg",
+          "BuiltIn": true,
+          "Color": "Text 1 70"
+        },
+        "CellDefaultValue": "111"
+      }
+    },
+    "42,39": {
+      "CellType": {
+        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
+        "ImagePath": "Application/080_lock_3.svg",
+        "BuiltIn": true,
+        "Color": "Accent 5 0"
+      }
+    },
+    "42,40": {
+      "CellType": {
+        "$type": "Forguncy.UploadImageCellType, ServerDesignerCommon",
+        "ImagePath": "Application/083_key_2.svg",
+        "BuiltIn": true,
+        "Color": "Accent 5 0"
       }
     },
     "46,1": {
@@ -727,11 +821,11 @@
     "46,19": {
       "ListViewInfo": {
         "ShowColumnHeaderInDesigner": true,
-        "TableName": "表2",
+        "TableName": "表7",
         "RowIndex": 46,
         "ColumnIndex": 19,
         "ColumnCount": 4,
-        "RowCount": 7,
+        "RowCount": 3,
         "ColumnOperation": 2,
         "ShowGridLine": true,
         "ShowEditStatusIcon": true,
@@ -743,13 +837,13 @@
     },
     "47,19": {
       "BindingInfo": {
-        "TableName": "表2",
+        "TableName": "表7",
         "ColumnName": "ID"
       }
     },
     "47,21": {
       "BindingInfo": {
-        "TableName": "表2",
+        "TableName": "表7",
         "ColumnName": "文本"
       }
     },
@@ -908,6 +1002,61 @@
       },
       {
         "FontFamily": 0,
+        "BorderBottom": null,
+        "BorderTop": 0,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "BorderBottom": null,
+        "BorderTop": 0,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "Formatter": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "Formatter": 1,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": 0,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      },
+      {
+        "FontFamily": 0,
+        "BorderBottom": 0,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
         "HorizontalAlignment": 4,
         "BorderBottom": null,
         "BorderTop": null,
@@ -916,10 +1065,29 @@
       },
       {
         "FontFamily": 0,
-        "BorderBottom": null,
-        "BorderTop": null,
-        "BorderLeft": 0,
-        "BorderRight": null
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "FontFamily": 0,
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "FontFamily": 0,
+        "BorderLeft": 0
+      },
+      {
+        "FontFamily": 0
+      },
+      {
+        "BorderRight": 0
       }
     ],
     "Types": {
@@ -1403,6 +1571,13 @@
       "41,15": 0,
       "41,16": 0,
       "41,17": 0,
+      "41,34": 3,
+      "41,35": 14,
+      "41,36": 14,
+      "41,37": 5,
+      "41,38": 5,
+      "41,39": 5,
+      "41,40": 15,
       "42,10": 0,
       "42,11": 0,
       "42,12": 0,
@@ -1411,6 +1586,13 @@
       "42,15": 0,
       "42,16": 0,
       "42,17": 0,
+      "42,34": 7,
+      "42,35": 16,
+      "42,36": 17,
+      "42,37": 0,
+      "42,38": 7,
+      "42,39": 0,
+      "42,40": 18,
       "43,0": 0,
       "43,9": 0,
       "43,10": 0,
@@ -1437,27 +1619,13 @@
       "43,31": 0,
       "43,32": 0,
       "43,33": 0,
-      "43,34": 0,
-      "43,35": 0,
-      "43,36": 0,
-      "43,37": 0,
-      "43,38": 0,
-      "43,39": 0,
-      "43,40": 0,
-      "43,41": 0,
-      "43,42": 0,
-      "43,43": 0,
-      "43,44": 0,
-      "43,45": 0,
-      "43,46": 0,
-      "43,47": 0,
-      "43,48": 0,
-      "43,49": 0,
-      "43,50": 0,
-      "43,51": 0,
-      "43,52": 0,
-      "43,53": 0,
-      "43,54": 0,
+      "43,34": 19,
+      "43,35": 20,
+      "43,36": 20,
+      "43,37": 20,
+      "43,38": 20,
+      "43,39": 20,
+      "43,40": 21,
       "43,55": 0,
       "43,56": 0,
       "43,57": 0,
@@ -1489,27 +1657,6 @@
       "44,31": 0,
       "44,32": 0,
       "44,33": 0,
-      "44,34": 0,
-      "44,35": 0,
-      "44,36": 0,
-      "44,37": 0,
-      "44,38": 0,
-      "44,39": 0,
-      "44,40": 0,
-      "44,41": 0,
-      "44,42": 0,
-      "44,43": 0,
-      "44,44": 0,
-      "44,45": 0,
-      "44,46": 0,
-      "44,47": 0,
-      "44,48": 0,
-      "44,49": 0,
-      "44,50": 0,
-      "44,51": 0,
-      "44,52": 0,
-      "44,53": 0,
-      "44,54": 0,
       "44,55": 0,
       "44,56": 0,
       "44,57": 0,
@@ -1541,41 +1688,20 @@
       "45,31": 0,
       "45,32": 0,
       "45,33": 0,
-      "45,34": 0,
-      "45,35": 0,
-      "45,36": 0,
-      "45,37": 0,
-      "45,38": 0,
-      "45,39": 0,
-      "45,40": 0,
-      "45,41": 0,
-      "45,42": 0,
-      "45,43": 0,
-      "45,44": 0,
-      "45,45": 0,
-      "45,46": 0,
-      "45,47": 0,
-      "45,48": 0,
-      "45,49": 0,
-      "45,50": 0,
-      "45,51": 0,
-      "45,52": 0,
-      "45,53": 0,
-      "45,54": 0,
       "45,55": 0,
       "45,56": 0,
       "45,57": 0,
       "45,58": 0,
       "45,59": 0,
       "46,0": 0,
-      "46,1": 14,
+      "46,1": 22,
       "46,9": 0,
-      "46,10": 14,
+      "46,10": 22,
       "46,18": 0,
-      "46,19": 3,
-      "46,20": 4,
-      "46,21": 5,
-      "46,22": 6,
+      "46,19": 23,
+      "46,20": 24,
+      "46,21": 25,
+      "46,22": 26,
       "46,23": 0,
       "46,24": 0,
       "46,25": 0,
@@ -1587,27 +1713,6 @@
       "46,31": 0,
       "46,32": 0,
       "46,33": 0,
-      "46,34": 0,
-      "46,35": 0,
-      "46,36": 0,
-      "46,37": 0,
-      "46,38": 0,
-      "46,39": 0,
-      "46,40": 0,
-      "46,41": 0,
-      "46,42": 0,
-      "46,43": 0,
-      "46,44": 0,
-      "46,45": 0,
-      "46,46": 0,
-      "46,47": 0,
-      "46,48": 0,
-      "46,49": 0,
-      "46,50": 0,
-      "46,51": 0,
-      "46,52": 0,
-      "46,53": 0,
-      "46,54": 0,
       "46,55": 0,
       "46,56": 0,
       "46,57": 0,
@@ -1616,9 +1721,9 @@
       "47,0": 0,
       "47,9": 0,
       "47,18": 0,
-      "47,19": 15,
-      "47,21": 0,
-      "47,22": 9,
+      "47,19": 27,
+      "47,21": 28,
+      "47,22": 29,
       "47,23": 0,
       "47,24": 0,
       "47,25": 0,
@@ -1630,27 +1735,6 @@
       "47,31": 0,
       "47,32": 0,
       "47,33": 0,
-      "47,34": 0,
-      "47,35": 0,
-      "47,36": 0,
-      "47,37": 0,
-      "47,38": 0,
-      "47,39": 0,
-      "47,40": 0,
-      "47,41": 0,
-      "47,42": 0,
-      "47,43": 0,
-      "47,44": 0,
-      "47,45": 0,
-      "47,46": 0,
-      "47,47": 0,
-      "47,48": 0,
-      "47,49": 0,
-      "47,50": 0,
-      "47,51": 0,
-      "47,52": 0,
-      "47,53": 0,
-      "47,54": 0,
       "47,55": 0,
       "47,56": 0,
       "47,57": 0,
@@ -1659,8 +1743,10 @@
       "48,0": 0,
       "48,9": 0,
       "48,18": 0,
-      "48,19": 8,
-      "48,22": 9,
+      "48,19": 10,
+      "48,20": 11,
+      "48,21": 11,
+      "48,22": 12,
       "48,23": 0,
       "48,24": 0,
       "48,25": 0,
@@ -1717,8 +1803,6 @@
       "49,16": 0,
       "49,17": 0,
       "49,18": 0,
-      "49,19": 8,
-      "49,22": 9,
       "49,23": 0,
       "49,24": 0,
       "49,25": 0,
@@ -1757,12 +1841,10 @@
       "49,58": 0,
       "49,59": 0,
       "50,0": 0,
-      "50,1": 14,
+      "50,1": 22,
       "50,9": 0,
-      "50,10": 14,
+      "50,10": 22,
       "50,18": 0,
-      "50,19": 8,
-      "50,22": 9,
       "50,23": 0,
       "50,24": 0,
       "50,25": 0,
@@ -1803,8 +1885,6 @@
       "51,0": 0,
       "51,9": 0,
       "51,18": 0,
-      "51,19": 8,
-      "51,22": 9,
       "51,23": 0,
       "51,24": 0,
       "51,25": 0,
@@ -1845,10 +1925,6 @@
       "52,0": 0,
       "52,9": 0,
       "52,18": 0,
-      "52,19": 10,
-      "52,20": 11,
-      "52,21": 11,
-      "52,22": 12,
       "52,23": 0,
       "52,24": 0,
       "52,25": 0,
@@ -1966,24 +2042,25 @@
     "17,10,7,8",
     "25,1,7,8",
     "25,10,7,8",
-    "26,19,1,3",
-    "26,22,1,3",
-    "26,25,1,3",
-    "26,31,1,3",
-    "26,34,1,3",
-    "26,37,1,3",
-    "27,19,5,21",
     "33,1,12,8",
     "33,10,12,8",
     "33,19,3,5",
     "33,25,3,5",
     "46,1,3,8",
     "46,10,3,8",
-    "47,19,1,2",
-    "47,21,1,2",
-    "48,19,5,4",
     "50,1,3,8",
     "50,10,3,8",
+    "27,19,5,21",
+    "48,19,1,4",
+    "47,19,1,2",
+    "47,21,1,2",
+    "26,19,1,3",
+    "26,22,1,3",
+    "26,25,1,3",
+    "26,31,1,3",
+    "26,34,1,3",
+    "26,37,1,3",
+    "43,34,1,7",
     "25,19,1,3",
     "25,22,1,3",
     "25,25,1,3",
@@ -2005,4 +2082,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//Di6gVbCxtCBYo5gOwuAHgVZybcU4Qtfr8Vu9LDNemU68aGgAyc+My47+zs70rRh26UTBbPEO03AiNzgUTJCjTPVJffQodCAk3cu2qrn9XRnc1g1t66rGvjlxudsfuKPTM9lUdH5bTVUXYMvGl1e6DXYbjBHFYAyKy/oz1y8d7LmQCpAXedDLtEKskiYXHc1cGZVxGO5ea9UQrEHrGNV1nX8nkg7aWaco03fzXr465gusJBriNPDoQYjnVFeTlj98SpJb2xHC6nYRei43I8Rs9iBd+2D7rIoOhwSsPL8uSI9xQlWROl0yQwqf75hXWTy8FPUgyzji/j4BUhHX/rPZZVMWzF0KO3/qeqSji9pmVQKSIQJvuqVU2D8syc9Fux6eQ16RpOpAlWRoGZFG9Z03b4eovMKVP8l1koMim9irJvC2gqy0r/8VJO5WjmaKYZnCSUH3LUDGDVbYNXyZpx9TyLKZge4qnfMZ4xXUFeeec/RUdrfyn/B3BdDt+WO2XkoDwDdUoBFHJ0AuUarkZLjfTKuIEQhgXXhYzfU+l9Q7r+cAonDlG4gCWiX91bWZR2x6NEdvUCil91xjb+u4DJbL8WqwRgPmWKqiApz6MwbK4fTlX5dbcM6dgE3AvcnaGqBwmALYCJz5Ge6F9eMctMt98uKbOX92OGGXR891Obp12fOhiENuPHDMoP40IGatFCqxdZ6DP5ek3TRl2d0DmdNWD7B8UNbm/kfLIIdzJlmvra8COdK0Nw9mmN3GOqKPeMZcMAlN6n7Jy9HkyvHPq7Z0bp873voiI0NxlAMsrBrznli5tbTMqVH5O1dn2B5eG2ik3I4QoJBfDNLOyv6/JZ0BP7O6OGimztf56vP4a+11PWz3KiMmdTtWBwXU6BxR9e7ygAWp0m79edMGs/M70TcYKg==|920
+}//A6K4s/5oIIiUHyJjuLXNUjsFxWMf7L+ZtXlXRQ3HniaQD2o3GSYw4bPK2mp46wUG0/t+AWzpKj6yK87mmbffb4AVu2X/lycUxtGBLqKUn1sv1FKZ8OiLo+vWlKSwync2+pGWxzNBN5OuH8VOeyRGBtd71yCaCIiemgkFfbNR8Z0n0VyEr0/Rs+M10oS6z7xETn+zwMSshb2EuV9ESPAsWOeii53hoTUyRVbq45mI76r+Sg8PxNsO3pvNJKwVfWk6GVAo9E9QrVArPjYyqXEv1XtxBzSocbp1ikKoY+gHoQQPjfDnLt5g4clZ8hymcYGu/NsfKY5Fe252FVE4oxfX+fV+m4gkVtSeXjYWOm4VGGNd4H7O2+r7gPVzDlnJFj5Xtpw5TiA8mzTyar8QugIno6aAstlh1QZEJaaqzY9wghEH40qvOYe1argEOzT1J/ql37qD2SlFRhLlHrxC27t9XUqfrJFZ72p3uZnQ7q6Tkwv14UW7bu4AmTiymT6e2nmIg1S4uVovIRGyek/eUoMaVC3y2wU98Wdu4TR8Wh0Ez7GIAOTRhSU4mwH6HpZjpYk5Sv75brmF0k8efVHM7CpzJkKgMMOm/GB5AbphvgnVSjYknGoRvXO72XJpywcvJwXZpmlAQf6lRM8uJW6EIR1Qsru/ryFF+ldb5uAEJoLYCONKR1Pv2W7kzju5Nv1wV7/N6BfxfySt4WBtrfRyxjNg/FZoG3GlZdFHD5BNo+nD8vN5rYn7jK2tBSosPk97yW0OO56FhgckgDIfvV7bi0A4+BSAoSCgsl7rISaEZVLtAV+o1Wd/JFCupoDRxmLYAe1mLKxkZPlhQxIhayy+OaD1txavyDGvmst0Jzi8GJvDPIWsYF5H7NzczXkckc1cPkq/adNI/FHpJUXPLxmoCp84Pw==|920
