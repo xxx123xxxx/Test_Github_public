@@ -53,7 +53,31 @@
   },
   {
     "ModuleName": "UserService",
-    "ModuleType": 11
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T15:42:02.4057702+08:00",
+    "ModuleType": 11,
+    "ToRemoveFiles": [
+      "UserServiceDB.sqlite3",
+      "SecurityProvider\\b6d9de54-d79d-4913-8c40-8ea63d761e86_SAMLIdP-0sp5g000000oLpZ (2).xml",
+      "SecurityProvider\\df0b7962-011f-465d-bf91-92e13b8bf788_SAMLIdP-0sp5g000000oLpZ (6).xml",
+      "SecurityProvider\\fd32b78c-7f97-411b-b167-e31695207fd5_SAMLIdP-0sp5g000000oLpZ.xml",
+      "SecurityProvider\\LICENSE.txt",
+      "SecurityProvider\\Release\\BouncyCastle.Crypto.dll",
+      "SecurityProvider\\Release\\Config.json",
+      "SecurityProvider\\Release\\DependenceVersion.json",
+      "SecurityProvider\\Release\\GeneralSamlSecurityProvider.dll",
+      "SecurityProvider\\Release\\ja\\GeneralSamlSecurityProvider.resources.dll",
+      "SecurityProvider\\Release\\ja\\GrapeCity.Forguncy.SecurityProvider.resources.dll",
+      "SecurityProvider\\Release\\ko-KR\\GeneralSamlSecurityProvider.resources.dll",
+      "SecurityProvider\\Release\\ko-KR\\GrapeCity.Forguncy.SecurityProvider.resources.dll",
+      "SecurityProvider\\Release\\zh-CN\\GeneralSamlSecurityProvider.resources.dll",
+      "SecurityProvider\\Release\\zh-CN\\GrapeCity.Forguncy.SecurityProvider.resources.dll",
+      "SecurityProviderDefaultSettings\\C7A5C0F3-6FE2-4D9F-97CD-959169A57CD3"
+    ]
   },
   {
     "ModuleName": "CustomLibrary",
