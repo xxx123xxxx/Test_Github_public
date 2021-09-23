@@ -141,76 +141,31 @@
   },
   {
     "ModuleName": "TableView/视图9",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:07:29.1159954+08:00",
-    "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\视图9.json"
-    ]
+    "ModuleType": 23
   },
   {
     "ModuleName": "Table/date",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:06:57.8028889+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Table/TABLE_1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:08:34.5537291+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "TableView/视图13",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:09:20.7136161+08:00",
     "ModuleType": 23
   },
   {
     "ModuleName": "Table/TABLE_2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:11:03.1627303+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableView/AAAAAAA",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:14:03.4879903+08:00",
     "ModuleType": 23
   },
   {
     "ModuleName": "TableView/BBBBBBBBBB",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:16:06.8587303+08:00",
     "ModuleType": 23
   }
 ]
