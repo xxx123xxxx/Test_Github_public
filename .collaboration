@@ -151,7 +151,16 @@
   },
   {
     "ModuleName": "PCPage/副本同步执行日志详情内页",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\CindyWu",
+      "Email": "cindy.wu@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T16:53:10.7704221+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\导入文件夹1\\详情\\副本同步执行日志详情内页.json"
+    ]
   },
   {
     "ModuleName": "Table/Task_server",
