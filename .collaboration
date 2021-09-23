@@ -1324,7 +1324,16 @@
   },
   {
     "ModuleName": "MobilePage/手机",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T10:23:55.7611352+08:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\导入文件夹1\\手机.json"
+    ]
   },
   {
     "ModuleName": "MobilePage/手机2",
