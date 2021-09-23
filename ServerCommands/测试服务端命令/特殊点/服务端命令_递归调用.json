@@ -1,1 +1,25 @@
-{"Enabled":true,"Triggers":[{"$type":"Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon","Permission":{"AllowRoles":["FGC_LoginUser"]},"InvokeTriggerTestData":{"UserName":"Administrator"}}],"Commands":[{"$type":"Forguncy.Model.RequestServerCommand, ServerDesignerCommon","ServerCommandName":"服务端命令_递归调用","RefreshAfterFinish":true,"CheckDataValidation":true}],"Name":"服务端命令_递归调用"}
+{
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon",
+      "Permission": {
+        "AllowRoles": [
+          "FGC_LoginUser"
+        ]
+      },
+      "InvokeTriggerTestData": {
+        "UserName": "Administrator"
+      }
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.RequestServerCommand, ServerDesignerCommon",
+      "ServerCommandName": "服务端命令_递归调用",
+      "RefreshAfterFinish": true,
+      "CheckDataValidation": true
+    }
+  ],
+  "Name": "服务端命令_递归调用"
+}

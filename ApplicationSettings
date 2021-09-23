@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ApplicationSettings>
+  <AuthenticationMode>SecurityProvider</AuthenticationMode>
   <IntegrateWithOtherApplication>
     <Password>0(Qi(Br0F*J$</Password>
   </IntegrateWithOtherApplication>
   <StartDateFiscalYear>1</StartDateFiscalYear>
+  <StartPage>副本同步执行日志详情内页</StartPage>
   <UserServicePort>29724</UserServicePort>
   <WebSitePort>65333</WebSitePort>
 </ApplicationSettings>
