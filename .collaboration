@@ -935,7 +935,17 @@
   },
   {
     "ModuleName": "PCPage/图文列表",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T10:56:46.0328504+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\导入文件夹1\\图文列表.json",
+      "Pages\\53656abb-0b47-4d7f-b262-4ecdab8e7b51.json"
+    ]
   },
   {
     "ModuleName": "PCPage/图文列表 (2)",
