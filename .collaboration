@@ -1086,15 +1086,5 @@
     },
     "LockDateTime": "2021-09-23T10:54:17.390282+08:00",
     "ModuleType": 2
-  },
-  {
-    "ModuleName": "MobilePage/选项卡p2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T10:55:04.4129316+08:00",
-    "ModuleType": 2
   }
 ]
