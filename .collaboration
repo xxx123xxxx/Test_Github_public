@@ -175,5 +175,25 @@
   {
     "ModuleName": "Table/date111",
     "ModuleType": 7
+  },
+  {
+    "ModuleName": "PCPage/buildtable_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T17:35:27.9767653+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/buildtable_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T17:35:27.9767653+08:00",
+    "ModuleType": 1
   }
 ]
