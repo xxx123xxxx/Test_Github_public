@@ -141,7 +141,16 @@
   },
   {
     "ModuleName": "TableView/视图9",
-    "ModuleType": 23
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T18:07:29.1159954+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\视图9.json"
+    ]
   },
   {
     "ModuleName": "Table/date",
