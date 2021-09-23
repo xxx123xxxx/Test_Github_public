@@ -149,12 +149,6 @@
   },
   {
     "ModuleName": "Table/buildtable",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T16:38:28.4051166+08:00",
     "ModuleType": 7
   }
 ]
