@@ -8,145 +8,119 @@
   "AttachInfos": {
     "1,1": {
       "CellType": {
-        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
-        "TemplateKey": "_RS_Normal_Style2",
-        "Icon": {
-          "Name": "Application/002_add_2.svg",
-          "BuiltIn": true,
-          "Color": "Background 1",
-          "UseCellTypeForeColor": true
-        }
-      }
-    },
-    "1,11": {
-      "CellType": {
-        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
-        "SavedValidators": [
+        "$type": "Forguncy.CustomMenu.ForguncyTreeCellType, Forguncy.CustomMenu",
+        "Items": [
           {
-            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+            "Value": "结点1",
+            "Text": "结点1",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "结点1_1",
+                "Text": "结点1_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "结点1_2",
+                "Text": "结点1_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "结点2",
+            "Text": "结点2",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "结点2_1",
+                "Text": "结点2_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "结点2_2",
+                "Text": "结点2_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "结点3",
+            "Text": "结点3",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "结点3_1",
+                "Text": "结点3_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "结点3_2",
+                "Text": "结点3_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
           }
         ],
-        "Icon": {
-          "Name": "Navigation/165_home_3.svg",
-          "BuiltIn": true,
-          "Color": "Text 1 70",
-          "UseCellTypeForeColor": true
-        }
+        "TemplateKey": "_RS_Normal_Style1"
       }
     },
-    "1,20": {
+    "1,10": {
       "CellType": {
-        "$type": "Forguncy.ImageCellType, ServerDesignerCommon",
-        "ImagePath": "File/353_access_file_2.svg",
-        "BuiltIn": true,
-        "Color": "Accent 1",
-        "UseCellForeColor": true
-      }
-    },
-    "1,29": {
-      "CellType": {
-        "$type": "Forguncy.UploadImageCellType, ServerDesignerCommon",
-        "ImagePath": "Chart/370_pie_chart_5.svg",
-        "BuiltIn": true,
-        "Color": "Accent 1",
-        "UseCellForeColor": true
-      }
-    },
-    "10,1": {
-      "CellType": {
-        "$type": "Forguncy.PageNavigateCellType, ServerDesignerCommon",
-        "FirstImage": {
-          "Name": "Arrow/347_move_first.svg",
-          "BuiltIn": true,
-          "Color": "Accent 1",
-          "UseCellTypeForeColor": true
-        },
-        "PreviousImage": {
-          "Name": "Arrow/349_left_arrow.svg",
-          "BuiltIn": true,
-          "Color": "Accent 1",
-          "UseCellTypeForeColor": true
-        },
-        "NextImage": {
-          "Name": "Arrow/350_right_arrow.svg",
-          "BuiltIn": true,
-          "Color": "Accent 1",
-          "UseCellTypeForeColor": true
-        },
-        "LastImage": {
-          "Name": "Arrow/348_move_last.svg",
-          "BuiltIn": true,
-          "Color": "Accent 1",
-          "UseCellTypeForeColor": true
-        }
-      }
-    },
-    "15,1": {
-      "CellType": {
-        "$type": "Forguncy.RecordNavigationCellType, ServerDesignerCommon",
-        "FirstImage": {
-          "Name": "Arrow/347_move_first.svg",
-          "BuiltIn": true,
-          "Color": "Accent 1",
-          "UseCellTypeForeColor": true
-        },
-        "LastImage": {
-          "Name": "Arrow/348_move_last.svg",
-          "BuiltIn": true,
-          "Color": "Accent 1",
-          "UseCellTypeForeColor": true
-        },
-        "PreviousImage": {
-          "Name": "Arrow/349_left_arrow.svg",
-          "BuiltIn": true,
-          "Color": "Accent 1",
-          "UseCellTypeForeColor": true
-        },
-        "NextImage": {
-          "Name": "Arrow/350_right_arrow.svg",
-          "BuiltIn": true,
-          "Color": "Accent 1",
-          "UseCellTypeForeColor": true
-        }
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.SetCellPropertyCommand, ServerDesignerCommon",
+            "PropertyItemsList": [
+              {
+                "TargetCells": {
+                  "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+                  "SerializeProperty": "=页面3!B2"
+                },
+                "PropertyType": 0,
+                "Value": false
+              }
+            ]
+          }
+        ],
+        "TemplateKey": "_RS_Normal_Style2"
       }
     }
   },
   "StyleDatas": {
-    "Styles": [
-      {
-        "Formatter": 0
-      },
-      {
-        "HorizontalAlignment": 1
-      }
-    ],
     "Types": {
       "Strs": [
-        "@",
-        "Center",
         "Body"
       ]
     },
-    "CellStyles": {
-      "1,11": 0,
-      "10,1": 1,
-      "15,1": 1
-    },
     "SheetStyle": {
-      "FontFamily": 2
+      "FontFamily": 0
     }
   },
   "Spans": [
-    "1,1,8,9",
-    "1,11,8,8",
-    "1,20,8,8",
-    "1,29,8,8",
-    "10,1,4,36",
-    "15,1,4,36"
+    "1,1,15,8",
+    "1,10,2,4"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
-    "MasterPageName": "母版页2",
     "AuthorizeInfo": {
       "VisitMode": 2
     },
@@ -157,4 +131,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//OQrXn1FfZ5XDi4/X9BuJYwFD1ZjooF+tNCY+GMSDm+gQSYUKs1rjoqMOR4KJ/Y5OJDckqHEqIZhnzWrGLS+067wed/39P3OFjJfBhZ9Ez4Hv+1yMNrSIqyLfkWJ8VsaUrhSery5ekVz7ET7AetxusZbuqY27c/r44D1W1g6MVGdToulhDy4O0Et9e2KZevBS8ixQI7gA8/F4j1yUm49Gez9jeBac3rw58Zt01mQzDCGh/PNMt0QDBmG4frUrIobNSH9T/MNozm8BwegA/LSqlT4iCk0wtu6Tlg6ZChyPch11gmotvKDiYgRCsUNqWriWSp6HlqFJcdI1X+Nr/1uUKPbEdSwZ4SsOcOEl6g85dKPJiCej9smZgYrSVCl9PYcSsOJmYgsoeKei/2MBk8L8abVCJaG9S/XyNGfDLEFJUdE4vKre1DU+PFxnJHOSpjYHBSk4n240MukuoA0uNvpYGU9w4bU4e7rbJc1BrUT0iuPIDEuZSnAWHcuBZZq73jLsbvATYBT04aayjNCcZFjDjujfu6I0puZEnb77mCZeSpo/9KwWx/hqMif3KwtDkJeANES8KBhGqaLrUCkMcy1KR3rYV25RciPOsJPt3Jm5dFyM3hb6mpHe22KCwEfjsUdE6ZxAFTDmN+wExuWrqY0ba0dfKtL17UOS2+YUmR94aXn/W5VZyNIPH8yWUlfmAeeczhZEAIVu8ij3z+j3C/8oDU9mLVCGEifzFVuow/zoK01OLxMP9rtRmg13/BrFdh/UZyOcmYEz7M3tiC/imhovizPI2yEt7d48Mixp7E/VE9Qp4DUYv1EwikxTR6BmsgOgL+lxxNQvZHENKsjssa404DtLoPoAWzRaENuydC+X4LRi/guSQ8URiEryf/huWrTQdpJ8sr1mvRHSL7So+mnagw==|920
+}//jz23bcRVuTKFx/gj3E38UMIL7kiTzZfOKS9JW9lwgR7R7hrvPxQB2Lpk6UCn14tdSvjneeiuDfqav4WZB5WxR3s00ZgRNwbH9K+eQyQJ8kw+PHov5jUmWvmMeocx/BY0ZpYJvSPNdTNSvsGL/E+KnYnKqBUEMxmNgghutJWWhYhnRbab838FoiHSxsXulGFS6eZ/4Losz1Pd8bEwbK1R7ENKR1+bP75KQ16Xha2h5hRqcoXwurkrZmmqMFCzVuI4XsANKvBEAQY1ltb6S4kXpqSy6171HNvxw6pzbQ675vyAWMclkHCKBHhhb75ekZJ6V0d5K07NsUA7e6a7VchvqbEILMSWcZQEf1e77FiPytFJyKiP0ZEK8FjSjIFUvYUx9kIOyHEtfZr9vq188kKz2LSNYPvIvowL/AScNU0mBRQnvmdnFWqtZ97vPe1zG2EirWoFLo+puh+SYnzfM54gqpSGSxl7BwpEIxW6QivXwop19G0lap28LEyILuwy0ZMeRLngxC9xYAwdUFFalc7y7ntt4EXZIsytSnE91K6irwflG6qm3uhBmyIvSDLShZQ+whU1k5rKhiIluIWhSnHOBRTvNnRWvdBqa2VcmDWIF48NJqCr/HlZvjH+A/MGvTYeIay2ON1svAZo/cYfJii7Jft0B1NsHAWycSuUH/QHcUlA2L7nuIQw9MxRAIfsFKSjc76ZTzHvbFqHF8AdjU8reMu+rNYbSccuRtWzgEcy4YSVtlKpZImhiPf4gMSDBsDeIo51CFV2tek5UCyNx2hZqCU94Nuw6ixq5wyL1lI7wcq0bjHZqb8fFlf7C577syvVFev22H+151W8YlGm94EoOR/pMw+oxQiDWjpBwmHyyKetDumXs57kdb+6OSSD3hiWLHugIRkuAeVLo7/e7ZHOvA==|920
