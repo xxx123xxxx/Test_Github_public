@@ -18,7 +18,16 @@
   },
   {
     "ModuleName": "Table/date111",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T17:59:20.8829009+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\date111.json"
+    ]
   },
   {
     "ModuleName": "TableView/学生表视图",
@@ -163,5 +172,15 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
+  },
+  {
+    "ModuleName": "Table/date",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T17:59:20.8829009+08:00",
+    "ModuleType": 7
   }
 ]
