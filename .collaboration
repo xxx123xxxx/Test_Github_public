@@ -1,18 +1,5 @@
 [
   {
-    "ModuleName": "Table/buildtable",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:05:16.689287+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\buildtable.json"
-    ]
-  },
-  {
     "ModuleName": "Pages/内建页面",
     "ModuleType": 6
   },
@@ -146,16 +133,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:04:50.5905128+08:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -163,12 +141,6 @@
   },
   {
     "ModuleName": "TableView/视图9",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T18:04:50.5905128+08:00",
     "ModuleType": 23
   }
 ]

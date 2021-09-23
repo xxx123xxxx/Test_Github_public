@@ -3,18 +3,24 @@
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>server=xa-dd3-fgcp13d8;user=SYSDBA;password=xA20200326;schema=AUTOTEST</ConnectionString>
     <DataBaseType>DaMeng</DataBaseType>
-    <EConnectionString>qbtiAtkiG0FIlchDnOuWHGrOjNBu/k5x12+3y9RjhdyV3izkK//8iBt9WHgu6UvcyDE81+2GukncrCUZhxx+jIKcDxddO2enywlp66WcVYk=</EConnectionString>
+    <EConnectionString>HFXSkx3Iqom6ppWmgr7MXHLsaN3rFP5FdPgOSBHj7yzdsfZlzIaR/V+aAueNVpKjv0JbwTs0RKDCujJkPmNfRihWCVz/Y4Ib+hSJFhtSlU8=</EConnectionString>
     <ID>3947e30f-27a1-4467-90a5-0d993b9a99ea</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>server=xa-dd3-fgcp13d8;user=SYSDBA;password=xA20200326;schema=#</ConnectionString>
     <DataBaseType>DaMeng</DataBaseType>
-    <EConnectionString>qbtiAtkiG0FIlchDnOuWHGrOjNBu/k5x12+3y9RjhdyV3izkK//8iBt9WHgu6Uvc5ruz5jOSPQ31JrDdhji5iA==</EConnectionString>
+    <EConnectionString>HFXSkx3Iqom6ppWmgr7MXHLsaN3rFP5FdPgOSBHj7yzdsfZlzIaR/V+aAueNVpKjETNDXzhEVlQW1tpR1Z8TIA==</EConnectionString>
     <ID>102cc9f4-fcf4-44de-bfda-ed7e62c85736</ID>
   </Item>
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
     <ConnectionString>Data Source=xa-dd3-fS14O12;Initial Catalog=TestDB;Persist Security Info=True;User ID=forguncytest;Password=xA123456</ConnectionString>
     <DataBaseType>SqlServer</DataBaseType>
+    <EConnectionString>Uhc3KW/pTfToAI2Xh7w7qw4OJndCSJQocyNHKHSET1INIa7OMd0UztzjGr0cIXAOVa8o8Fq9PRo0nvSgf8bphBjtSyh+DQ3k10N7cV1gIY+fbWT66TJF8pNL8b8TZuBJ3gJ6XH8g8snVRq8fVwIedyQRo1JxglnkBJ8DksbiniI=</EConnectionString>
     <ID>54f476d1-b613-4c55-b3a2-a59f5a08b474</ID>
+  </Item>
+  <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="ServerDesignerCommon">
+    <ConnectionString>server=xa-dd3-fgcp13d8;user=sysdba;password=xA20200326;schema=#</ConnectionString>
+    <DataBaseType>DaMeng</DataBaseType>
+    <ID>a6f08a6c-a557-42dc-997c-b34475cee317</ID>
   </Item>
 </DataConnectionSet>
