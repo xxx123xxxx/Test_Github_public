@@ -1,7 +1,16 @@
 [
   {
     "ModuleName": "Table/buildtable",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-23T18:05:05.4447262+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\buildtable.json"
+    ]
   },
   {
     "ModuleName": "Pages/内建页面",
