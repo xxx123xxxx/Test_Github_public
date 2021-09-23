@@ -149,42 +149,11 @@
   },
   {
     "ModuleName": "Table/buildtable",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T17:38:05.3182227+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\buildtable.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "TableView/视图2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T17:37:05.682714+08:00",
-    "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\视图2.json"
-    ]
-  },
-  {
-    "ModuleName": "TableView/学生表视图",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T17:37:39.1451536+08:00",
-    "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\学生表视图.json"
-    ]
+    "ModuleType": 23
   },
   {
     "ModuleName": "TableView/_",
@@ -196,32 +165,14 @@
   },
   {
     "ModuleName": "PCPage/buildtable_详情页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T17:35:27.9767653+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/buildtable_列表页面",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T17:35:27.9767653+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "TableView/学生表视图111",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-23T17:38:05.3182227+08:00",
     "ModuleType": 23
   }
 ]
