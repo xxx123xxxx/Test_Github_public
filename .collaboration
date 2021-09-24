@@ -162,5 +162,15 @@
     },
     "LockDateTime": "2021-09-24T17:24:59.8782595+08:00",
     "ModuleType": 23
+  },
+  {
+    "ModuleName": "Table/a",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T17:25:52.2494858+08:00",
+    "ModuleType": 7
   }
 ]
