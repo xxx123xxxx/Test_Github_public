@@ -148,5 +148,15 @@
     "ModuleName": "TableView/视图1",
     "ModuleType": 23,
     "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/表77",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T17:10:11.7383599+08:00",
+    "ModuleType": 7
   }
 ]
