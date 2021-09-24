@@ -185,5 +185,25 @@
     "ToRemoveFiles": [
       "Tables\\视图8.json"
     ]
+  },
+  {
+    "ModuleName": "PCPage/视图8_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T16:11:30.0734702+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/视图8_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T16:11:30.0734702+08:00",
+    "ModuleType": 1
   }
 ]
