@@ -141,20 +141,58 @@
   },
   {
     "ModuleName": "Table/aaa",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T17:12:04.0097979+08:00",
     "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\aaa.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "TableView/视图1",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T17:12:04.0097979+08:00",
     "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\视图1.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/rfdgdg",
-    "ModuleType": 7
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T17:12:04.0097979+08:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\rfdgdg.json"
+    ]
   },
   {
     "ModuleName": "TableView/视图20",
-    "ModuleType": 23
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T17:12:04.0097979+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\视图20.json"
+    ]
   }
 ]
