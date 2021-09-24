@@ -905,16 +905,7 @@
   },
   {
     "ModuleName": "PCPage/条件格式",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\ZoeyHe",
-      "Email": "zoey.he@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T17:42:27.1343814+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\zoey\\导入文件夹1\\条件格式.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "PCPage/页面容器",
