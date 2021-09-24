@@ -178,6 +178,25 @@
   },
   {
     "ModuleName": "TableView/view1",
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T16:34:29.7903175+08:00",
+    "ModuleType": 23,
+    "ToRemoveFiles": [
+      "Tables\\view1.json"
+    ]
+  },
+  {
+    "ModuleName": "TableView/aaa",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\NancyYang",
+      "Email": "Nancy.yang@grapecity.com"
+    },
+    "LockDateTime": "2021-09-24T16:34:29.7903175+08:00",
     "ModuleType": 23
   }
 ]
