@@ -141,42 +141,18 @@
   },
   {
     "ModuleName": "Table/table",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T16:52:25.6240787+08:00",
     "ModuleType": 7
   },
   {
     "ModuleName": "Tables/导入文件夹1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T16:52:25.6240787+08:00",
     "ModuleType": 22
   },
   {
     "ModuleName": "TableView/ddd",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T16:52:38.0402279+08:00",
     "ModuleType": 23
   },
   {
     "ModuleName": "TableView/aaaa",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T16:54:16.9465923+08:00",
     "ModuleType": 23
   }
 ]
