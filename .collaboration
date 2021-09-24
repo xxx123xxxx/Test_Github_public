@@ -140,19 +140,6 @@
     "ModuleType": 26
   },
   {
-    "ModuleName": "TableView/视图9",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T15:06:47.7085314+08:00",
-    "ModuleType": 23,
-    "ToRemoveFiles": [
-      "Tables\\视图9.json"
-    ]
-  },
-  {
     "ModuleName": "Table/date",
     "ModuleType": 7
   },
@@ -179,12 +166,6 @@
   },
   {
     "ModuleName": "TableView/视图10",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T15:05:48.6676475+08:00",
     "ModuleType": 23
   }
 ]
