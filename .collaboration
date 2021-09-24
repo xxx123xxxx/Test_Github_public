@@ -145,12 +145,6 @@
   },
   {
     "ModuleName": "Table/班级表视图",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T17:37:27.3371973+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   }
