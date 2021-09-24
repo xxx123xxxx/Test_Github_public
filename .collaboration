@@ -141,12 +141,6 @@
   },
   {
     "ModuleName": "TableView/aaa",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T17:20:29.9885416+08:00",
     "ModuleType": 23
   }
 ]
