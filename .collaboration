@@ -144,36 +144,6 @@
     "ModuleType": 23
   },
   {
-    "ModuleName": "TableView/视图8",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T17:24:43.9435247+08:00",
-    "ModuleType": 23
-  },
-  {
-    "ModuleName": "TableView/视图7",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T17:24:59.8782595+08:00",
-    "ModuleType": 23
-  },
-  {
-    "ModuleName": "Table/a",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T17:25:52.2494858+08:00",
-    "ModuleType": 7
-  },
-  {
     "ModuleName": "Table/班级表视图",
     "State": 3,
     "LockedBy": {
