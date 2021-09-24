@@ -33,16 +33,7 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T17:45:54.1191029+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
@@ -95,15 +86,6 @@
   },
   {
     "ModuleName": "Table/a",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\NancyYang",
-      "Email": "Nancy.yang@grapecity.com"
-    },
-    "LockDateTime": "2021-09-24T17:45:22.6694626+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\a.json"
-    ]
+    "ModuleType": 7
   }
 ]

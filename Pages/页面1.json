@@ -5,16 +5,168 @@
   "Cols": {
     "Count": 60
   },
-  "StyleDatas": {
-    "Types": {
-      "Strs": [
-        "Body"
-      ]
+  "AttachInfos": {
+    "2,1": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "班级表视图",
+        "RowIndex": 2,
+        "ColumnIndex": 1,
+        "ColumnCount": 27,
+        "RowCount": 13,
+        "ColumnOperation": 2,
+        "ShowGridLine": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "Name": "表格1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
     },
-    "SheetStyle": {
-      "FontFamily": 0
+    "3,1": {
+      "BindingInfo": {
+        "TableName": "班级表视图",
+        "ColumnName": "ID"
+      }
+    },
+    "3,5": {
+      "BindingInfo": {
+        "TableName": "班级表视图",
+        "ColumnName": "FGC_Creator"
+      }
     }
   },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderTop": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderTop": 0
+      },
+      {
+        "BorderTop": 0,
+        "BorderRight": 0
+      },
+      {
+        "BorderLeft": 0
+      },
+      {
+        "BorderRight": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderLeft": 0
+      },
+      {
+        "BorderBottom": 0
+      },
+      {
+        "BorderBottom": 0,
+        "BorderRight": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "DarkGray",
+        "Body"
+      ],
+      "Borders": [
+        {
+          "Color": 0
+        }
+      ]
+    },
+    "CellStyles": {
+      "2,1": 0,
+      "2,2": 1,
+      "2,3": 1,
+      "2,4": 1,
+      "2,5": 1,
+      "2,6": 1,
+      "2,7": 1,
+      "2,8": 1,
+      "2,9": 1,
+      "2,10": 1,
+      "2,11": 1,
+      "2,12": 1,
+      "2,13": 1,
+      "2,14": 1,
+      "2,15": 1,
+      "2,16": 1,
+      "2,17": 1,
+      "2,18": 1,
+      "2,19": 1,
+      "2,20": 1,
+      "2,21": 1,
+      "2,22": 1,
+      "2,23": 1,
+      "2,24": 1,
+      "2,25": 1,
+      "2,26": 1,
+      "2,27": 2,
+      "3,1": 3,
+      "3,27": 4,
+      "4,1": 3,
+      "4,27": 4,
+      "5,1": 3,
+      "5,27": 4,
+      "6,1": 3,
+      "6,27": 4,
+      "7,1": 3,
+      "7,27": 4,
+      "8,1": 3,
+      "8,27": 4,
+      "9,1": 3,
+      "9,27": 4,
+      "10,1": 3,
+      "10,27": 4,
+      "11,1": 3,
+      "11,27": 4,
+      "12,1": 3,
+      "12,27": 4,
+      "13,1": 3,
+      "13,27": 4,
+      "14,1": 5,
+      "14,2": 6,
+      "14,3": 6,
+      "14,4": 6,
+      "14,5": 6,
+      "14,6": 6,
+      "14,7": 6,
+      "14,8": 6,
+      "14,9": 6,
+      "14,10": 6,
+      "14,11": 6,
+      "14,12": 6,
+      "14,13": 6,
+      "14,14": 6,
+      "14,15": 6,
+      "14,16": 6,
+      "14,17": 6,
+      "14,18": 6,
+      "14,19": 6,
+      "14,20": 6,
+      "14,21": 6,
+      "14,22": 6,
+      "14,23": 6,
+      "14,24": 6,
+      "14,25": 6,
+      "14,26": 6,
+      "14,27": 7
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Spans": [
+    "4,1,11,27",
+    "3,1,1,4",
+    "2,1,1,4",
+    "3,5,1,6",
+    "2,5,1,6"
+  ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
     "AuthorizeInfo": {
@@ -27,4 +179,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//d74iqvwjYmCSCpj/VEa4mgTef28VWhnY71ilrGL/SObE8nh6Kxro9aoWxXbarN74HgOz5HIhW+hNFvCpvVAJ+dQmAGQ8sf2p4NWqjYXaK/hSQB9mn3XfOYard7scYjbhUSIs4ZjNTswKZXqyqyV36JDgaqiPBaa+QBrovYq+wcl8W/dPa/CSFHrvvR4RLKm0vLoWfV8t8/6mhNLWgr+mXHuBwjGsaCmXnayKh16ymfPRUXxAqPLKRgfWlWcLPAFb488yeMV3wQ1odBi/sn5SFlva4bjS/THyyum24Jm3rfumurwsrm+h8U9MwlDSgJWAYvoOBDlDGE3mlzgwajsPplIOdjL3fIT5yBEr+dhchx0o0+7oEmqWtzWCzEwXkEr7cOgENrJMiXQj/pGjB0iCjiYbYPGDKWc3IJWkgjywH+KwgdH4Be0GM4IzLJEjjpmIEGKB9PbhWnZLQI2/2t9UzFc+xQfnoKnap5UQN9EO+XrD8yISHiIZRsCRvRGd+OplulWz4gj2i6MJRRYv85ZZ6Wt2fg1T7Y1cZZ7w7K2lLowq1BLfb0RtRYc0FImH+fmPn9xSeMN2hGfSJDaAF83dlwiIkW3njuuyzBtx24cJI+3AZ8RsppD8MkUvpriIS8+v9JqlW/X++rYWKDBeHbj/Bx+DsePpAu7XcNmSOif82RcP7qo/8t+FyI1yYnX47bhUphg3wTY6yfgSjRGtYiqBdbyXJnP/3uVi6FARYl3wB8hyPiqtGY8+gkGku/NZnRQ10C4ZEG6gzHQkBXjy7rWYiqzwOiNuCYHwHZ1JYe3rJyA/1R9K2OZ1Pr4TZPh1FS4M5GbV9SNJDSna8MI6yxj8B/+I4Uadnd1y++XXPts6NOzK01pBn38tiGT/Jk3VJplgkQyH1XGPKQU/+1/KtOcTUw==|920
+}//vsfPSvhDQItp4sCbA4WJA48b1Bw8bru5k3fF8viu69UngWzPxiBveUnS2fv/B0IJkGs+jEli4OV0aVIkcSv9r1s9Xbuf7i0FlomvYKsdfAaXnQ/0Zmc3gPGiZY+1VB/CumSdaGKp046yYsHbDZ+YvVlwvYWemscj0RRVC++r6lgpc8x1A7tsfBsJY17zh0bCJ4yeB0YZsGhPtebDREzZQoZqO2QFqCze6i2CgItE5QKvoekN0sLqxjlp9D5RM8/f0L2kv5Rb+rKCCLdEMD9mcXqWPccAHOUT0dNOf2H/jNakNBOp8s8A8bWYSCMC197yrLki/7GQdN0MRW90FZa4ubPkKdpBteQacf+68FQJwk45dK6JtZ+wF/gBrs80lcsyQfvUiK6eDbl5M35K1D4/MmK4AWn6uxgUFTtVuY+o4lboTvlN1FP9774sFhvOnYLuuCUKsMFkuI10swpY1Vz3tXkqRf/IVNMerCtYhuFbjqxZ+P8H6djWieu9nTzVmTAn3LckK5OWHMqL+DQrVv4qWUAmpeWaBGihZVsOhvKmZGVXAJwYZ/6bK0opreo1nWKdieTX5d+FBmXoi/PT6e4c5SUa5nUDCg9qo8rmK8wumhN/l6PhGYR9cLo3sVriKcUYFE+jPPgA6OL1JuDhT/iAPFIJLtOQylMEI1SHeJTQl3R5KUTrklWVJWc3h5pFOhZE91+2tZOfvNnPwoG/+EIuARZuyqkPHv+NvcIXOQyBiiO0Ytg/BbH8l1+RA4nHBHP3sDBJ4T1e+LWLmUHBDyIvYHJ6mBWl7MaCfp8qDtNNtZipD4RBTf/+7aMtWcPXKjoVk+CJ6Hrrh/WCqe9YnmmrqhE9FqtNTVfyxmyhQ1tNQmYySJbAaLmppHPKn8ynI+fUGwGC6FRlsmAZjAwBTm3QFw==|920
