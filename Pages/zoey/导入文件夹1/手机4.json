@@ -6,6 +6,7 @@
     "Count": 18
   },
   "Values": {
+    "9,15": "http://xa-dd3-zoeyhe1/icon",
     "22,5": "111",
     "22,12": "111"
   },
@@ -28,7 +29,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -57,7 +58,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -84,7 +85,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -110,7 +111,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -132,7 +133,7 @@
               {
                 "TargetCells": {
                   "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                  "SerializeProperty": "='手机 (3)'!A1,'手机 (3)'!E1,'手机 (3)'!I1,'手机 (3)'!M1,'手机 (3)'!A4,'手机 (3)'!E4,'手机 (3)'!I4,'手机 (3)'!M4,'手机 (3)'!A7,'手机 (3)'!I7,'手机 (3)'!A18,'手机 (3)'!I18,'手机 (3)'!I20,'手机 (3)'!A20,'手机 (3)'!A25"
+                  "SerializeProperty": "=手机4!A1,手机4!E1,手机4!I1,手机4!M1,手机4!A4,手机4!E4,手机4!I4,手机4!M4,手机4!A7,手机4!I7,手机4!A18,手机4!I18,手机4!I20,手机4!A20,手机4!A25"
                 },
                 "PropertyType": 3,
                 "Value": "Accent 6 60"
@@ -166,7 +167,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -200,7 +201,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -227,7 +228,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -253,7 +254,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -275,7 +276,7 @@
               {
                 "TargetCells": {
                   "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-                  "SerializeProperty": "='手机 (3)'!A1,'手机 (3)'!E1,'手机 (3)'!I1,'手机 (3)'!M1,'手机 (3)'!A4,'手机 (3)'!E4,'手机 (3)'!I4,'手机 (3)'!M4,'手机 (3)'!A7,'手机 (3)'!I7,'手机 (3)'!A18,'手机 (3)'!I18,'手机 (3)'!A20,'手机 (3)'!I20,'手机 (3)'!A25"
+                  "SerializeProperty": "=手机4!A1,手机4!E1,手机4!I1,手机4!M1,手机4!A4,手机4!E4,手机4!I4,手机4!M4,手机4!A7,手机4!I7,手机4!A18,手机4!I18,手机4!A20,手机4!I20,手机4!A25"
                 },
                 "PropertyType": 0,
                 "Value": false
@@ -379,7 +380,7 @@
         "Rules": [
           {
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
-            "Value": "2_1",
+            "Value": "3_",
             "StyleInfo": {
               "Background": "#FF92D050",
               "Foreground": "#FFFFFF00",
@@ -481,7 +482,7 @@
         "Rules": [
           {
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
-            "Value": "2_1",
+            "Value": "3_",
             "StyleInfo": {
               "Background": "#FF92D050",
               "Foreground": "#FFFFFF00",
@@ -490,6 +491,12 @@
             }
           }
         ]
+      }
+    },
+    "9,15": {
+      "CellType": {
+        "$type": "Forguncy.BarcodeCellType, ServerDesignerCommon",
+        "CodeType": "QRCode"
       }
     },
     "17,0": {
@@ -527,7 +534,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -570,7 +577,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -617,7 +624,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -660,7 +667,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -797,10 +804,8 @@
           {
             "Text": "首页",
             "IconPath": "Mobile/381_home_3.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Application/053_settings_4.svg",
             "IsDefaultItem": true,
             "IsOldMenuPath": false,
@@ -811,10 +816,8 @@
           {
             "Text": "表单",
             "IconPath": "Mobile/383_file_3.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Chart/363_column_chart_2.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -824,11 +827,9 @@
           {
             "Text": "查询",
             "IconPath": "Mobile/442_search_8.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
-            "SelectedIconPath": "Application/046_search_7.svg",
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
+            "SelectedIconPath": "Application/044_search_5.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
               "FGC_Anonymous"
@@ -837,10 +838,8 @@
           {
             "Text": "报表",
             "IconPath": "Chart/363_column_chart_2.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Mobile/383_file_3.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -850,10 +849,8 @@
           {
             "Text": "设置",
             "IconPath": "Application/053_settings_4.svg",
-            "SelectedIconColor": "Background 1",
-            "SelectedIconColorUseItemColor": true,
-            "IconColor": "Text 1 50",
-            "IconColorUseItemColor": true,
+            "SelectedIconColor": "Accent 6 -25",
+            "IconColor": "Accent 5 0",
             "SelectedIconPath": "Mobile/381_home_3.svg",
             "IsOldMenuPath": false,
             "CanVisitRoleList": [
@@ -877,7 +874,7 @@
             "$type": "Forguncy.ConditionFormat.SpecificTextRule, ServerDesignerCommon",
             "Value": {
               "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
-              "SerializeProperty": "='手机 (3)'!$Q$9"
+              "SerializeProperty": "=手机4!$R$10"
             },
             "StyleInfo": {
               "Background": "#FF92D050",
@@ -1398,6 +1395,7 @@
     "22,12,1,2",
     "22,14,1,2",
     "22,16,1,2",
+    "9,15,3,3",
     "21,0,1,2",
     "21,2,1,2",
     "21,5,1,2",
@@ -1420,4 +1418,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//8F+bI10qF5vwdfqx1R0cYuhxCXwk0xG/JTFe8eelfQvS33TQbaJAApqum3AOZ6ys+PxGhunYknBFAkbBUWpF307qNeN4DU1F5ImYy5tSeCyvLj1alqleb+CQYSJ2zFCEG1mYMsmkbQ4mguGfzsiYU9oz3Snr4eM0ayQpE7N5F/WTcnEo8BjNngYWlBUCFZSMnzv2uafHgDOweTJaCw+JXhZ7Brp2RxTe6Botd3Jt0ptZDlu8VroqW7MZQakIse4RKP9oXhz9+oGbfxUXBESgScwvUcWK68t8C5Swkz7wCB8TQ3WfaPNDa9G9ktey+11nx7v8Z9+Z59vn1JUDQvm64CT3APSvrBk6EQfOB+qGAohnRpyqho3EfG0cUBO25SQL5b+Hr+shcB2BmzMEGN2vf2fDD03v5HPnqp8SYcX3Ff4z2Zo8eiWX2O7wgzk8SFncuS4cocrO2syfcthXXa6f0N6rOcfpWk9HL64R/72EKfFWIwy/tCy40rvXYlf2hGQHY4/SgMmib4G+lkv22Tkxv+RMg5nlvFEVKhF1NL8G6OS8/gASpqJ+X6W/QD9PBTjeZD45Z5oFvN4hBi+zkSKtAYyDQ1nGEsZjbo+9RyU7aWwY+DOF2r8w4eDWZQYujHL6Obw06WTOj7ZW156b1l1d17Hsxn67NAC7ZXWXJNVBD58NLV5xtDUKZKstb1A0mVCcBUjGhsmkTlJehvuzy2wml8soiD/yIfQu9DJeJrWj3wabxeN8sYqKfkVQs1raKLH/wcpUQrnDPOOPb1m0qeJv1Q6kI3nrO15+39Crq44S0iPwr+D5YnZfJtAytUXMRIf7luBUnqS0+CYjzEngFXM3bNsiz6wlJ/s2G7i1X/sZ+kiLbQkVovmbjfEHG/0+Lfr+vugFxmyo22yy9B8L/noHug==|920
+}//VRjXm31WuDjrei8LLRYXT6SjIgNrMyrfEnuzUkfbQhKjL9Bt/YiHAr/A+4CDQP3/Md4XiCprdXxhcvxOViqSpPewV5vyE3owFrZYq3HgMltqEtuNvkDNh/Mfbrad1TRjo5zhtZj8AEJlb0XOfe+xeVkuw387d9jKrnARNPyvRFL7QJNoB8Id1g0fqUmybZKzW7GPEc6ejN/DUgb5S/g5hCYAeWSHTlYYrYQFx5zayIy5eb7a7f6UHlHVYYSduDJZQ3oTI+w9PxK2EhhwqfRw4AKQUC2dDAaqJhdXDF4k2luLaMPJEIopauPWRbqjowXLD6dZmLFZQeV4PGMG97ogNmS83h+kBmk0GL0Rf7pj8C6K3H8QVMFFjV4OhKfgslR+MCf+n5hvBrT+BKwwD/E9KKfWPQLuklJCoz7zl94VOsHgJ/Jactf0rM17Tk/P0vtmwdK5eTYy05WyCT7BavHV3SYVvjbp1WrC1LfSXOxXqQrwlkoNFYiBwaiAsvJC6KzJ/aFgVjtBo/Kk9tnLq0qXX6j/mEPVFFO7+XUDv4B3MAWKFP0iIIz9Y0Lnm6eeT7IR6lJOEGyl5KYxEgYWqIWzamhA8PeYQ8zYJgzO1nq3bd2pbamgXDMrktdF9JVc9JcUUF6FS5ZzPDnCLmaVEdsKH10XLXgtvAVVGXWu+dbKi2agmtdBiYnHydUIc/xOe2cv792+qmS1etUvi+vyOr+5HGkJrhOrRvJAGWIpih0T/4wooXPpISlxI8xETYaTVKtL08FJpAiIfr86OO1lg1loe8WtbzUMpUfua/VSE2F3faCL4+PrsQzB/LpMzVrEmgPrjg2xeCMFjZq6sfn+RnenJAHQhGK8TKZsKasd6PI/hNMkv7tzeQssdVptqFlHLE67jFCEw7mA9SYdotyEcTACIg==|920

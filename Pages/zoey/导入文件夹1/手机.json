@@ -585,6 +585,13 @@
             "IconColorUseItemColor": true,
             "SelectedIconPath": "Chart/363_column_chart_2.svg",
             "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "手机2",
+                "PassValues": []
+              }
+            ],
             "CanVisitRoleList": [
               "FGC_Anonymous"
             ]
@@ -598,6 +605,13 @@
             "IconColorUseItemColor": true,
             "SelectedIconPath": "Application/046_search_7.svg",
             "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "手机3",
+                "PassValues": []
+              }
+            ],
             "CanVisitRoleList": [
               "FGC_Anonymous"
             ]
@@ -611,6 +625,13 @@
             "IconColorUseItemColor": true,
             "SelectedIconPath": "Mobile/383_file_3.svg",
             "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "PageName": "手机4",
+                "PassValues": []
+              }
+            ],
             "CanVisitRoleList": [
               "FGC_Anonymous"
             ]
@@ -624,6 +645,13 @@
             "IconColorUseItemColor": true,
             "SelectedIconPath": "Mobile/381_home_3.svg",
             "IsOldMenuPath": false,
+            "CommandList": [
+              {
+                "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+                "NavigateType": "back",
+                "PassValues": []
+              }
+            ],
             "CanVisitRoleList": [
               "FGC_Anonymous"
             ]
@@ -1143,19 +1171,19 @@
     "0,15,2,3",
     "3,15,2,3",
     "23,5,1,13",
+    "22,5,1,2",
+    "22,7,1,2",
+    "22,9,1,2",
+    "22,12,1,2",
+    "22,14,1,2",
+    "22,16,1,2",
     "21,0,1,2",
     "21,2,1,2",
-    "22,5,1,2",
     "21,5,1,2",
-    "22,7,1,2",
     "21,7,1,2",
-    "22,9,1,2",
     "21,9,1,2",
-    "22,12,1,2",
     "21,12,1,2",
-    "22,14,1,2",
     "21,14,1,2",
-    "22,16,1,2",
     "21,16,1,2"
   ],
   "PageInfo": {
@@ -1171,4 +1199,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}//kHewNRbhxFkEydTjzpDsoNrLLZ0rXEHfgkuG94ARtR6kk8CcfKb8yJ2U5MI/y5C1W5BI+khNFtNDTCoAxbUOVz30ml85ywaAr1gYY5iqTQyrlKTArm8+C9WkLpmMW2Q2mslfvS+I1FW8TlBG1P6Rh9ScAcNR+ish/K01/2DdSAm1+jkj1l/bu2yf5DVv6vjYsuzYaviAZFxfsMnY6zxg2VqO7boIr9GPlxc5r9vw8gtPP6uwsBO1Q8VPVZZnsJYyDnnujw6yBcqK1OncR3FJFwFfIHHBIxNdpR7bAOk2BMtg9CoHHTRwaZPiMVdjYQcEFyCcFh+5CUjq2a95WOOwVKEzHRij7rMTSUE2YeK9/6ZCQOs1XlP+lyEIHtOX8GwVrI78cQUUTxUTl8QcftWC0037wK/0BPtAY6sXaDb91RtzoMl435Sio587C5egh1igYJTTUJ/bhpqbovG8C2/xQRhqn6L6PLhP8Yln0X1D80d3BHFcEcK+n17qATbSjygtFZ5eNuwNDSsatFpKpwvVCqOTSDO2ancNhS2Cn38u4HIL/7diGYde//V5Nm0ibu5rb+k6613/c5LnHFkaSK/xgi/Ei1Ktd6B0ZBlsv4qlGqfrUF0jAu3rxQ1144QJ9ILnhwbGZZZH5Gy9Ko0NzVxGppA5c7kOUlcaqXKNH9+UkxDfNhV2KaN3h3YR8LbzCfg1l1WCIveqnJEoTJ82SmDZDnurnfJC2K7JHuOnU0SY09H6k2J+jLU+Vd199JPM/YbULuzU4ZGK2+Ma8qNpsQukNlHUVSepwymlAYHGE8CKB5+rIEgk5xEdmu+UOeH2Lvytj3ZY3eFczLeSe/60RIBlyzXLPMZSv4iW9zES6vlZwe4ZSvnAayzrfoxr/W16dU77l5sabxFIbqElY4yfY04WAg==|920
+}//1gVQEbxGZQxWWe2YGyAnZJeAX4f9JauPCxXHPRP7P/dNWAQ2GwlFQcpsVJDw59qNTtpPKg/2f2gutj0/Z6rzrk9GQn5q44UXtgwm/Z2FqM2SHviLQ5xoy1a7wsC+ZHIozIOmLvHs3gTIXIK6zo2TaeRNMPDUZLhUZZs7Ye7mGzCY0TKTHX7Zdi3C3zAzh7UBIRh+L0nXD72akBfDG3Y08jwQUBwz7PCCtVlJ/LGeSPqaM5ITliZXMzfABIJnhVuo+CsKVsBQCCcJl+m2esS5ZoL4jIinki0/JkeirfyixOX61ecHYZKMoWFrwe4mvfVRXh1RNGhAd6huEbSHCQbXyveS7mJS2MTa5f5d7XZ97CrK5nb74e2F8uZUmIvzss6RZmunrKU5VT78ClXqBlxxpFLfzMw/EZMuYRoIdzuDNwsA5ax/oMumaGNcY/DTan4KgYmzeQb52nYteheNeYGKfvSPRMMKIhnxOfLVURzKLZFMc4DBAc+XLnUOKD14CmcU7TYnvuVopj43zdIOzlf3tjL3EVZ96GmCIccjWCIIUxEqY0bAWLOu5+9ZO+2ZYv1xrWxpUnj20+2IRREczGW8ALPr3xAmhfW2/fq2ESnFqEGTV2JUX7onTF3G3CR1V0IJcCBMyZa4PBeSDr+OVdDqyl9CTvAn5f/ogY+mQ2AfvTY53w16WO2L2z0JVFSGMN6SpEbegQ3RivdXCLL/7EufVk9x++X8OcCwYUK3ejays18YW4HnxV82NkJ0b9/ytNM/1kTS5Rh9B+KEA/kuspqh1UpqiOWFlQJ6dnu9szPLbJ+AI5oTBEfSxBfMma0huFNXN2LvaB2cAeFylwd3W7A/8vpVXBfiPqJTvh6bEwmDTzFmf3ARKNMWDMLn4662sHMt92J/iqckKLzp+YPOPrgTWA==|920
