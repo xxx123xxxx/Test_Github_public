@@ -930,7 +930,17 @@
   },
   {
     "ModuleName": "PCPage/图文列表 (2)",
-    "ModuleType": 1
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T09:38:50.6184987+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\导入文件夹1\\图文列表 (2).json",
+      "Pages\\1cf8fea4-849e-4d77-bb1c-c3dfffb69004.json"
+    ]
   },
   {
     "ModuleName": "MobilePage/手机",
@@ -1016,6 +1026,16 @@
       "Email": "zoey.he@grapecity.com"
     },
     "LockDateTime": "2021-09-26T09:38:33.5587585+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/图文列表2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T09:38:50.6184987+08:00",
     "ModuleType": 1
   }
 ]
