@@ -1014,7 +1014,16 @@
   },
   {
     "ModuleName": "MobilePage/手机 (4)",
-    "ModuleType": 2
+    "State": 2,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T09:39:30.2376893+08:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\导入文件夹1\\手机 (4).json"
+    ]
   },
   {
     "ModuleName": "MobilePage/页面容器p1",
@@ -1027,7 +1036,7 @@
       "UserName": "GRAPECITY\\ZoeyHe",
       "Email": "zoey.he@grapecity.com"
     },
-    "LockDateTime": "2021-09-26T09:39:18.6720735+08:00",
+    "LockDateTime": "2021-09-26T09:39:30.2376893+08:00",
     "ModuleType": 2,
     "ToRemoveFiles": [
       "Pages\\zoey\\导入文件夹1\\选项卡p1.json"
@@ -1061,7 +1070,16 @@
   },
   {
     "ModuleName": "MobilePage/页面容器p4",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T09:39:30.2376893+08:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\zoey\\导入文件夹1\\页面容器p4.json"
+    ]
   },
   {
     "ModuleName": "PCPage/页面容器2",
@@ -1101,6 +1119,16 @@
       "Email": "zoey.he@grapecity.com"
     },
     "LockDateTime": "2021-09-26T09:39:18.6720735+08:00",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/手机4",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\ZoeyHe",
+      "Email": "zoey.he@grapecity.com"
+    },
+    "LockDateTime": "2021-09-26T09:39:30.2376893+08:00",
     "ModuleType": 2
   }
 ]
